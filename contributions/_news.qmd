@@ -1,0 +1,74 @@
+::: {.section_bulletin}
+# NEWS FROM THE WORLD {#sec-news}
+[Déborah Sulem](deborah.sulem@usi.ch){style="color:white; text-align: center;"}
+:::
+
+::: {.column-margin}
+![](images/deborah.png){style="float:center;vertical-align:middle;
+margin:10px 20px;border-radius: 10px;max-width: 100%;"}
+:::
+
+:::{.justify}
+
+#### Q\&A: what do you \st{believe} think?
+
+**How has your research evolved along your career? And why?**
+
+_Christian Robert (Université Paris-Dauphine)_ 
+
+Unsurprisingly, as for most researchers, the actual switches in my
+research themes have been primarily driven by chance encounters, rather than by deliberate choices to drift away from theoretical decision theory towards computational interests. 
+
+For instance, while I was contemplating a PhD topic involving differential geometry, with an offer from a top researcher in Paris, I happened to meet Jean-Pierre Raoult, a professor in Rouen, Normandy, working on James-Stein estimation, who shared his enthusiasm well-enough for me to work under his direction, despite facing a one-hour train commute to Rouen. It gave me the opportunity to collaborate with several lecturers, which would have been unlikely in a Paris lab. And, since the topic was far from popular with the---then mostly anti-Bayesian---French statistics community at the time, this choice made me seek a postdoctoral position in the USA, where I ended up working with Bayesian luminaries at Purdue University, then Cornell University, with a strongly influential impact on my career.
+
+Similarly, at the end of my postdoc, I happened to attend a Bayesian workshop in Sherbrooke when Adrian Smith gave one of his very first lectures on Gibbs sampling, pushing me (and others) to adopt this new paradigm for computational statistics. Working on mixtures stemmed both from my wife's Master thesis on image analysis and from meeting Mike Titterington at a workshop in Marseille. And engaging into ABC research followed from population geneticists from Montpelier contacting Jean-Michel Marin and I to join a grant proposal that was funded and resulted in more than ten years of collaboration. 
+
+At last, and not least, my current entry into Bayesian privacy mostly came from Eric Moulines and Michael Jordan leading us to apply for an ERC Synergy grant on federated learning, which again proved successful.
+
+
+
+### Upcoming Meetings, Conferences, and Workshops
+
+#### ISBA sponsored or endorsed events
+
+- [2025 Objective Bayes (O'Bayes) Methodology Conference](https://obayes25.aueb.gr/), 8 -12 June 2025, Athens, Greece. This biennial meeting is organised by the Objective Bayes section of ISBA. Information about the conference is available on the website and the registration is now open on [the website](https://obayes25.aueb.gr/registration.html). The conference will feature invited presentations and discussions by several experts in Objective Bayes methodology. It will also feature contributions in the form of poster presentations. The deadline for poster proposals is February 28, 2025. Junior participants are eligible for travel grants that could provide (at least partial) support. Please have a look at the corresponding section on the webpage for instructions on
+submitting poster proposals.
+
+- [15th RCEA Bayesian Econometrics Workshop](https://www.rcea.world/events/forthcoming-events/the-15th-rcea-bayesian-econometrics-workshop), 9-10 June 2025, Faculty of Social Sciences and Law at Atlántico Medio University, Gran Canaria, Spain.  
+
+- [East Asia Chapter of the International Society for Bayesian Analysis (EAC-ISBA) Conference 2025](https://eacisba2025.knu.ac.kr/), 4-5 July 2025,  Kyungpook National University,  Daegu, Republic of Korea.
+
+
+- [European Seminar on Bayesian Econometrics (ESOBE) 2025](https://mbs.edu/events/2025-08-26-the-european-seminar-on-bayesian-econometrics), 26-27 August 2025, University of Melbourne, Australia. Paper submission is open until March 31. The University of Melbourne is also funding travel awards. 
+
+- [Bayesian Macroeconometric Modelling Workshop](https://economics.uq.edu.au/event/14276/bayesian-macroeconometric-modelling-workshop), 31 August - 1 September, University of Queensland, Australia.  Paper submission is open until March 31 and selected papers will appear as a volume in Advances in Econometrics: Bayesian Macroeconometric Modelling. The workshop will be preceded by a short course on Bayesian methods for empirical macroeconomics by Gary Koop.
+
+- [SISBayes 2025 Workshop](https://sisbayes2025.stat.unipd.it/), 4-5 September 2025, Department of Statistical Sciences of the University of Padova, Italy. This workshop is organised by the Bayesian group of the Italian Statistical Society. The workshop will consist of two Foundational Lectures delivered by Guido Consonni (Università Cattolica di Milano) and Sonia Petrone (Università Bocconi), two Keynote presentations delivered by Serena Arima (Università del Salento) and Tommaso Rigon (Università di Milano Bicocca), six invited sessions, and a contributed poster session. The deadline for poster submission and for early-bird registration fees is 2 May 2025. 
+
+
+- [Theory and Practice of Bayesian Hypothesis Testing: A Hybrid JASP Workshop](https://jasp-stats.org/workshop/), 3-4 July, 2025, in Amsterdam, The Netherlands. This workshop can be attended both on-site in Amsterdam or online. The main purpose of this workshop is to familiarize participants with key Bayesian concepts in hypothesis testing. Concrete examples illustrate how to compute, report, and interpret Bayesian hypothesis tests for popular statistical models such as correlation, regression, t-test, ANOVA, and contingency tables. To facilitate the learning process we use JASP, a program whose attractive graphical user interface allows us to focus on core Bayesian concepts and principles. For details, please visit the [workshop website](https://jasp-stats.org/workshop/).
+
+
+
+#### And don't forget:
+
+- [14th International Conference on Bayesian Nonparametrics (BNP 14)](https://bnp14.org/), 23-27 June 2025, UCLA, Los Angeles, US. The Tentative Program is now available, and registration is open! The regular registration deadline is set to 30 April, 2025. The conference will be followed by the inaugural [BioPharm Section Meeting (BBP 2025)](https://bnp14.org/bbp2025/).
+
+- [Bayesian Inference in Stochastic Processes (BISP14)](https://bisp14.imati.cnr.it/), 26-28 May 2025, Milan. 
+
+-  [Bayes Comp 2025](https://bayescomp2025.sg/),  16-20 June 2025, National University of Singapore, Singapore. 
+
+
+#### Other events
+
+
+- [14th International Conference on Extreme Value Analysis (EVA2025)](https://eva2025.unc.edu/), 23-27 June 2025, University of North Carolina at Chapel Hill, USA. Registration is open until April 30.
+
+- [$8^{th}$ Symposium on Games and Decisions in Reliability and Risk (8GDRR)](https://dec.unibocconi.eu/8GDRR), 28-30 May 2025, Bocconi University, Milan. 
+
+- [StatML and Bocconi Spring School](https://statml.io/index.php/statml-bocconi-spring-school-2025-uk-edition/), 7-11 April 2025, Windsor, UK.
+
+- [Joint Statistical Meeting (JSM) 2025](https://ww2.amstat.org/meetings/jsm/2025/), 2-7 August, Nashville, USA. 
+
+- [$65^{th}$ ISI World Statistics Congress 2025](https://www.isi-next.org/conferences/isi-wsc2025/), 5-9 October 2025, The Hague, Netherlands. Abstract for contributed talks can be submitted from April 15$^{th}$.
+:::

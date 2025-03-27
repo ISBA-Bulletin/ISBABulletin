@@ -1,0 +1,29 @@
+:::{.section_bulletin}
+# UPDATES FROM BA {#sec-ba}
+[Igor Prünster](mailto:igor.pruenster@unibocconi.it){style="color:white; text-align: center;"}
+:::
+
+
+::: {.column-margin}
+![](images/igor.jpg){style="float:center;vertical-align:middle;
+margin:10px 20px;border-radius: 10px;max-width: 100%;"}
+:::
+
+<br>
+
+:::{.justify}
+Bayesian Analysis has been a remarkable success story since its inception in 2004. As the flagship journal of ISBA, it has provided a high-quality and fully open-access outlet for the dissemination of Bayesian ideas, covering theory, methods, and applications. The journal continues to attract a high volume of submissions, with almost 300 received in 2024. A defining characteristic of Bayesian Analysis, much like ISBA itself, is its global dimension. In the past three years, papers published in the journal have included authors affiliated to institutions from 30 different countries. 
+
+Although bibliometric indicators should be taken with caution and not over-interpreted, they do offer some perspective on the journal’s reach and influence. For 2023, Bayesian Analysis achieved an Impact Factor of 4.9, ranking 6th out of 168 journals in the Statistics & Probability category. The Article Influence Score was 2.821, ranking 12th in the same category. Notably, if we exclude survey, software, and econometrics journals, Bayesian Analysis ranks first in terms of Impact Factor and 5th in Article Influence Score, right behind Annals of Statistics, JRSS-B, JASA, and Biometrika. More generally, the journal remains in the first quartile across virtually all bibliometric indicators.
+
+It is a great honor to serve as the new Editor-in-Chief of Bayesian Analysis. I would like to express my deep gratitude to Mark Steel for his outstanding leadership during his term and for his generous help in ensuring a smooth transition. The journal’s success is a testament to his efforts, as well as those of the previous Editors-in-Chief and their Editorial Boards. Credit is also due to the ISBA leadership at the time of the journal’s founding, who made the visionary decision to establish Bayesian Analysis as a fully open-access journal. ISBA fully supports Bayesian Analysis as an open-access journal and contributes to the payment of its publication fees. These per-page fees cover all aspects of the publishing process, including platform management, manuscript editing, and website maintenance. To ensure the journal’s sustainability, I encourage all members to consider contributing to these costs when renewing their ISBA membership or upon paper acceptance.
+
+In line with BA’s tradition, the Editorial Board has been substantially renewed to ensure it continues to represent the broad and evolving spectrum of research topics at the forefront of Bayesian statistics, while also supporting a healthy rotation. The new board consists of 11 Co-Editors and 50 Associate Editors. In shaping the new board, I sought to maintain continuity, while also strengthening the representation of Asia to reflect its increasing in the Bayesian community.
+I extend my sincere thanks to the outgoing Co-Editors, Petros Dellaportas, Gonzalo García-Donato, Thanasis Kottas, Eduardo Gutiérrez-Peña, Mario Peruggia, and Judith Rousseau, for their dedicated service over the years. At the same time, I am pleased to welcome the new Co-Editors: Ismaël Castillo, Nicolas Chopin, Michael Daniels, Long Nguyen, David Nott, and Yanxun Xu. I am also deeply grateful to the outgoing Associate Editors for their contributions. Space constraints prevent me from mentioning everyone by name, but I extend special thanks to Abel Rodriguez, Marco Ferreira, and Gabriel Huerta for their extraordinary service of 12 years or more. The full new editorial board can be found at [this link](https://www.e-publications.org/ims/submission/BA/help/about/).
+
+The March issue of Bayesian Analysis is now available on the journal’s website. Among many excellent contributions, it features a discussion paper titled _"Sparse Bayesian Factor Analysis When the Number of Factors Is Unknown"_ by Sylvia Frühwirth-Schnatter, Darjus Hosszejni, and Hedibert Freitas Lopes. This paper has garnered a record 18 discussions, highlighting its broad impact and the dedication of Mark Steel in overseeing its publication.
+
+Looking ahead, my primary goal is to maintain the high quality of Bayesian Analysis. To achieve this, I will need the support of the entire Bayesian community in submitting their best work to the journal. On our side, the new editorial board has committed to upholding more stringent timelines for processing papers. Our objective is to minimize "outliers" at all costs and ensure less variable and more consistent turnaround times, while preserving the high-quality feedback that has long been a hallmark of the journal. I hope that this will further incentivize researchers to consider Bayesian Analysis as the preferred outlet for their top-tier work.
+
+Finally, Bayesian Analysis will continue its tradition of openness, providing full consideration to all papers involving Bayesian ideas. This includes a broad spectrum of contributions ranging from mathematical developments to substantive applications, while being also receptive to hybrid methodologies that combine Bayesian principles with other statistical and machine learning approaches. With help of the Bayesian community I will do my best in trying to further enhance the journal’s excellence. If you have any suggestions, please feel free to reach out!
+:::

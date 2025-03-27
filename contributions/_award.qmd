@@ -1,0 +1,40 @@
+::: {.section_bulletin}
+# AWARDS {#sec-awards}
+[Surya Tokdar and Lucia Paci](mailto: prize-committee@bayesian.org){style="color:white; text-align: center;"}
+:::
+
+::: {.column-margin}
+![](images/tokdar.png){style="float:center;vertical-align:middle;
+margin:10px 20px;border-radius: 10px;max-width: 100%;"}
+![](images/paci.jpeg){style="float:center;vertical-align:middle;
+margin:10px 20px;border-radius: 10px;max-width: 150%;"}
+:::
+<br>
+
+:::{.justify}
+The ISBA Prize Committee and sub-committees have carried out the difficult task of identifying winners and honorable mentions from several nominations for the Savage Award and The Mitchell Prize. This August, the ISBA Awards Ceremony will take place at the ASA SBSS reception in the Joint Statistical Meeting, which will be held in Nashville, USA, during August 2–7, 2025. In this issue, we celebrate the Savage Finalists as well as the 2025 Calls for the Savage Award, the DeGroot Prize, and the Mitchell Prize. 
+
+#### Savage 2024 Award Finalists
+
+In the category of **Applied Methodology**, the three finalists (in alphabetical order of their last name) are: **Nicholas Marco** for the thesis "Mixed Membership Models with Applications to Neuroimaging" (Supervisors: Donatello Telesca); **Mélodie Monod** for the thesis "Bayesian Models and Methods to Estimate Age-specific Infectious Disease Transmission Dynamics: Integrating Disease Surveillance Time Series, Mobility, and Vaccination data" (Supervisors:  Oliver Ratmann and Samir Bhatt); and **Alessandro Zito** for the thesis "Ecological Modeling via Bayesian Nonparametric Species Sampling Prior" (Supervisor: David Dunson). 
+
+In the category of **Theory and Methods**, the two finalists (in alphabetical order of their last name) are: **María Fernanda Gil-Leyva** for the thesis "Stick-breaking processes and related random probability measures" (Supervisor: Ramsés H. Mena); and **Takuo Matsubara** for the thesis "Bridging the gap between modelling and computation in Bayesian statistics" (Supervisor: Chris Oates).
+
+The Savage Award 2024 sub-committees comprised Veronica Berrocal (Chair), Roberta De Vito, Dani Gamerman, Clara Grazian, Andrew Holbrook, Juhee Lee, and Andrew Zammit-Mangion, for the category of Applied Methodology; and Marta Catalano, 
+Peter Hoff, Jaeyong Lee (Chair), Kyungjae Lee, Feng Liang, Depdeep Pati, and Yanxun Xu, for the category of Theory and Methods. The Prize Committee is grateful for the timely and thorough review carried out by both sub-committees.  
+
+The Savage finalists’ presentations have been scheduled on Monday, August 4, 2025, 10:30 AM - 12:20 PM at the Joint Statistical Meetings (JSM), to be held in Nashville, USA. You are invited to attend, and we hope to see many of you there! 
+
+#### 2025 DeGroot Prize, Mitchell Prize, and Savage Award Call
+The Prize Committee of ISBA is pleased to announce the 2025 DeGroot Prize, Mitchell Prize, and Savage Award. The deadline to submit nominations for these awards is May 31st, 2025.
+ 
+**The DeGroot Prize** is awarded to the author (or authors) of a published book in Statistical Science. For details on the DeGroot Prize, including names of past winners and eligibility details, please visit [this page](https://bayesian.org/project/degroot-prize/).  The Prize includes a check for $1500; the winner(s) will be announced during the ISBA World Meeting in Nagoya, Japan, in 2026.
+ 
+**The Mitchell Prize** is given in recognition of an outstanding paper that describes how a Bayesian analysis has solved an important applied problem. The prize includes a check for \$1000 and a plaque; the winner(s) will be announced at the World Meeting in Nagoya, Japan, in 2026. For details on the Mitchell Prize, including names of past winners, eligibility details, and submission information, please visit [this page](https://bayesian.org/project/mitchell-prize/).
+ 
+**The Savage Award**, named in honor of Leonard J. "Jimmie'' Savage, is bestowed each year to two outstanding doctoral dissertations in Bayesian econometrics and statistics, one each in Theory \& Methods and Applied Methodology. Up to two awards of \$1000 will be awarded. Finalists will be notified in mid-December and invited to present their dissertation research at a special contributed session at the ISBA World Meeting in Nagoya, Japan, in 2026. The winners will also be announced in this World Meeting. For details on the Savage Award, including names of past winners, eligibility details, and submission information, please visit [this page](https://bayesian.org/project/savage-award/).
+ 
+Nominations for the Mitchell Prize, Savage Award, and DeGroot Prize may be made by any ISBA or SBSS member. To join ISBA, please go to [this page](https://bayesian.org/membership/joinrenew/). Finally, questions regarding any of the Prizes or Awards may be sent to the ISBA Prize Committee at [this email](prize-committee@bayesian.org).
+:::
+
+

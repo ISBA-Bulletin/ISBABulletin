@@ -1,0 +1,75 @@
+---
+
+---
+
+::: {.columns}
+:::: {.column width="50%"}
+### Executive Committee
+
+**President:** Michele Guindani  
+**Past President:** Aad van der Vaart  
+**President Elect:** Antonio Lioji   
+**Treasurer:** Yanxun Xu  
+**Executive Secretary:** Xinyi Xu  
+::::
+
+:::: {.column width="50%"}
+### Program Council
+
+**Chair:** Sameer K. Deshpande  
+**Vice Chair:** Yang Ni  
+**Past Chair:** Sergios Agapiou
+::::
+
+:::: {.column width="100%"}
+### Board Members
+
+**2025–2027:**  
+Sinead Williamson, Clara Grazian, Sally Paganin, David Rossell
+
+**2024–2026:**  
+Antonio Canale, Daniele Durante, Lucia Paci, Georgia Papadogeorgou  
+
+**2023–2025:**  
+Tamara Broderick, Subhashis Ghosal, Claire Gormley, Matteo Ruggiero  
+
+::::
+:::
+
+---
+
+---
+
+### Editorial Board
+
+::: {.columns}
+:::: {.column width="50%"}
+
+#### Editor  
+**Francesco Denti**  
+[francesco.denti@unipd.it](mailto:francesco.denti@unipd.it)
+
+::::
+
+:::: {.column width="50%"}
+
+#### Associate Editors  
+
+**Features**  
+*Anton Westveld*  
+[anton.westveld@anu.edu.au](mailto:anton.westveld@anu.edu.au)  
+
+**News of the World**  
+*Déborah Sulem*  
+[deborah.sulem@bse.eu](mailto:deborah.sulem@bse.eu)  
+
+**Teaching Bayes**  
+*Federica Zoe Ricci*  
+[fzricci@uci.edu](mailto:fzricci@uci.edu)  
+
+::::
+
+:::
+
+
+

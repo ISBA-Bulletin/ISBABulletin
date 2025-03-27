@@ -1,0 +1,39 @@
+:::{.section_bulletin}
+# FROM THE PROGRAM COUNCIL  {#sec-pc}
+[Sameer Deshpande](mailto:program-council@bayesian.org){style="color:white; text-align: center;"}
+:::
+
+::: {.column-margin}
+![](images/sameer.png){style="float:center;vertical-align:middle;
+margin:10px 20px;border-radius: 10px;max-width: 100%;"}
+:::
+
+
+#### New Member 
+Yang Ni has joined the Program Council as the new Vice-Chair.
+We are incredibly grateful to Sinead Williamson for her dedication and exceptional service on the Program Council in the past three years and for organizing such a fantastic program at the 2024 World Meeting last year in Venice. Thank you, Sinead, and welcome, Yang!
+
+#### (Co)-sponsorship \& Endorsement Requests
+If you are planning a meeting and would like to request financial sponsorship (or co-sponsorship) or non-financial endorsement from ISBA, please submit your request to the Program Council at [this email address](mailto:program-council@bayesian.org). 
+Detailed information on how to submit requests for sponsorship or endorsement is available at [this link](https://bayesian.org/events/request-sponsorshipendorsement/).
+
+
+#### ISBA 2026 Call for Invited Sessions. 
+
+The 2026 ISBA World Meeting will be held from June 28th to July 3rd, 2026 in Nagoya, Japan. Information about the meeting will be added to [this website](https://isba2026.github.io). Please check the website regularly for updates. 
+
+The Scientific Committee welcomes proposals for Invited Sessions for the 2026 ISBA World Meeting.
+Invited Sessions are 90-minutes long and feature (i) three (3) speakers, an optional discussant, and a session chair; or (ii) a panel discussion with between three (3) and six (6) panelists and a session chair who will moderate the discussion. All invited talks, discussions, and panel discussions are expected to be delivered in-person. Organizers should confirm availability of session participants prior to submitting a proposal.
+
+Please submit proposals using [this form](https://forms.gle/5G3xJWJaaE6QKFbj9). 
+Proposals will be accepted until 11:59pm (Anywhere on Earth) on 6 July 2025. The results will be announced by the end of August, and after that, there will a call for individual contributed oral presentations and posters. You can also access this form from the [meeting website](https://isba2026.github.io).
+
+#### ISBA 2026 Call for nominations for Named Lectures 
+
+The ISBA Program Council and the committee of Named Lectures for the 2026 ISBA World Meeting, announce a call for nominations for lecturers of the Bruno De Finetti and Susie Bayarri Lectures. The deadline to submit nominations for these lectures is Sunday April 15th, 2025.
+
+The [Bruno de Finetti Lecture](https://bayesian.org/project/de-finetti-lecture/) is delivered at the ISBA World Meetings by an outstanding scholar who has provided significant contributions to the advancement of Bayesian Statistics. The lecture was created to honor de Finetti’s influential work and is funded by an endowment created by numerous scholars and Italian institutions to mark the 30th anniversary of his death in 2015.
+
+The [Susie Bayarri Lecture](https://bayesian.org/project/susie-bayarri-lecture/) is delivered at the ISBA World Meetings by an outstanding young researcher who has received a terminal degree in a statistically related field no more than ten years prior to the award's calendar year. Eligibility extensions will be permitted under the following circumstances, which should be outlined in the nomination letter: parental-leave; long-term illness; military, public or civil service; care for a dependent; bereavement. The lecture is named to honor the memory of lifetime member M. J. Susie Bayarri.
+
+Nominations may be made by any ISBA member and should include a nomination support letter. For the Susie Bayarri Lecture nominations should also include the nominee’s CV, specifying the year their terminal degree was awarded. All nominations should be prepared in a single pdf file and sent to the Program Council at [this email address](mailto:program-council@bayesian.org).

@@ -1,0 +1,19 @@
+:::{.section_bulletin}
+# FROM THE EDITOR {#sec-editor}
+[Francesco Denti](mailto:francesco.denti@unipd.it){style="color:white; text-align: center;"}
+:::
+
+::: {.column-margin}
+![](images/fra.png){style="float:center;vertical-align:middle;
+margin:10px 20px;border-radius: 10px;max-width: 100%;"}
+:::
+
+<br>
+
+:::{.justify}
+Welcome to the first issue of the ISBA Bulletin of 2025! I’ll keep this brief, as this edition is packed with important updates and events for the new year. First, I’d like to warmly welcome all our new Board members and thank them for their contributions to this issue.
+
+You may have noticed a refreshed look for the bulletin – a great way to start the new year on the right foot! A huge thank you to Cecilia Balocchi for her valuable input on this. We hope you like it! This is just the first version, and we’d love to hear your feedback, so feel free to share any suggestions with us. For those who prefer the classic format, the good old PDF version is still available – just check the menu on the left.
+
+ISBA Community, stay up to date with all ISBA activities and events (in your preferred format!), and enjoy this issue!
+:::

@@ -1,0 +1,81 @@
+::: {.section_bulletin}
+# REMEMBERING HERMAN K. VAN DIJK (1946-2025)  {#sec-obit1}
+[Sylvia Frühwirth-Schnatter](mailto:sfruehwi@wu.ac.at){style="color:white; text-align: center;"}
+:::
+
+::: {.column-margin}
+![](figures/Picture1.jpg){style="float:center;vertical-align:middle;
+margin:10px 20px;border-radius: 10px; max-width: 100%;"}
+:::
+
+<br>
+
+:::{.justify}
+It is with profound sadness that we announce the passing of Herman K. van Dijk, at the age of seventy-nine, on January 24, 2025, at his home, surrounded by his wife and his beloved family. Herman was a founding member of ISBA and his contributions to Bayesian statistics and Bayesian econometrics during an academic career spanning fifty years have left an indelible mark on our community. 
+
+Herman was born in Groningen (The Netherlands) on January 17, 1947. He received his B.A. in Economics in 1967 and his Doctorandus Degree in Economics in 1969 at the University of Groningen. After receiving a M.A. in Economics in 1972 from the State University of New York at Buffalo, Herman continued his academic career at the Econometric Institute at Erasmus University Rotterdam, where he received a PhD in Econometrics in 1984. In 1993, he was appointed Professor of Econometrics at Erasmus University Rotterdam and played a key role in developing and strengthening the field of Bayesian econometrics, both in The Netherlands as Director of the Tinbergen Institute (1992-1998, 2008-2010) and the Econometric Institute (1998-2003) as well as a very active member of the international Bayesian community.
+
+Herman was exceptional in so many ways. He was a brilliant researcher and made fundamental contributions to simulation-based Bayesian econometric techniques for inference, forecasting and decision analysis, published in several books and more than 200 scientific papers. Founded on his deep knowledge and love of Bayesian methods, Herman was pursuing innovative ideas throughout his entire career, often in new fields. Herman started his career as a true pioneer, being one of very few researchers applying Bayesian inference to relevant problems in economics. Now, fifty years later, Bayesian econometric methods are widespread and commonly used tools for empirical research and decision making in all fields of economics. This is to a large extent due to the computational revolution and the associated development of posterior simulation methods that Herman initiated with his work on Monte Carlo integration in the 1970s and early 1980s. His interest in computational aspects of Bayesian inference continued throughout his career. 
+
+Herman also had a very keen interest in the more mathematical aspects of econometrics. He has many influential contributions on identification and its implications for posterior inference in econometric models, such as models involving cointegration or instrumental variables. In his work, Herman has always been motivated by empirical considerations and the need to move beyond simplifying model assumptions such as linearity and stationarity to achieve good forecast performance. He was one of the first contributors to the Bayesian unit root literature and developed or worked with a range of nonlinear time series models. Herman also recognised the importance and empirical relevance of model combination in forecasting and many of his recent contributions related to this topic. 
+
+Herman was active in research until the end. One of his most recent papers, “Challenges and Opportunities for 21st Century Bayesian Econometrics: A Personal View,” published in Studies in Nonlinear Dynamics and Econometrics in 2024, reflected upon the future usefulness of Bayesian methods in terms of “six societal challenges” which include relevant real world applications such as the climate change, technical challenges such as the need for scalable computational tools, the need for econometric models which allow for posterior and predictive distributions to change over time to the need for high quality Bayesian teaching to produce the future Bayesians who will carry out his ambitious plans for future research.
+
+Herman was far more than just a fine researcher, Herman was also a visionary, energetic and enthusiastic leader, both within, but also outside the Bayesian community. As a founding member of ISBA, Herman played a crucial role in the construction of ISBA during its formation stage. His diplomatic skills were instrumental in building a bridge between more statistically oriented Bayesians and Bayesian econometricians. Herman also served as Founding Program Chair for EFaB, the ISBA Section on Economics, Finance, and Business, founded in 2012 with Mike West serving as Founding Chair. It was Herman, who suggested to broaden the scope of this section which originally was indented to focus only on Finance and Business.
+
+Herman was also the founding chairperson of ESOBE, the European Seminar of Bayesian Econometrics, initiated as a European counterpart of SBIES, the famous annual Seminar on Bayesian inference in Economics and Statistics started by Arnold Zellner in the 1970s. ESOBE started in 2010 to organize a highly successful annual conference and promotes Bayesian econometrics in academia and professional organizations. This initiative provides an important bridge between Bayesian statistics and Bayesian econometrics and many prominent ISBA members have been keynote speakers at ESOBE conferences. Herman remained on the ESOBE board until the end and was a regular participant and lively interlocuter at the ESOBE conferences. The last time many of us saw him was at ESOBE in Örebro (Sweden) in August 2024 where he was his usual energetic self. None of us who attended the meeting will forget his insightful comments and questions that he would make during every presentation.
+
+Throughout his career, Herman received many honours and awards from ISBA. In 1986, Herman was co-winner of the Savage Award for his PhD thesis entitled _Posterior Analysis of Econometric Models Using Monte Carlo Integration_. He was among the first Bayesians to become an Elected Fellow of ISBA in 2012. At the 2022 ISBA World Meeting in Montreal, he was awarded the Zellner Medal _"for being an early supporter of ISBA, one of the most influential Bayesians amongst econometricians, and for being an outstanding Bayesian scholar who has advanced the Zellner tradition in economic statistics through fundamental contributions to simulation-based Bayesian econometric techniques for inference, forecasting, and decision analysis"_. As evidenced by the photo of Herman taken during the award ceremony, it was one of the proudest moments of his professional career, not in the least because he had known and worked with Arnold Zellner.
+
+We will miss Herman also as the wonderful friend and supportive colleague he has been to so many of us. Herman was one of the kindest and most generous persons I have ever met. Knowing about the importance of prestigious awards for the career of young researchers, Herman very generously allowed the royalties of the Handbook of Bayesian Econometrics (published with Oxford University Press in 2011 jointly with John Geweke and Gary Koop) to go into the Savage Fund to sustain its endowment for future generations of brilliant young Bayesian researchers. Herman was always generous with his time, particularly with young researchers, offering feedback and helpful comments. One of Herman’s main legacies to the Bayesian community is the large number of excellent Bayesian PhD students that he supervised over the years at Erasmus University and the Tinbergen Institute. His commitment as a mentor and scholar will continue to inspire generations.
+
+Herman will be sorely missed by a legion of co-authors, collaborators, students and friends. We will always be grateful to Herman for his profound intellect, unwavering guidance, and the warmth he brought to the academic journey. 
+
+### Personal recollections
+
+<div style="text-align: right"> _Roberto Casarin_ </div>  
+<br>
+
+I will always remember Herman as a remarkably clever, sharp, and kind man. As a pioneer in Bayesian econometrics, his first methodological domain, he had an exceptional ability to recognise the potential of new ideas and methods, broadening perspectives with his insight. His passion and dedication to research were truly inspiring, and it was a privilege to work with him for over a decade.  I am deeply grateful to Herman for being an essential scientific reference in many joint projects on density combination methods and nonlinear panel models. The fond memories of our time together - writing and revising projects, engaging in lively debates, and exploring new research directions - will stay with me forever.
+
+<div style="text-align: right"> _Sylvia Kaufmann_ </div>  
+<br>
+
+Long before Herman invited me to join the board of the European Seminar on Bayesian Econometrics (ESOBE) in 2017, our paths had crossed on several occasions, and he had become a decisive influence for my research career. He was always interested and enthusiastic, and his insightful comments on my work made me think more precisely and innovatively. I remember a seminar presentation in 2003 at Erasmus University Rotterdam, where a fruitful discussion with Herman and Richard Paap continued into dinner. In 2010, I had the honour of presenting at the inaugural ESOBE meeting, which preceded the ceremony marking Herman's official retirement. Herman later invited me to Erasmus University to present at the 2013 Conference on Forecasting Structure and Time-Varying Patterns in Economics and Finance, held alongside a meeting of the Editorial Board of the _Journal of Applied Econometrics_, and again in 2014 at the Workshop on The Econometric Analysis of Recurrent Events in Macroeconomics and Finance. He also handled several of my submitted papers. Herman made me feel a valued part of the Bayesian community and contributing meaningfully to our field. His absence creates a void that will be difficult to fill.
+
+
+<div style="text-align: right"> _Gary Koop_ </div>  
+<br>
+
+I have many happy memories of Herman, going back more than 30 years to the summer he invited me to spend at Erasmus University. Subsequently, I enjoyed his company at numerous conferences and workshops right up to ESOBE 2024 in Orebro. I fondly remember our wide-ranging conversations (usually over a nice meal with a glass of wine) at the end of the day at a workshop or conference. He was always there with the interesting anecdote and useful piece of advice. I will miss him greatly. 
+
+
+<div style="text-align: right"> _Hedibert F. Lopes_ </div>  
+<br>
+
+Ever since I received the sad news of Herman's passing, I've been having recurrent thoughts of him and of our Bayesian econometrics and statistics communities. Herman was an influential example to many generations of Bayesian statisticians and econometricians. My own interest in Monte Carlo methods for Bayesian computation started back in 1991 when I used the package RATS and Monte Carlo integration/simulation to obtain bands for impulse response functions in time-varying BVAR models for my MSc thesis. His 1978 Econometrica paper was the main responsibility for my interest in Monte Carlo methods and, ultimately, to my writing of an MCMC book with Dani Gamerman.  Herman, like Arnold Zellner, Morris DeGroot, Jimmy Savage, Jim Harrison, and many others, are present not only in our research, but also in our way of life, either by the joyful and learning interactions with them or with their disciples.  
+The photo below was taken at the 2018 ESOBE Meeting in New Orleans which was organized by Mark Jensen. I have a vivid memory of the conference dinner at the French Quarter and Herman chatting with everyone at the table and always with such a great smile and enthusiasm. His kindness, his contagious smile and his enthusiasm are hallmarks I always try to mimic and spread forward to honour giants like him.
+
+![From left to right:  Herman van Dijk, Sylvia Frühwirth-Schnatter (WU Vienna), Hedibert F. Lopes (Insper Institute, São Paulo), Mark Jensen (Federal Reserve Bank of Atlanta).](figures/Picture2.jpg){width="50%" fig-align="center"}
+
+<div style="text-align: right"> _Yasuhiro Omori_ </div>  
+<br>
+
+I first met Herman in 2004 at the International Symposium on Financial Time Series in Tokyo, Japan, along with Hajime Wago, one of the founding members of ISBA. He always had a warm smile and was incredibly friendly.  Since then, I had the pleasure of meeting him multiple times in Tokyo, Kyoto, and Sendai. In 2006, he visited my office at the University of Tokyo and encouraged me to submit one of my working papers to the special issue of CSDA on Computational Econometrics, where he was a guest editor. Also he invited me to the International Workshop on Computational and Financial Econometrics (now widely known as CFE), and eventually, I had the honor of co-chairing the conference in 2012 (CFE'12). I am deeply grateful for Herman's kind support, insightful suggestions, and the many wonderful moments we shared at conferences over the years. He will be greatly missed.
+
+
+<div style="text-align: right"> _Rodney Strachan_ </div>  
+<br>
+
+One great memory many of my fellow Australians (and a few international colleagues) have of Herman is of him dancing with Jim Berger at the ISBA World Meeting on Hamilton Island in 2008. Herman enjoyed everything Bayesian. My earliest memory of him, however, is from 1998 when I was in the second year of my PhD. I had travelled to Europe to present my work at various places including at Erasmus University Rotterdam. While we were waiting in line for lunch, Herman invited me to visit to work with him. I was very excited. As I came to know him, it became clear that it was quite common for Herman to offer support for new econometricians. He was always encouraging of new ideas and of new researchers. Herman enjoyed discussing at length topics in Bayesian Econometrics such as computational issues, be it the relationship between identification and topology, or the existence of ratios of zeros.  However, his greatest passion was his family. He was so proud of his children and glowed when speaking of them. The common theme in every aspect of Herman’s life was thinking of the future.
+
+
+<div style="text-align: right"> _Mike West_ </div>  
+<br>
+
+I was just starting my PhD when Herman and colleagues were defining importance sampling as a practical methodology for implementing Bayesian analyses in interesting applications. In the very early 1980s, we and much of the Bayesian community were much more focused on analytic and deterministic approximations.  It became evident just a few years later that we were then behind the times while Herman was at the forefront on sampling-based innovations that presaged the early 1990s breakthroughs. Herman and I connected more seriously a few years later and—mainly within his main areas of Bayesian methodology developments in econometrics and my intersections with those areas—have enjoyed many productive discussions on foundations and methodology that influenced my thinking and cascaded to my research with students and collaborators.  Our interactions at professional meetings have always been vigorous and—while sometimes maybe appearing contentious—generally productive in terms of our thinking going forward. I learned a lot from Herman and will continue to recognise his impact on Bayesian thinking, computational methodology and econometric applications.  We already miss Herman and his congenial contributions in socio-professional discourse. 
+The photo below was taken at our last get-together at the 2022 ISBA World Meeting in Montreal where Herman contributed a detailed and thoughtful invited discussion to my de Finetti Distinguished Lecture, with points and thoughts that continue to promote new thinking. 
+
+![From left to right:  Herman van Dijk, James Mitchell (Cleveland Federal Reserve), Lauren West (Durham NC), Mike West (Duke and Durham NC), Emily Tallman (Duke and Two Sigma NYC), Sylvia Frühwirth-Schnatter (WU Vienna).](figures/Picture3.jpg){width="50%" fig-align="center"}
+:::
+

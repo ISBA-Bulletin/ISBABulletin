@@ -1,0 +1,40 @@
+
+
+{{< include contributions/_president.qmd >}}
+
+---
+
+{{< include contributions/_editor.qmd >}}
+
+---
+
+{{< include  contributions/_pc.qmd >}}
+
+---
+
+{{< include contributions/_BA.qmd >}}
+
+---
+
+
+
+---
+
+{{< include  contributions/_jISBA.qmd >}}
+
+---
+
+
+{{< include  contributions/_news.qmd >}}
+
+---
+
+{{< include  contributions/_obit1.qmd >}}
+
+---
+
+{{< include  contributions/_obit2.qmd >}}
+
+---
+
+{{< include  contributions/_boards.qmd >}}
