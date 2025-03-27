@@ -23,6 +23,8 @@ format:
     other-links:
       - text: PDF version
         href: Bulletin_noAwards.pdf
+      - text: Previous PDF bulletin (before 2025)
+        href: https://bayesian.org/resources/bulletin/
         # https://bayesian.org/bulletin/
     page-layout: full
     embed-resources: true

@@ -37,7 +37,7 @@ At a broader level, **expanding ISBA’s geographic footprint is critical**. Our
 It’s also important to **broaden ISBA’s intellectual and disciplinary reach**. We should aim to be a home for all  users of Bayesian methods  - not just statisticians, but also Bayesians in machine learning, cognitive science, psychology, ecology, economics, and especially the social sciences. I believe that the proposed **Bayesian Social Sciences Section** is a significant step in that direction. A petition for a **Bayesian Deep Learning** Section is also in the making. These activities shows our commitment to creating a home for all communities applying Bayesian tools to complex, real-world problems.
 
 
-This is not just about outreach - I believe it is vital to the future of Bayesian statistics and ISBA. To support that future, ISBA must remain open, outward-facing, and deeply connected to the broader scientific communities we aim to serve. 
+This is not just about outreach - I believe it is vital to the future of ISBA. To realize that future and seize the opportunities ahead, ISBA must remain open, outward-facing, and deeply connected to the broader scientific communities we aim to serve. 
 
 #### Recognizing pioneers
 
