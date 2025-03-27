@@ -44,28 +44,19 @@ Tamara Broderick, Subhashis Ghosal, Claire Gormley, Matteo Ruggiero
 
 ::: {.columns}
 :::: {.column width="50%"}
-
 #### Editor  
-**Francesco Denti**  
-[francesco.denti@unipd.it](mailto:francesco.denti@unipd.it)
-
+*Francesco Denti*  [<i class="bi bi-envelope bi-1x"></i>](mailto:francesco.denti@unipd.it)  
 ::::
 
 :::: {.column width="50%"}
 
 #### Associate Editors  
-
 **Features**  
-*Anton Westveld*  
-[anton.westveld@anu.edu.au](mailto:anton.westveld@anu.edu.au)  
-
+*Anton Westveld* [<i class="bi bi-envelope bi-1x"></i>](mailto:anton.westveld@anu.edu.au)  
 **News of the World**  
-*Déborah Sulem*  
-[deborah.sulem@bse.eu](mailto:deborah.sulem@bse.eu)  
-
+*Déborah Sulem* [<i class="bi bi-envelope bi-1x"></i>](mailto:deborah.sulem@bse.eu)  
 **Teaching Bayes**  
-*Federica Zoe Ricci*  
-[fzricci@uci.edu](mailto:fzricci@uci.edu)  
+*Federica Zoe Ricci* [<i class="bi bi-envelope bi-1x"></i>](mailto:fzricci@uci.edu)  
 
 ::::
 
