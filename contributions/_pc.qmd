@@ -13,7 +13,7 @@ margin:10px 20px;border-radius: 10px;max-width: 100%;"}
 Yang Ni has joined the Program Council as the new Vice-Chair.
 We are incredibly grateful to Sinead Williamson for her dedication and exceptional service on the Program Council in the past three years and for organizing such a fantastic program at the 2024 World Meeting last year in Venice. Thank you, Sinead, and welcome, Yang!
 
-#### (Co)-sponsorship \& Endorsement Requests
+#### (Co)-sponsorship & Endorsement Requests
 If you are planning a meeting and would like to request financial sponsorship (or co-sponsorship) or non-financial endorsement from ISBA, please submit your request to the Program Council at [this email address](mailto:program-council@bayesian.org). 
 Detailed information on how to submit requests for sponsorship or endorsement is available at [this link](https://bayesian.org/events/request-sponsorshipendorsement/).
 

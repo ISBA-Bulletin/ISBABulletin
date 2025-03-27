@@ -10,7 +10,7 @@ margin:10px 20px;border-radius: 10px;max-width: 100%;"}
 
 :::{.justify}
 
-#### Q\&A: what do you \st{believe} think?
+#### Q&A: what do you ~~believe~~ think?
 
 **How has your research evolved along your career? And why?**
 
@@ -50,13 +50,13 @@ submitting poster proposals.
 
 
 
-#### And don't forget:
+##### And don't forget:
 
-- [14th International Conference on Bayesian Nonparametrics (BNP 14)](https://bnp14.org/), 23-27 June 2025, UCLA, Los Angeles, US. The Tentative Program is now available, and registration is open! The regular registration deadline is set to 30 April, 2025. The conference will be followed by the inaugural [BioPharm Section Meeting (BBP 2025)](https://bnp14.org/bbp2025/).
+- [14th International Conference on Bayesian Nonparametrics (BNP 14)](https://bnp14.org/), 23-27 June 2025, UCLA, Los Angeles, US. The Bayesian nonparametrics (BNP) conference is a bi-annual international meeting bringing together leading experts and talented young researchers working on applications and theory of nonparametric Bayesian statistics. It is an official section meeting of the Bayesian nonparametrics section of the International Society for Bayesian Analysis (ISBA). The Tentative Program is now available, and registration is open! The regular registration deadline is set to 30 April, 2025. The conference will be followed by the inaugural [BioPharm Section Meeting (BBP 2025)](https://bnp14.org/bbp2025/).
 
-- [Bayesian Inference in Stochastic Processes (BISP14)](https://bisp14.imati.cnr.it/), 26-28 May 2025, Milan. 
+-  [Bayes Comp 2025](https://bayescomp2025.sg/),  16-20 June 2025, National University of Singapore, Singapore. The biennial Bayes Comp meetings are organised by the Bayesian Computation Section of the International Society for Bayesian Analysis. Bayes Comp 2025 is the fourth conference in the series and is hosted by the Department of Statistics and Data Science at the National University of Singapore. Registration is open. 
 
--  [Bayes Comp 2025](https://bayescomp2025.sg/),  16-20 June 2025, National University of Singapore, Singapore. 
+- [Bayesian Inference in Stochastic Processes (BISP14)](https://bisp14.imati.cnr.it/), 26-28 May 2025, Milan. The Bayesian Inference in Stochastic Processes workshop will provide an opportunity to review, discuss and explore directions of development of Bayesian Inference in Stochastic Processes and in the use of Stochastic Processes for Bayesian Inference.
 
 
 #### Other events
