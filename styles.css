@@ -40,4 +40,10 @@
     .column-margin {
       display: none !important;
     }
-  }
+    .quarto-title-block {
+      display: none !important;
+    }    
+    .quarto-title-banner {
+      display: none !important;
+    }
+    }
