@@ -22,8 +22,8 @@ format:
     toc-title: "In this issue"
     other-links:
       - text: PDF version
-        href: Bulletin_noAwards.pdf
-      - text: Previous PDF bulletin (before 2025)
+        href: https://bayesian.org/resources/bulletin/
+      - text: ISBA bulletin Archive
         href: https://bayesian.org/resources/bulletin/
         # https://bayesian.org/bulletin/
     page-layout: full

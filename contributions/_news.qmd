@@ -56,13 +56,13 @@ submitting poster proposals.
 
 -  [Bayes Comp 2025](https://bayescomp2025.sg/),  16-20 June 2025, National University of Singapore, Singapore. The biennial Bayes Comp meetings are organised by the Bayesian Computation Section of the International Society for Bayesian Analysis. Bayes Comp 2025 is the fourth conference in the series and is hosted by the Department of Statistics and Data Science at the National University of Singapore. Registration is open. 
 
-- [Bayesian Inference in Stochastic Processes (BISP14)](https://bisp14.imati.cnr.it/), 26-28 May 2025, Milan. The Bayesian Inference in Stochastic Processes workshop will provide an opportunity to review, discuss and explore directions of development of Bayesian Inference in Stochastic Processes and in the use of Stochastic Processes for Bayesian Inference.
+- [Bayesian Inference in Stochastic Processes (BISP14)](https://bisp14.imati.cnr.it/), 26-28 May 2025, Milan. The Bayesian Inference in Stochastic Processes workshop will provide an opportunity to review, discuss and explore directions of development of Bayesian Inference in Stochastic Processes and in the use of Stochastic Processes for Bayesian Inference. Early registration fees are available until April 6$^{th}$.
 
 
 #### Other events
 
 
-- [14th International Conference on Extreme Value Analysis (EVA2025)](https://eva2025.unc.edu/), 23-27 June 2025, University of North Carolina at Chapel Hill, USA. Registration is open until April 30.
+- [14th International Conference on Extreme Value Analysis (EVA2025)](https://eva2025.unc.edu/), 23-27 June 2025, University of North Carolina at Chapel Hill, USA. Registration is open until April 30$^{th}$.
 
 - [$8^{th}$ Symposium on Games and Decisions in Reliability and Risk (8GDRR)](https://dec.unibocconi.eu/8GDRR), 28-30 May 2025, Bocconi University, Milan. 
 

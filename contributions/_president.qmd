@@ -37,11 +37,14 @@ At a broader level, **expanding ISBA’s geographic footprint is critical**. Our
 It’s also important to **broaden ISBA’s intellectual and disciplinary reach**. We should aim to be a home for all  users of Bayesian methods  - not just statisticians, but also Bayesians in machine learning, cognitive science, psychology, ecology, economics, and especially the social sciences. I believe that the proposed **Bayesian Social Sciences Section** is a significant step in that direction. A petition for a **Bayesian Deep Learning** Section is also in the making. These activities show our commitment to creating a home for all communities applying Bayesian tools to complex, real-world problems.
 
 
-This is not just about outreach - I believe it is vital to the future of ISBA. To realize that future and seize the opportunities ahead, ISBA must remain open, outward-facing, and deeply connected to the broader scientific communities we aim to serve. 
+This is not just about outreach - I believe it is vital to the future of ISBA. To realize that future and seize the opportunities ahead, ISBA must remain open, outward-facing, and deeply connected to the broader scientific communities we aim to serve. Interestingly, see [what Philip Dawid wrote](https://bayesian.org/wp-content/uploads/2016/10/0003.pdf) in this same column as President of ISBA in 2000. Incidentally, that bulletin issue is, in my opinion, a little gem. 
+
 
 #### Recognizing pioneers
 
 **In this issue, we honor the lives and legacies of two important figures for our community:** [Herman van Dijk](#sec-obit1) and [John Deely](#sec-obit2).  Herman van Dijk made foundational contributions to Bayesian econometrics and helped shape how Bayesian methods are applied to macroeconomic and financial modeling. John Deely has made contributions  in many  areas including engineering,  biological sciences, agriculture and business. He was known for his humor, real-world examples, and ability to make statistics both accessible and compelling.  Both Herman van Dijk and John Deely embodied **a vision of Bayesian analysis that transcended disciplinary boundaries** - precisely the spirit ISBA strives to cultivate.
+
+As we were putting the finishing touches on this issue, we learned also the sad news of Martin A. Tanner's passing. He made remarkable contributions to Bayesian computation and public health, and was a recipient of the prestigious Mortimer Spiegelman Award. For an obituary see [here](https://statistics.northwestern.edu/people/in-memoriam/martin-tanner.html).
 
 #### Conferences: Innovation and Tradition
 
