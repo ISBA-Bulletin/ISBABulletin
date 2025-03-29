@@ -1,5 +1,4 @@
 
-
 {{< include contributions/_president.qmd >}}
 
 ---
