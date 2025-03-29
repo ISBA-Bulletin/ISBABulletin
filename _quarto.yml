@@ -23,7 +23,7 @@ format:
     other-links:
       - text: PDF version
         icon: filetype-pdf
-        href: https://github.com/ISBA-Bulletin/ISBABulletin/pdf/IB-2503.pdf
+        href: https://github.com/ISBA-Bulletin/ISBABulletin/blob/main/pdf/IB-2503.pdf
       - text: ISBA Bulletin Archive
         href: https://bayesian.org/resources/bulletin/
         # https://bayesian.org/bulletin/
