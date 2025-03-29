@@ -23,7 +23,7 @@ format:
     other-links:
       - text: PDF version
         icon: filetype-pdf
-        href: https://github.com/ISBA-Bulletin/ISBABulletin/blob/main/pdf/IB-2503.pdf
+        href: pdf/IB-2503.pdf
       - text: ISBA Bulletin Archive
         href: https://bayesian.org/resources/bulletin/
         # https://bayesian.org/bulletin/
@@ -31,7 +31,6 @@ format:
     embed-resources: true
     self-contained-math: true
     toc-expand: true
-    embed-pdf: true
 editor: source
 execute:
   freeze: auto
