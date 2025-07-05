@@ -11,9 +11,14 @@ margin:10px 20px;border-radius: 10px;max-width: 100%;"}
 <br>
 
 :::{.justify}
-Welcome to the first issue of the ISBA Bulletin of 2025! I’ll keep this brief, as this edition is packed with important updates and events for the new year. First, I’d like to warmly welcome all our new Board members and thank them for their contributions to this issue.
+Hello ISBA community, and welcome to a new issue of the ISBA Bulletin! Apologies for the delay; I know many of you were looking forward to fresh news from the Bayesian world. But here we are!
 
-You may have noticed a refreshed look for the bulletin – a great way to start the new year on the right foot! A huge thank you to Cecilia Balocchi for her valuable input on this. We hope you like it! This is just the first version, and we’d love to hear your feedback, so feel free to share any suggestions with us. For those who prefer the classic format, the good old PDF version is still available – just check the menu on the left.
+Inside, you'll find key updates from the Program Council about the 2026 ISBA World Meeting in Nagoya, be sure to mark your calendars and keep an eye on the upcoming deadlines! We also hear from BA Editor Igor Prünster with a status update on our flagship journal. Two newly accepted papers are now open for discussion -- consider sending your contributions!  
+Matteo Giordano brings important news from j-ISBA. For example, the junior section is currently seeking new officers -- please spread the word! And don’t forget to follow their brand-new [LinkedIn page](https://www.linkedin.com/company/j-isba-the-junior-section-of-the-international-society-for-bayesian-analysis/) to stay connected. 
 
-ISBA Community, stay up to date with all ISBA activities and events (in your preferred format!), and enjoy this issue!
+Many of us had the pleasure of reconnecting with fellow Bayesians at recent ISBA events. However, the momentum continues — check out the News of the World section for more upcoming meetings and opportunities to get involved. This issue also features a contribution from Sylvia Frühwirth-Schnatter, who shares insights from her remarkable career.
+
+Finally, don’t miss the Teaching Bayes section in this issue — it’s full of inspiring reflections and useful ideas for bringing Bayesian thinking into the classroom.
+
+As usual, thanks to everyone who contributed! ISBA community, enjoy!
 :::

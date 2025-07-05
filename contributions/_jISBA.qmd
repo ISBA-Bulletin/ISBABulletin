@@ -8,48 +8,51 @@
 margin:10px 20px;border-radius: 10px;max-width: 100%;"}
 :::
 
+<br>
+
 
 :::{.justify}
-#### New j-ISBA Board Members
+Dear ISBA community,
 
-With the start of 2025, the newly elected officers have joined the j-ISBA Board. Please join me in welcoming our new Chair-Elect, Francesca Panero, and our new Treasurer, Alessandro Zito. You can find their brief biographies on the j-ISBA website at this [link](https://j-isba.github.io/officers.html). 
-
-A big "thank you'' goes to our outgoing Board Members Beatrice Franzolini and Beniamino Hadj-Amar for their hard work and outstanding service to j-ISBA in 2023 and 2024!
-
-j-ISBA will hold elections again this year for the positions of Chair-Elect, Program Chair and Secretary; announcements will follow in the upcoming months.
-
-#### Upcoming events and ongoing activities.
-
-- [BaYSM 2025](https://baysm2025.github.io), the official annual conference of j-ISBA, will take place online on April 7-11, 2025. It will offer a great and accessible platform for young researchers from all over the world to share their work and engage with peers and established professors in the Bayesian community. We have received a stellar collection of abstracts and we cannot wait to hear more about these research works in oral presentations and short talks. We are also delighted to have five plenary speakers: Samuel Livingstone (University College London), Julia Palacios (Stanford University), Fernando Quintana (Pontificia Universidad Católica de Chile), Surya Tokdar (Duke University) and Stéphanie van der Pas (Vrije Universiteit Amsterdam).
-
-  Registration is only $5 for all j-ISBA members, so don’t forget to renew your membership!
-
-- The 2025 edition of the [Blackwell-Rosenbluth Award](https://j-isba.github.io/blackwell-rosenbluth.html) is upcoming! The award aims at recognizing outstanding junior Bayesian researchers, based on their overall contributions to the field and
-to the community. While the call will open in April 2025, you might start thinking about a
-nomination! PhD students or early career researchers who obtained their PhD after January 1, 2020 will be eligible. 
-
-- The j-ISBA [Peer mentoring Scheme](https://j-isba.github.io/peer-mentoring.html) offers a platform for you to be paired online with another young researcher in the field, providing a friendly and secure place to seek support and guidance. Peer mentors are j-ISBA members who have volunteered to join the program. Based on their experiences, they will be able to offer you advice on how to navigate the uncertainties and difficulties that may arise during your early years in research.
-
-  Accessing peer mentoring is extremely simple! Just look through the list of available peer mentors [here](https://j-isba.github.io/peer-mentoring.html) for the one that may best match your needs, and contact them via email to ask to schedule a first virtual meeting.
-
-- Do not miss out the following j-ISBA organized and sponsored sessions in 2025:
-
-  - Sponsored session at [Bayesian Inference in Stochastic Processes](https://bisp14.imati.cnr.it/inv_talks.php?sub_code=jisba), Milan, Italy 26 - 28 May 2025	
-
-     Speakers: Louise Alamichel, Lorenzo Ghilotti, and Giovanni Rebaudo
-
-  - _Parallel Computations for Markov chain Monte Carlo speakers_ at [Bayes Comp 2025](https://bayescomp2025.sg), Singapore, 16 - 20 June 2025
-
-    Speakers: Dootika Vats, Lu Yu, and Sebastiano Grazzi; Discussant: Charles Margossian
-
-  - _New advances in Bayesian statistics_ at [CFE-CMStatistics 2025](https://www.cmstatistics.org/CFECMStatistics2025/), London, UK, 13 - 15 December 2025
-
-     Speakers: TBC
+We are very excited about numerous events and initiatives coming up this summer! We are looking for three new board members in the upcoming elections; we have extended the deadline for nominations for the 2025 Blackwell-Rosenbluth Award; and we have an exciting event planned at the BNP14 in Los Angeles. More details about all the activities
+are provided below.
+For any questions or suggestions please feel free to reach out to the j-ISBA board via e-mail at [this email address](mailto:jisba.section@gmail.com), or also on our new official [LinkedIn page](https://www.linkedin.com/company/j-isba-the-junior-section-of-the-international-society-for-bayesian-analysis/)!
 
 
-  - You can also look forward to a j-ISBA reception at the upcoming [14th International Conference on Bayesian Nonparametrics](https://bnp14.org) (BNP 14), Los Angeles, USA, 23 - 27 June 2025!
+#### BAYSM 2025 in the books and BAYSM 2026
+We successfully held the Bayesian Young Statisticians Meeting - Online (BaSYM 2025) in April 2025 as an entirely virtual conference. With more than 180 total participants, 96 speakers and
+18 sessions that spanned five days across various time zones, BaSYM 2025 was our largest conference yet,
+providing an open, accessible and inclusive conference venue for early-stage researchers.
+We would like to congratulate all BaYSM 2025 talk award winners again for their great presentations! The long talks awards winners were Kamélia Daudel, Valentin Killian, Martina Amongero, and Changwoo Lee. The short talks awardees were Josh Jacobson, Ziyou Wang, Apratim Shukla, and Alex Ziyu Jiang.
+We want to thank all senior discussants who provided constructive feedback during each long talks
+session, and all five plenary talk speakers, Samuel Livingstone, Stéphanie van der Pas, Surya Tokdar, Fernando Quintana, and Julia Palacios, who showcased the broad spectrum of cutting-edge Bayesian research.
 
-For any questions or suggestions please feel free to reach out to the j-ISBA board via e-mail at [this email address](mailto:jisba.section@gmail.com).
+We are delighted to announce that the next edition of BAYSM will be held in June 26 – 27, 2026 at Chiba University, Japan! This will be just before the ISBA World Meeting 2026. Stay tuned for more information!
+
+
+#### j-ISBA is looking for officers!
+
+In the next ISBA elections, the j-ISBA board will need three new board members, to fill in the positions of Chair-Elect, Program Chair and Secretary for the years 2026-2027. I can tell you firsthand that serving in the board is a really rewarding and exciting experience. Senior PhD students, postdocs, and early career researchers
+are encouraged to apply. Those interested in being nominated for the elections are invited to contact
+the j-ISBA board by July 15, 2025 via e-mail at [this email address](mailto:jisba.section@gmail.com). Please include your CV and a short motivation letter.
+
+#### 2025 Blackwell-Rosenbluth Award
+
+The deadline for the Blackwell-Rosenbluth Award 2025 has been extended to July 15, 2025. The award
+aims to recognize outstanding junior Bayesian researchers based on their overall contribution to the
+field and community. We welcome nominations of junior researchers working in the broad spectrum
+of topics in Bayesian statistics, including but not limited to methods, theory, computation, machine
+learning, data science, biostatistics, econometrics, industrial statistics, environmental science, and
+software. See the Blackwell-Rosenbluth Award [webpage](https://j-isba.github.io/blackwell-rosenbluth.html) for more info.
+
+#### Other sessions and conferences
+
+  - The first j-ISBA-sponsored session of 2025 took place in May at the Bayesian Inferece in Stochastic Process Workshop (BISP14) in Milan, Italy, featuring three outstanding speakers. Louise Alamichel (Bocconi University) presented a talk titled "Enriched zero-inflated stochastic block models". Lorenzo Ghilotti (University of Milano-Bicocca) discussed his work on Bayesian calculus and predictive characterizations of (extended) feature allocation models. Finally, Giovanni Rebaudo (University of Turin) talked about multivariate Species Sampling Models.
+
+  - At the recent Bayes Comp 2025, in Singapore, we organized a sponsored session titled "Parallel Computations for Markov chain Monte Carlo". Our great lineup of speakers included Dootika Vats, Lu Yu, and Sebastiano Grazzi, and the exceptional contribution of Charles Margossian as discussant.
+
+  - Do not miss out on the upcoming j-ISBA organized and sponsored sessions in 2025, at the International Day of Women in Statistics and Data Science (IDWSDS) 2025 Conference, and the 19th International Joint Conference on Computational and Financial Econometrics  and Computational and Methodological Statistics, CFE-CMStatistics 2025, in London. More details can
+be found here: [j-ISBA activities list](https://j-isba.github.io/events.html).
 :::
 
  

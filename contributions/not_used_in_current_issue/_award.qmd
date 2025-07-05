@@ -1,0 +1,18 @@
+::: {.section_bulletin}
+# AWARDS {#sec-awards}
+[Surya Tokdar and Lucia Paci](mailto:prize-committee@bayesian.org){style="color:white; text-align: center;"}
+:::
+
+::: {.column-margin}
+![](images/tokdar.png){style="float:center;vertical-align:middle;
+margin:10px 20px;border-radius: 10px;max-width: 100%;"}
+![](images/paci.jpeg){style="float:center;vertical-align:middle;
+margin:10px 20px;border-radius: 10px;max-width: 150%;"}
+:::
+<br>
+
+:::{.justify}
+
+:::
+
+

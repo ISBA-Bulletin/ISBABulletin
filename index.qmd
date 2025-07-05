@@ -15,24 +15,15 @@
 
 ---
 
-{{< include  contributions/_award.qmd >}}
-
----
-
 {{< include  contributions/_jISBA.qmd >}}
 
 ---
-
 
 {{< include  contributions/_news.qmd >}}
 
 ---
 
-{{< include  contributions/_obit1.qmd >}}
-
----
-
-{{< include  contributions/_obit2.qmd >}}
+{{< include  contributions/_teaching.qmd >}}
 
 ---
 
