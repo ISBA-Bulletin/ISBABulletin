@@ -39,7 +39,7 @@ His research has been instrumental in scientific applications that include globa
 
 - [European Seminar on Bayesian Econometrics (ESOBE) 2025](https://mbs.edu/events/2025-08-26-the-european-seminar-on-bayesian-econometrics), 26-27 August 2025, University of Melbourne, Australia. The University of Melbourne is also funding travel awards.
 
-- [Bayesian Macroeconometric Modelling Workshop](https://economics.uq.edu.au/event/14276/bayesian-macroeconometric-modelling-workshop), 31 August - 1 September, University of Queensland, Australia. Selected papers will appear as a volume in Advances in Econometrics: Bayesian Macroeconometric Modelling. The workshop will be preceded by a short course on Bayesian methods for empirical macroeconomics by Gary Koop.
+- [Bayesian Macroeconometric Modelling Workshop](https://economics.uq.edu.au/event/session/14510), 31 August - 1 September, University of Queensland, Australia. Selected papers will appear as a volume in Advances in Econometrics: Bayesian Macroeconometric Modelling. The workshop will be preceded by a short course on Bayesian methods for empirical macroeconomics by Gary Koop.
 
 - [SISBayes 2025 Workshop](https://sisbayes2025.stat.unipd.it/), 4-5 September 2025, Department of Statistical Sciences of the University of Padova, Italy. This workshop is organised by the Bayesian group of the Italian Statistical Society. The workshop will consist of two Foundational Lectures delivered by Guido Consonni (Università Cattolica di Milano) and Sonia Petrone (Università Bocconi), two Keynote presentations delivered by Serena Arima (Università del Salento) and Tommaso Rigon (Università di Milano Bicocca), six invited sessions, and a contributed poster session.
 
