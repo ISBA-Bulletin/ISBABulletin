@@ -91,7 +91,9 @@ Reflecting a cherished ISBA tradition, a highlight of the workshop was the vibra
 
 The charming venue and welcoming atmosphere made the second SISBAYES Workshop both a delightful and productive experience for all attendees. The SISBayes board of directors is already looking forward to organizing the next event in 2027. Stay tuned!
 
+:::{.center}
 ![](figures/sbg.jpg)
+:::
 
 ---
 
@@ -119,7 +121,9 @@ The BNP 14 scientific committee received more than 110 applications for junior t
 
 The venue for BNP 15 will be finalized and announced soon.
 
+:::{.center}
 ![](figures/BNP_LA.jpg)
+:::
 
 ## Q&A: what do you ~~believe~~ think?
 
