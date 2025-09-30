@@ -21,12 +21,12 @@ format:
     toc-location: left
     toc-title: "In this issue"
     other-links:
+      - text: PDF version
+        icon: filetype-pdf
+        href: https://raw.githubusercontent.com/ISBA-Bulletin/ISBABulletin/main/docs/pdf/IB-2509.pdf
       - text: ISBA Bulletin Archive
         href: https://bayesian.org/resources/bulletin/
         # https://bayesian.org/bulletin/
-      - text: PDF version
-        icon: filetype-pdf
-        href: ISBABulletin/main/docs/pdf/IB-2509.pdf
     page-layout: full
     embed-resources: true
     self-contained-math: true
