@@ -12,28 +12,36 @@ margin:10px 20px;border-radius: 10px;max-width: 100%;"}
 <br>
 
 :::{.justify}
-It has been a rewarding experience settling into my role as Editor-in-Chief of Bayesian Analysis. While the initial transition came with its share of challenges, I am now fully embracing the opportunity  to work alongside our outstanding Editorial Board and help shape the journal's future. I am deeply grateful to our Co-Editors and Associate Editors, who are doing a fantastic job handling an increasing number of submissions. I am particularly proud of the quality of feedback we are able to provide to authors: timely, constructive, and thorough, regardless of the final editorial decision.
+### Editorial Updates
 
-This June was especially active for many of us, with three exciting ISBA section meetings taking place around the globe -- [O’Bayes](https://obayes25.aueb.gr/) in Greece, [BayesComp](https://bayescomp2025.sg/) in Singapore, and [BNP](https://bnp14.org/) in the United States -- showcasing the breadth and vitality of the Bayesian community. I look forward to the stimulating discussions these events has sparked and to the manuscripts they may inspire. Please keep Bayesian Analysis in mind as a home for your best work.
+The first nine months of 2025 have seen a substantial increase in submissions to *Bayesian Analysis*, up by about 25% compared to the same period last year. This growth reflects the vitality of our field and the active engagement of the community with the journal as a venue for high-quality Bayesian research. At the current pace, we are on track to well over 300 submissions by the end of the year.
 
-I am also pleased to announce the first two discussion papers of my term, both of which will appear in the Fall issues of the journal:
+You will also notice that the [September 2025 issue](https://projecteuclid.org/journals/bayesian-analysis/volume-20/issue-3) of *Bayesian Analysis* is somewhat "thicker" than usual. This reflects our decision to reduce the backlog in the [Advance Publication](https://projecteuclid.org/journals/bayesian-analysis/advance-publication) section. While papers published there are final and assigned a DOI, the queue had grown to about 1.5 years, which we felt was too long. To address this, we are increasing the number of articles in each issue until we reach a more balanced equilibrium.
 
-- [A Tree Perspective on Stick-Breaking Models in Covariate-Dependent Mixtures](https://doi.org/10.1214/24-BA1462)  
-  by A. Horiguchi, C. Chan and L. Ma
+Last but not least, I am very pleased to report that we have met the goals we set ourselves earlier this year in terms of turnaround times and, in particular, in controlling outliers. All papers submitted within the first five months of 2025 have already received a decision, meaning within four months of submission. I want to sincerely thank our Co-Editors, Associate Editors, and referees for their diligence and responsiveness — and for their patience when I chase them for updates. The credit for this achievement is entirely theirs. We will continue to do our best to sustain this momentum, as a timely and consistent editorial process is crucial to attracting the community's best work. I very much hope this will further encourage researchers to consider *Bayesian Analysis* as the preferred outlet for their top-tier work.
 
-- [Model Uncertainty and Missing Data: An Objective Bayesian Perspective](https://doi.org/10.1214/25-BA1531)  
-  by G. García-Donato, M. Eugenia Castellanos, S. Cabras, A. Quirós and A. Forte
+### Discussion Papers
 
-We welcome contributed discussions on both papers. These should be no more than two pages in length and prepared using the Bayesian Analysis [LaTeX style](https://www.e-publications.org/isba/support/). Submissions should be made through [EJMS](https://www.e-publications.org/ims/submission/) by the following deadlines:
+In mid-September, we hosted the webinar for the discussion paper  
+[A Tree Perspective on Stick-Breaking Models in Covariate-Dependent Mixtures](https://doi.org/10.1214/24-BA1462)  
+by A. Horiguchi, C. Chan, and L. Ma. The invited discussions by S. MacEachern, A. Rodriguez, D. Dahl, and G. Page, as well as those by B. Franzolini and G. Rebaudo, together with many stimulating contributed discussions, provided a rich set of complementary perspectives, ranging from theoretical insights into covariate-dependent nonparametric models to practical considerations for computation and applications. I am grateful to the authors, discussants, and all participants for making this a great success.
 
-- July 31, 2025 for the Horiguchi et al. paper (BA1462)
-- September 15, 2025 for the García-Donato et al. paper (BA1531)
+We now look forward to the webinar for our next discussion paper,  
+[Model Uncertainty and Missing Data: An Objective Bayesian Perspective](https://doi.org/10.1214/25-BA1531)  
+by G. García-Donato, M.E. Castellanos, S. Cabras, A. Quirós, and A. Forte.  
+It will take place on *November 5, 2025, at 4:00pm UTC*,  
+with invited discussions by M. Clyde, M. Ferreira, A. Ly, and J. Rubio.  
+I warmly encourage you to join us.
 
-Please choose *contributed discussion* as the manuscript type and clearly indicate which paper your submission refers to.  
-All accepted discussions will be shared with the authors, who will have the opportunity to respond in a rejoinder.  
-We look forward to receiving thoughtful and engaging contributions from the community. 
+### Online Resources
 
-Looking ahead, we are currently assembling a *Highlights from Bayesian Analysis* session for the [ISBA 2026 World Meeting](https://isba2026.github.io/) in Nagoya. The line-up will be announced in the September issue of the Bulletin, so stay tuned.
+I would like to sincerely thank Julyan Arbel and the whole ISBA Media Team for the outstanding work they are doing behind the scenes to ensure the smooth running of the webinars. In addition, they have created a dedicated webpage gathering all BA webinars since 2019:  
 
-Finally, do not miss the [June 2025 issue](https://projecteuclid.org/journals/bayesian-analysis/volume-20/issue-2) of Bayesian Analysis, which features 12 new manuscripts. And keep an eye on the [Advance Publication section](https://projecteuclid.org/journals/bayesian-analysis/advance-publication), which is continuously updated with new and stimulating contributions to Bayesian statistics.
+<div style="text-align: center;">
+[https://bayesian.org/ba-webinars/](https://bayesian.org/ba-webinars/)  
+</div>
+
+This page brings together a remarkable collection of talks that span the full breadth of Bayesian statistics.  
+
+Beyond the webinars, the team has also reorganized the [ISBA YouTube channel](https://www.youtube.com/c/ISBAInternationalSocietyofBayesianAnalysis), which now features curated playlists from ISBA World Meetings (2012–2024), specialized workshops and seminars, and content from ISBA Sections (j-ISBA, BNP, BioPharma, Industrial). These resources deserve broad visibility, and I encourage you to explore them, share them with colleagues and students, and provide feedback to Julyan ([julyan.arbel@inria.fr](mailto:julyan.arbel@inria.fr)).
 :::

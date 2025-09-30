@@ -1,0 +1,336 @@
+:::{.section_bulletin}
+# ISBA ELECTION CANDIDATES 2025 {#sec-cand}
+[Xinyi Xu](mailto:xinyi@stat.osu.edu){style="color:white; text-align: center;"}
+:::
+
+::: {.column-margin}
+![](images/xinyi.jpg){style="float:center;vertical-align:middle;
+margin:10px 20px;border-radius: 10px;max-width: 100%;"}
+:::
+
+<br>
+
+
+## ISBA General Elections
+
+<table style="width:100%; border-collapse: collapse;">
+  <tr style="background-color:#f2f2f2;">
+    <th style="width:20%">Role</th>
+    <th style="width:40%">Name</th>
+    <th style="width:40%">Affiliation</th>
+  </tr>
+
+  <!-- President -->
+  <tr>
+    <td rowspan="2"><b>President</b></td>
+    <td>&nbsp;&nbsp;Long Nguyen</td>
+    <td>University of Michigan</td>
+  </tr>
+  <tr style="background-color:#f9f9f9; border-bottom:2px solid #000;">
+    <td>&nbsp;&nbsp;Judith Rousseau</td>
+    <td>Université Paris-Dauphine</td>
+  </tr>
+
+  <!-- Treasurer -->
+  <tr>
+    <td rowspan="2"><b>Treasurer</b></td>
+    <td>&nbsp;&nbsp;Leo Duan</td>
+    <td>University of Florida</td>
+  </tr>
+  <tr style="background-color:#f9f9f9; border-bottom:2px solid #000;">
+    <td>&nbsp;&nbsp;Guanyu Hu</td>
+    <td>Michigan State University</td>
+  </tr>
+
+  <!-- Board of Directors -->
+  <tr>
+    <td rowspan="8"><b>Board of Directors</b></td>
+    <td>&nbsp;&nbsp;Sergios Agapiou</td>
+    <td>University of Cyprus</td>
+  </tr>
+  <tr style="background-color:#f9f9f9;">
+    <td>&nbsp;&nbsp;Felipe Barrientos</td>
+    <td>Florida State University</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;David Dahl</td>
+    <td>Brigham Young University</td>
+  </tr>
+  <tr style="background-color:#f9f9f9;">
+    <td>&nbsp;&nbsp;Beatrice Franzolini</td>
+    <td>Bocconi University</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;Satoshi Morita</td>
+    <td>Kyoto University</td>
+  </tr>
+  <tr style="background-color:#f9f9f9;">
+    <td>&nbsp;&nbsp;Stéphanie van der Pas</td>
+    <td>Vrije Universiteit Amsterdam</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;Alejandra Avalos Pacheco</td>
+    <td>JKU Linz</td>
+  </tr>
+  <tr style="background-color:#f9f9f9; border-bottom:2px solid #000;">
+    <td>&nbsp;&nbsp;Susan Wei</td>
+    <td>Monash University</td>
+  </tr>
+</table>
+
+---
+
+## J-ISBA Section
+
+<table style="width:100%; border-collapse: collapse;">
+  <tr style="background-color:#f2f2f2;">
+    <th style="width:20%">Role</th>
+    <th style="width:40%">Name</th>
+    <th style="width:40%">Affiliation</th>
+  </tr>
+
+  <!-- Chair-Elect -->
+  <tr>
+    <td rowspan="2"><b>Chair-Elect</b></td>
+    <td>&nbsp;&nbsp;Reetam Majumder</td>
+    <td>University of Arkansas</td>
+  </tr>
+  <tr style="background-color:#f9f9f9; border-bottom:2px solid #000;">
+    <td>&nbsp;&nbsp;Francesco Gaffi</td>
+    <td>Bocconi University</td>
+  </tr>
+
+  <!-- Program Chair -->
+  <tr>
+    <td rowspan="2"><b>Program Chair</b></td>
+    <td>&nbsp;&nbsp;Nicolas Bianco</td>
+    <td>KIT</td>
+  </tr>
+  <tr style="background-color:#f9f9f9; border-bottom:2px solid #000;">
+    <td>&nbsp;&nbsp;Yichen Zhu</td>
+    <td>Bocconi University</td>
+  </tr>
+
+  <!-- Secretary -->
+  <tr>
+    <td rowspan="3"><b>Secretary</b></td>
+    <td>&nbsp;&nbsp;Elizabeth Louise Bersson</td>
+    <td>MIT</td>
+  </tr>
+  <tr style="background-color:#f9f9f9;">
+    <td>&nbsp;&nbsp;Jungang Zou</td>
+    <td>Columbia University</td>
+  </tr>
+  <tr style="border-bottom:2px solid #000;">
+    <td>&nbsp;&nbsp;Emma Landry</td>
+    <td>UCLA</td>
+  </tr>
+</table>
+
+---
+
+## BNP Section
+
+<table style="width:100%; border-collapse: collapse;">
+  <tr style="background-color:#f2f2f2;">
+    <th style="width:20%">Role</th>
+    <th style="width:40%">Name</th>
+    <th style="width:40%">Affiliation</th>
+  </tr>
+
+  <!-- Treasurer -->
+  <tr>
+    <td rowspan="2"><b>Treasurer</b></td>
+    <td>&nbsp;&nbsp;Filippo Ascolani</td>
+    <td>Duke University</td>
+  </tr>
+  <tr style="background-color:#f9f9f9; border-bottom:2px solid #000;">
+    <td>&nbsp;&nbsp;Linxi Liu</td>
+    <td>University of Pittsburgh</td>
+  </tr>
+
+  <!-- Chair-Elect -->
+  <tr>
+    <td rowspan="2"><b>Chair-Elect</b></td>
+    <td>&nbsp;&nbsp;Jim Griffin</td>
+    <td>University College London</td>
+  </tr>
+  <tr style="background-color:#f9f9f9; border-bottom:2px solid #000;">
+    <td>&nbsp;&nbsp;Huiyan Sang</td>
+    <td>Texas A&M University</td>
+  </tr>
+
+  <!-- Program Chair -->
+  <tr>
+    <td rowspan="2"><b>Program Chair</b></td>
+    <td>&nbsp;&nbsp;Antonio Linero</td>
+    <td>University of Texas at Austin</td>
+  </tr>
+  <tr style="background-color:#f9f9f9; border-bottom:2px solid #000;">
+    <td>&nbsp;&nbsp;Tommaso Rigon</td>
+    <td>University of Milano-Bicocca</td>
+  </tr>
+</table>
+
+---
+
+## BERaP Section
+
+<table style="width:100%; border-collapse: collapse;">
+  <tr style="background-color:#f2f2f2;">
+    <th style="width:20%">Role</th>
+    <th style="width:40%">Name</th>
+    <th style="width:40%">Affiliation</th>
+  </tr>
+
+  <!-- Chair-Elect -->
+  <tr>
+    <td rowspan="2"><b>Chair-Elect</b></td>
+    <td>&nbsp;&nbsp;Becky Tang</td>
+    <td>Middlebury College</td>
+  </tr>
+  <tr style="background-color:#f9f9f9; border-bottom:2px solid #000;">
+    <td>&nbsp;&nbsp;Mark Andrews</td>
+    <td>Nottingham Trent University</td>
+  </tr>
+
+  <!-- Program Chair -->
+  <tr>
+    <td rowspan="2"><b>Program Chair</b></td>
+    <td>&nbsp;&nbsp;Vanda Inacio</td>
+    <td>University of Edinburgh</td>
+  </tr>
+  <tr style="background-color:#f9f9f9; border-bottom:2px solid #000;">
+    <td>&nbsp;&nbsp;Ron Yurko</td>
+    <td>Carnegie Mellon University</td>
+  </tr>
+
+  <!-- Secretary -->
+  <tr>
+    <td rowspan="2"><b>Secretary</b></td>
+    <td>&nbsp;&nbsp;Shaoyang Ning</td>
+    <td>Swarthmore College</td>
+  </tr>
+  <tr style="background-color:#f9f9f9; border-bottom:2px solid #000;">
+    <td>&nbsp;&nbsp;Jungang Zou</td>
+    <td>Middlebury College</td>
+  </tr>
+
+  <!-- Treasurer -->
+  <tr>
+    <td><b>Treasurer</b></td>
+    <td>&nbsp;&nbsp;Michael Pearce</td>
+    <td>Reed College</td>
+  </tr>
+</table>
+
+
+---
+
+## EFaB Section
+
+<table style="width:100%; border-collapse: collapse;">
+  <tr style="background-color:#f2f2f2;">
+    <th style="width:20%">Role</th>
+    <th style="width:40%">Name</th>
+    <th style="width:40%">Affiliation</th>
+  </tr>
+
+  <!-- Chair-Elect -->
+  <tr>
+    <td rowspan="2"><b>Chair-Elect</b></td>
+    <td>&nbsp;&nbsp;Roberto Casarin</td>
+    <td>Ca' Foscari University of Venice</td>
+  </tr>
+  <tr style="background-color:#f9f9f9; border-bottom:2px solid #000;">
+    <td>&nbsp;&nbsp;Liana Jacobi</td>
+    <td>University of Melbourne</td>
+  </tr>
+
+  <!-- Treasurer -->
+  <tr>
+    <td rowspan="6"><b>Treasurer</b></td>
+    <td>&nbsp;&nbsp;Aubrey Poon</td>
+    <td>University of Kent</td>
+  </tr>
+  <tr style="background-color:#f9f9f9;">
+    <td>&nbsp;&nbsp;Niko Hauzenberger</td>
+    <td>University of Strathclyde</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;Dan Zhu</td>
+    <td>Monash University</td>
+  </tr>
+  <tr style="background-color:#f9f9f9;">
+    <td>&nbsp;&nbsp;Annika Camehl</td>
+    <td>Erasmus University Rotterdam</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;Maria Kalli</td>
+    <td>King’s College London</td>
+  </tr>
+  <tr style="background-color:#f9f9f9; border-bottom:2px solid #000;">
+    <td>&nbsp;&nbsp;Nalan Bastürk</td>
+    <td>Vrije Universiteit Amsterdam</td>
+  </tr>
+</table>
+
+---
+
+## Objective Bayes Section
+
+<table style="width:100%; border-collapse: collapse;">
+  <tr style="background-color:#f2f2f2;">
+    <th style="width:20%">Role</th>
+    <th style="width:40%">Name</th>
+    <th style="width:40%">Affiliation</th>
+  </tr>
+
+  <!-- Program Chair -->
+  <tr>
+    <td rowspan="2"><b>Program Chair</b></td>
+    <td>&nbsp;&nbsp;Rui Paulo</td>
+    <td>Universidade de Lisboa</td>
+  </tr>
+  <tr style="background-color:#f9f9f9; border-bottom:2px solid #000;">
+    <td>&nbsp;&nbsp;Weining Shen</td>
+    <td>University of California, Irvine</td>
+  </tr>
+
+  <!-- Treasurer -->
+  <tr>
+    <td rowspan="2"><b>Treasurer</b></td>
+    <td>&nbsp;&nbsp;Erica Porter</td>
+    <td>Clemson University</td>
+  </tr>
+  <tr style="background-color:#f9f9f9; border-bottom:2px solid #000;">
+    <td>&nbsp;&nbsp;Xiaojin Wang</td>
+    <td>University of Connecticut</td>
+  </tr>
+</table>
+
+---
+
+## EnviBayes Section
+
+<table style="width:100%; border-collapse: collapse;">
+  <tr style="background-color:#f2f2f2;">
+    <th style="width:20%">Role</th>
+    <th style="width:40%">Name</th>
+    <th style="width:40%">Affiliation</th>
+  </tr>
+
+  <!-- Treasurer -->
+  <tr>
+    <td><b>Treasurer</b></td>
+    <td>&nbsp;&nbsp;Whitney Huang</td>
+    <td>Clemson University</td>
+  </tr>
+
+  <!-- Chair-Elect -->
+  <tr style="background-color:#f9f9f9; border-bottom:2px solid #000;">
+    <td><b>Chair-Elect</b></td>
+    <td>&nbsp;&nbsp;David Bolin</td>
+    <td>KAUST</td>
+  </tr>
+</table>

@@ -11,16 +11,40 @@ margin:10px 20px;border-radius: 10px;max-width: 100%;"}
 <br>
 
 :::{.justify}
-#### **Update on ISBA 2026**
+### ISBA 2026 World Meeting
 
-Next year's World Meeting will be held from June 28 to July 3, 2026 in Nagoya, Japan. Please check [the website](https://isba2026.github.io) regularly for updates.
+The [2026 ISBA World Meeting](https://isba2026.github.io) is getting closer.  
+We are very excited to see you in Nagoya, Japan, from June 28 to July 3, 2026!
 
-The Scientific Committee has received many outstanding proposals for Invited Sessions for the meeting -- thanks to everyone who has submitted a proposal so far! The Scientific Committee will continue to accept proposals at [this form](https://forms.gle/5G3xJWJaaE6QKFbj9) until 11:59pm (Anywhere on Earth) on July 6, 2025.  
-The results will be announced in early Fall, and after that, there will be a call for individual contributed oral presentations and posters.
+**Invited Sessions.** The Scientific Committee received an overwhelming number of high-quality proposals for invited sessions, nearly double the total number of available slots in the program! Decision emails were sent to session organizers in mid-September.  
+Thanks to everyone who submitted a session. If your session was not selected, please submit a proposal to give a contributed talk or poster (see below).
 
-#### **(Co)-sponsorship & Endorsement Requests**
+**Contributed Talks & Posters.** The Scientific Committee welcomes proposals for contributed talks and posters. Contributed talks will be around 15 minutes long. Please submit proposals using [this form](https://forms.gle/dVTUrdEuVF6gZPj26).  
+Proposals received before 11:59pm (Anywhere on Earth) on **November 21, 2025** will be considered for inclusion in the program as a contributed talk or a poster. Decisions will be announced in mid-December 2025.  
+Proposals received after November 21, 2025, will be considered for inclusion in the program as a poster on a rolling basis, subject to space availability.  
 
-If you are planning a meeting and would like to request financial sponsorship (or co-sponsorship) or non-financial endorsement from ISBA, please submit your request to the Program Council at [this email address](mailto:program-council@bayesian.org).  
-Detailed information on how to submit requests for sponsorship or endorsement is available at [this link](https://bayesian.org/events/request-sponsorshipendorsement/).
+Please note that **one-oral-presentation-per-person policy** is in effect for the meeting: Each participant can give at most **one** oral presentation. All talks (invited or contributed), discussions, panel discussions, and poster presentations count as oral presentations.  
+Limited exceptions to this policy may be made at the discretion of the Program Council to accommodate program needs.
+
+**Short Course.** If you are interested in teaching a half-day (i.e., 3-hour) short course at the 2026 ISBA World Meeting, please email the Program Council at [program-council@bayesian.org](mailto:program-council@bayesian.org).  
+The Short Course is scheduled to run from 10am to 1pm on **Sunday, June 28, 2026**.  
+
+**Plenary Speakers.** The 2026 ISBA World Meeting will feature four Foundational and four Keynote Lectures.Foundational Lectures celebrate excellent researchers who have made notable and substantial contributions to the Bayesian community throughout their careers. Keynote Lectures highlight exciting new research developments.  
+
+The Scientific Committee is delighted to announce that David Dunson, Hal Stern, Sylvia Richardson, and Siddhartha Chib will deliver the Foundational Lectures and that Fumiyasu Komaki, Botond Szabo, Barbara Engelhardt, and Emtiyaz Khan will deliver the Keynote Lectures.
+
+
+**Named Lectures**. The Susie Bayarri and Bruno de Finetti Lecturers are major highlights of ISBA World Meetings. The Susie Bayarri Lecture is delivered by an outstanding young researcher and the Bruno de Finetti Lecture is delivered by an outstanding scholar who has provided significant contributions to the advancement of Bayesian Statistics.  
+
+The Named Lecture Committee is delighted to announce that Daniele Durante will deliver the Bayarri Lecture and Peter Mueller will deliver the de Finetti Lecture at the 2026 ISBA World Meeting.  
+Stéphanie van der Pas will also deliver the re-scheduled 2024 Bayarri Lecture at the meeting in Nagoya.
+
+
+**Local travel & registration information.** The Local Organizing Committee has posted some local information — including directions to Nagoya and to the venue, a list of accommodation options, and some local attractions — on the [meeting website](https://isba2026.github.io).  
+Registration rates will be posted on the meeting website in mid-October 2025, and registration will open in early 2026.
+
+### Endorsement Requests
+
+If you are planning a meeting and would like to request financial (co-)sponsorship or non-financial endorsement from ISBA, please submit your request to the Program Council. Detailed information on how to submit such requests is available [at this link](https://bayesian.org/events/request-sponsorshipendorsement/).
 :::
 

@@ -3,6 +3,7 @@
 [Déborah Sulem](deborah.sulem@usi.ch){style="color:white; text-align: center;"}
 :::
 
+
 ::: {.column-margin}
 ![](images/deborah.png){style="float:center;vertical-align:middle;
 margin:10px 20px;border-radius: 10px;max-width: 100%;"}
@@ -10,52 +11,157 @@ margin:10px 20px;border-radius: 10px;max-width: 100%;"}
 
 <br>
 
+## Reports from events and conferences
+<div style="text-align: center;">
+**BayesComp 2025 @NUS, Singapore**  
+*by David Frazier*
+</div>
+
 :::{.justify}
+The biannual BayesComp conference was successfully held from June 16 to 20 at University Town, National University of Singapore. This year’s conference marked the first time it was held in Asia, and the turnout was impressive, featuring over 250 participants from more than 25 different countries. The conference program featured over 30 invited and contributed sessions spanning a range of topics in Bayesian computation, with model misspecification and approximate Bayesian inference/computation being consistent themes present throughout the conference. In addition to the main conference, two fascinating satellite meetings were also held: “Bayesian Computation and Inference with Misspecified Models” and “Bayesian Methods for Distributional and Semiparametric Regression”.
+
+
+
+On behalf of the local organizer, David J. Nott, and my fellow scientific co-chair, Leah South, I would like to sincerely thank the local organizers, satellite organizers, scientific committee, and the participants themselves for making this year’s conference a success. The next iteration of the conference will take place at Texas A&M in 2027.
+
+---
+
+<div style="text-align: center;">
+**European Seminar on Bayesian Econometrics 2025 @University of Melbourne, Australia**  
+*by Jamie Cross*
+</div>
+
+The 2025 European Seminar on Bayesian Econometrics (ESOBE) was held at the University of Melbourne from August 25 to August 28. This year’s edition was hosted in Australia for the first time, with support from the Faculty of Business and Economics and Melbourne Business School at the University of Melbourne, Monash University’s Department of Econometrics and Business Statistics, and the Economics, Finance, and Business Section of ISBA.
+
+**Program Highlights**
+The seminar was held on campus at the university’s dedicated conference facility, which commanded 360-degree views over the city of Melbourne. The program featured a rich set of keynotes, invited talks, and contributed sessions.
+
+
+
+Keynote lectures were delivered by Christiane Baumeister (University of Notre Dame) on a novel nonlinear heterogeneous agent VAR, Dimitris Korobilis (University of Glasgow) on quantile VAR modelling of oil markets, and Howard Bondell (University of Melbourne) on density ratio estimation.
+
+
+
+Invited talks included presentations from Dan Zhu (Monash University) on a new functional approach for modelling inflation target at risk, and David Frazier (Monash University) on Generalized Bayesian Methods for Predictive Inference.
+
+
+
+Contributed sessions by junior and established scholars showcased high-quality Bayesian papers. These spanned causal inference, time series models, generalized Bayes, micro- and macro-econometric applications, and new machine learning and other methodologies that aim to capture distributional dynamics.
+
+
+
+A well-attended poster session featured new developments in variational inference, copula methods, clustering methods, frontier models, high-frequency time series, policy evaluation, and even F1 racing.
+
+
+
+The meeting was complemented by two fantastic masterclasses on contemporary topics: Neural Methods for Amortised Inference, delivered by Andrew Zammit Mangion (University of Wollongong); and Advances in Bayesian Finite Mixture Modeling was taught by Bettina Grün (WU Vienna).
+
+
+**Honoring Herman K. van Dijk**
+A special moment of this year’s ESOBE was the inaugural Herman K. van Dijk seminar, given by Dimitris Korobilis. The seminar was established in memory of Herman, who was a pioneer in Bayesian econometrics and a founding figure behind ESOBE.
+
+
+
+**Community and Engagement**
+The conference fostered a highly interactive environment, bringing together established leaders and emerging scholars. Social events included the conference dinner at University House in one of its historically decorated private rooms, and an excursion to the National Gallery of Victoria, which involved both a lunch overlooking the sculpture garden and a tour of its unique Australian art collection.
+
+**Sister Event**
+After the conclusion of ESOBE, many of the participants travelled to a Bayesian macro-econometrics workshop held at the University of Queensland in the city of Brisbane. This two-day event was deliberately scheduled to follow on from the seminar in Melbourne and focused on a field where Bayesian thinking has become a popular choice for practitioners.
+
+**Conclusion**
+ESOBE 2025 continued the tradition of advancing Bayesian econometric research in an open and collegial setting. The program highlighted both cutting-edge methodological innovations and substantive empirical applications, reinforcing the impactful role of Bayesian methods in economics, finance, and business.
+
+--- 
+
+<div style="text-align: center;">
+**SISBAYES 2025 Workshop @University of Padova, Italy**  
+*by Antonio Canale and Raffaele Argiento*
+</div>
+
+
+The Department of Statistical Sciences at the University of Padova was the host for the second [SISBAYES Workshop](https://sisbayes2025.stat.unipd.it/), organized by the [Bayesian section of the Italian Statistical Society](https://sisbayes.github.io/sisbayes/). The event brought together approximately 100 researchers from Italy and abroad for two days of stimulating scientific discussion and informal exchange of ideas.
+
+
+
+The scientific program featured two foundational lectures by Sonia Petrone and Guido Consonni, alongside keynote addresses from Serena Arima and Tommaso Rigon. Six invited sessions were dedicated to modern topics in Bayesian analysis, including: Prior Elicitation for Complex Problems, Model-based Clustering, Bayesian Methods for Ecological Applications and Beyond, Bayesian Graphical Models, Bayesian Causal Inference, and Challenging Posteriors.
+
+
+Reflecting a cherished ISBA tradition, a highlight of the workshop was the vibrant session for 40 contributed posters. It commenced with a welcome aperitif beneath the department's wisteria and extended into a moonlit evening, providing a distinctive and engaging atmosphere for discussion. The scientific committee presented awards to Matteo Gianella for developing a novel and suitable methodology for an applied problem, and to Laura Ferrini for her work on an innovative methodology accompanied by a thorough investigation of its theoretical properties. An honorable mention was awarded to Andrea Ongarato for developing an interesting methodology with promising applications.
+
+
+The charming venue and welcoming atmosphere made the second SISBAYES Workshop both a delightful and productive experience for all attendees. The SISBayes board of directors is already looking forward to organizing the next event in 2027. Stay tuned!
+
+![](figures/sbg.jpg)
+
+---
+
+<div style="text-align: center;">
+**BNP 14 @University of California, Los Angeles**  
+*by Alessandra Guglielmi and Michele Guindani*
+</div>
+
+The BNP Section held its biannual international conference, BNP 14, from June 23 to 27, 2025, at UCLA in Los Angeles. The meeting drew approximately 300 participants, with particularly strong representation from the United States and Italy.
+
+
+ 
+On June 22, the BNP 14 pre-conference program opened with a workshop titled ``25 Years of Dependent Dirichlet Processes (DDP)". Introduced by MacEachern (1999–2000), the Dependent Dirichlet Process has, over the past quarter-century, inspired a rich literature on dependent random probability measures. This workshop honored that milestone by showcasing its theoretical advances, diverse applications, and future direction. A second satellite workshop on Bayesian Predictive Inference brought together researchers developing new approaches to predictive methods within Bayesian analysis, discussing both novel theory and implementation challenges.
+
+
+ 
+The main scientific program of the conference featured three plenary speakers: Li Ma, Maria De Iorio, and Peter Müller, alongside five keynote lectures delivered by  Federico Camerlenghi,  Ismael Castillo,  Stefano Favaro, Antonio Linero, and Sara Wade. The program also included 26 invited sessions (78 invited talks), 13 contributed sessions (52 contributed talks), and more than 90 poster presentations.
+
+ 
+For the first time, keynote talks and invited sessions, in addition to contributed sessions, were held in parallel. The plenary and keynote talks provided insightful overviews of cutting-edge research. The invited and contributed sessions covered a wide range of topics, showcasing the latest developments in BNP. The poster sessions provided a lively forum for in-depth discussions. The social reception was a hit: we organized it as a private buffet light dinner in a restaurant with a bar, with ample time and space for social interaction among the participants. As one participant summarized it in their feedback, "the informal conference dinner helped socializing, and the presence of many PhD students made the atmosphere more lively and gave high hopes for the future of the community.”
+
+
+The BNP 14 scientific committee received more than 110 applications for junior travel awards, and approximately \$38,000 in support was awarded to recipients from the United States, Canada, South Korea, and Europe. Sponsorship spanned multiple levels: Platinum sponsors were ERC Grant 817257 and Google DeepMind, and Silver-level supporters included the University of Texas at Austin (Department of Statistics \& Data Sciences), Duke University (Department of Statistical Science), UCLA’s Fielding School of Public Health (Department of Biostatistics) and College of Physical Sciences (Department of Statistics \& Data Science), and Brigham Young University (Department of Statistics).  One-third of the travel award funds were granted by the National Science Foundation to PhD students and postdoctoral researchers from US institutions. The meeting was co-sponsored by the Institute of Mathematical Statistics and endorsed by the ASA’s Section on Bayesian Statistical Science, alongside ISBA.
+
+
+The venue for BNP 15 will be finalized and announced soon.
+
+![](figures/BNP_LA.jpg)
+
 ## Q&A: what do you ~~believe~~ think?
 
-**How has your research evolved along your career? And why?**
+**What does (Bayesian) statistical fairness mean to you?**
 
-Sylvia Frühwirth-Schnatter (Vienna University of Economics and Business)  
+Christos Dimitrakakis (University of Neuchatel) 
 
-*To be successful in academia, it is of importance to make wise decisions regarding the research topics you are working on. In particular young researcher should think beyond the immediate future and choose sustainable research topics on which you enjoy working for many years to come. Among other skills, such a focus is a main cornerstone for building a fulfilling career.  
-For me personally, a sustainable research topic would involve challenging questions which were still within the range of problems I very likely was able to solve. This gave me the intrinsic motivation to keep doing research, even if I had to meet many other obligations as a full professor at a public Austrian university . On the one hand, I searched for such topics at every conference I attended.  A brilliant presentation by Amy Racine, for instance, sparked me to work on Gibbs sampling for state space models in 1989 which led to one of my most cited papers.  
-On the other hand, great inspiration for my research also came from collaborations with applied scientists. Throughout my entire career, I was able to work on interesting and innovative research projects with collaborators from the area of economics, finance and business, who were eager to apply up-to-date Bayesian techniques to analyze their data. In this way, I learned a lot about the gain of using Bayesian methods in a specific application context. At the same time, I came across interesting methodological problems that were unsolved at that time and where I could make a statistical contribution. Much of the research I have been doing on state space models, mixture models, factor models or treatment effect models was inspired in this way.  Working on the challenging problem of choosing the number of clusters and mixture components for multivariate mixtures model, for instance, started with an applied project on conjoint analysis in marketing in the late 1990s.  
-I even became a Bayesian statistician in the first place, because as an undergraduate I got involved in 1982 in a research project at the Department of Water Resources Research at TU Vienna. Within this project, a group of hydrologists used Bayesian inference to estimate extreme upper quantiles of run-off distributions at a specific location in the Austrian mountains by combining a few yearly observations with a prior distribution based on regional information. My task as a mathematician was to perform numerical analysis using Gauss-Hermite integration. This research project was an intriguing combination of applied mathematics, probabilistic modelling and getting the most out of data and I knew immediately that I found my calling.*
+*There are many definitions of fairness, and each can be formalised in different ways. However, even with a given definition, whether or not something is fair can be subjective. There is also the question of what objects we are allowed to label as fair. There, I think the answer is unambiguous: it should be processes and policies rather than individual decisions or outcomes.  
+I personally would like to assign a degree of fairness to decision-making policies, given a certain amount of information: the same policy can be fair or unfair depending on the information given. Given the values of all latent variables, we can perfectly characterise the fairness of a policy. Otherwise, we can merely talk about fairness only in a distributional sense. This is something that is naturally captured in a probabilistic/Bayesian framework.*
 
-## Awards and Achievements beyond ISBA
+\medskip
 
-<!-- This section aims at recognising research achievements for Bayesian work. If you would like an award or recognition to be listed here, please send your contribution to [deborah.sulem@usi.ch](mailto:deborah.sulem@usi.ch). -->
+Francesca Panero (Sapienza University)
 
-<br>
+*When browsing the literature on algorithmic fairness, one cannot help but notice how few Bayesian approaches are available. Why is that, one might ask? I would point to one main reason: fairness has mostly been approached from a machine learning and purely algorithmic perspective. In general, what is missing - and much needed - is a more statistical point of view, to better understand the theoretical characteristics of the constructed models.
+One clear contribution of Bayesian methods is the ability to investigate the impact of fair modeling choices (typically constraints on relations between sensitive variables and predictions) on model outputs and on the uncertainty of results. A field with such significant ethical, legal, and societal implications should indeed care more about these aspects.*
 
-**Noel Cressie honoured with Hannan Medal from the [Australian Academy of Science](https://www.science.org.au/supporting-science/awards-and-opportunities-2/honorific-awardees/2025-awardees#hannan).**  
-Distinguished Professor Noel Cressie at the University of Wollongong (UOW) Australia has been awarded the Hannan Medal from the Australian Academy of Science. Noel is Director of UOW’s Centre for Environmental Informatics in the National Institute for Applied Statistics Research Australia (NIASRA) and Distinguished Professor in the School of Mathematics and Applied Statistics at UOW. The Hannan Medal, which recognises outstanding research in mathematics including statistical science, is named for the late Professor E.J. (Ted) Hannan FAA FASSA. Noel is a world leader in the analysis of spatial and spatio-temporal data and a leading authority on statistical methods in environmental science, especially for large-scale phenomena such as oceanic and atmospheric processes and climate. He has developed powerful Bayesian-statistical methodology that integrates physical principles with stochastic models to capture uncertainties in scientific inference from large and complex datasets.
-
-His research has been instrumental in scientific applications that include global CO2 flux, regional climate, sea surface temperature, air pollution, disease mapping, ocean biogeochemical cycles, soil carbon dynamics, glacier movement, and river pollution. Noel’s recent work on uncertainty in climate-model downscaling investigates causal links between ecology and climate, and hence it has impact in evidence-based policy making.
 
 ## Upcoming Meetings, Conferences, and Workshops
 
 ### ISBA sponsored or endorsed events
 
-- [European Seminar on Bayesian Econometrics (ESOBE) 2025](https://mbs.edu/events/2025-08-26-the-european-seminar-on-bayesian-econometrics), 26-27 August 2025, University of Melbourne, Australia. The University of Melbourne is also funding travel awards.
 
-- [Bayesian Macroeconometric Modelling Workshop](https://economics.uq.edu.au/event/session/14510), 31 August - 1 September, University of Queensland, Australia. Selected papers will appear as a volume in Advances in Econometrics: Bayesian Macroeconometric Modelling. The workshop will be preceded by a short course on Bayesian methods for empirical macroeconomics by Gary Koop.
+* [International Day of Women in Statistics and Data Science 2025](https://www.idwsds.org/), 14 October, online. This is a 24-hour-long free online conference. An ISBA-sponsored session features talks by Gemma Moran (Rutgers University), Cecilia Balocchi (University of Edinburgh), and Betsy Bersson (MIT).
 
-- [SISBayes 2025 Workshop](https://sisbayes2025.stat.unipd.it/), 4-5 September 2025, Department of Statistical Sciences of the University of Padova, Italy. This workshop is organised by the Bayesian group of the Italian Statistical Society. The workshop will consist of two Foundational Lectures delivered by Guido Consonni (Università Cattolica di Milano) and Sonia Petrone (Università Bocconi), two Keynote presentations delivered by Serena Arima (Università del Salento) and Tommaso Rigon (Università di Milano Bicocca), six invited sessions, and a contributed poster session.
+* [ISBA World Meeting 2026](https://isba2026.github.io/), June 28 - July 3, 2026, Nagoya, Japan. Deadline for contributed talks and posters: November 21.
+
+* [4<sup>th</sup> Bayesian Nonparametrics Networking Workshop](https://bnpnetworking2026.github.io/), 6-10 July 2026, Seoul, South Korea. This meeting, organised by the Bayesian NonParametrics (BNP) Section, has a flexible schedule and dedicated slots for early-career researchers. It aims to enhance networking within the BNP community, particularly for junior researchers.
 
 ### Other events
 
-- [Writing Workshop for Junior Researchers 2025](https://www.niss.org/events/writing-workshop-junior-researchers-2025-day-1-online), 18 July 2025, online. This workshop aims to provide instruction for junior researchers writing journal articles and grant proposals. Participants will be required to provide a recent sample of their writing, which will be reviewed by a senior mentor. 
+* [Latin American Congress of Probability and Mathematical Statistics (XVII CLAPEM)](https://clapem17.cmat.edu.uy/), 2-6 March 2026, Montevideo, Uruguay. This meeting is organised by the Latin American Society of Probability and Mathematical Statistics (SLAPEM) and the Latin American Regional Committee (LARC) of the Bernoulli Society. The deadline for submitting proposals for contributed sessions is November 10. Deadline for contributed talks and posters: December 10. Financial support is available (deadline for applications: November 30).
 
-- [International Conference on Monte Carlo Methods and Applications (MCM)](https://ccbatiit.github.io/mcm2025/), July 28 - August 1 2025, Chicago, USA. This biennial conference is one of the prominent one on stochastic simulation and Monte Carlo methods. This edition features as plenary speakers Nicolas Chopin (ENSAE), Veronika Rockova (University of Chicago) and Peter W Glynn (Stanford University).
+* [Institute of Mathematical Statistics Annual Meeting 2026](https://ims2026.github.io/IMS2026/), 6-9 July 2026, Salzburg, Austria. This meeting will feature the 2026 Wald Lecture (Tilmann Gneiting), the 2026 Blackwell Lecture, three 2026 Medallion Lectures (Ian McKeague, Bodhisattva Sen, Jelle Goeman), and the IMS Lawrence D. Brown Ph.D. Student Awards, and more than 60 invited and contributed sessions. Deadline for invited session proposals: November 15, 2025.
 
-- [65th ISI World Statistics Congress](https://www.isi-next.org/conferences/isi-wsc2025/), 5-9 October 2025, The Hague, The Netherlands. This is a major event for Statistics and Data Science, held every two years by the International Statistical Institute.
+### And don't forget
 
-- [Bayesian Biostatistics Conference 2025](https://www.bayes-pharma.org/), 22-24 October 2025, Leiden, The Netherlands. This conference features a short course on Bayesian and Causal Networks for Clinical and Epidemiological Data by Marco Scutari. Early-career researchers who submit an abstract will be eligible for the Instats Junior Researchers Prize.
+* [Bayesian Biostatistics Conference 2025](https://www.bayes-pharma.org/), 22-24 October 2025, Leiden, The Netherlands.
 
-- [44th International Workshop on Bayesian Inference and Maximum Entropy Methods in Science and Engineering (MaxEnt)](https://www.maxent2025.co.nz/), 14-19 December 2025, Auckland, Australia. The focus of the 2025 conference will be the application of Bayesian inference and/or the maximum entropy principle to inference and inverse problems in various scientific and engineering domains. Abstract submission deadline: July 7.
+* [44th International Workshop on Bayesian Inference and Maximum Entropy Methods in Science and Engineering (MaxEnt)](https://www.maxent2025.co.nz/), 14-19 December 2025, Auckland, Australia.
 
-- [IMS International Conference on Statistics and Data Science (ICSDS)](https://sites.google.com/view/ims-icsds2025/home), 15-18 December 2025, Seville, Spain. Plenary speakers will include Francis Bach (Ecole Normale Superieure), Richard Samworth (University of Cambridge), Daniela Witten (University of Washington), Bin Yu (University of California). Look on the website for updates.
+* [IMS International Conference on Statistics and Data Science (ICSDS)](https://sites.google.com/view/ims-icsds2025/home), 15-18 December 2025, Seville, Spain. Abstract submission deadline: October 31.
 
-- [Joint Meetings of 2025 Taipei International Statistical Symposium and 13th ICSA International Conference](https://www3.stat.sinica.edu.tw/joint2025/), 17-20 December 2025, Taipei, Taiwan. This conference is co-organized by the Institute of Statistical Science, Academia Sinica (ISSAS) and the International Chinese Statistical Association (ICSA), in collaboration with the Chinese Institute of Probability and Statistics (CIPS). 
+* [Joint Meetings of 2025 Taipei International Statistical Symposium and 13th ICSA International Conference](https://www3.stat.sinica.edu.tw/joint2025/), 17-20 December 2025, Taipei, Taiwan. Abstract submission deadline: October 31.
 :::

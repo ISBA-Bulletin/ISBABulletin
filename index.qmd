@@ -15,6 +15,10 @@
 
 ---
 
+{{< include  contributions/_award.qmd >}}
+
+---
+
 {{< include  contributions/_jISBA.qmd >}}
 
 ---
@@ -23,7 +27,7 @@
 
 ---
 
-{{< include  contributions/_teaching.qmd >}}
+{{< include  contributions/_candidates.qmd >}}
 
 ---
 

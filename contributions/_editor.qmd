@@ -11,14 +11,9 @@ margin:10px 20px;border-radius: 10px;max-width: 100%;"}
 <br>
 
 :::{.justify}
-Hello ISBA community, and welcome to a new issue of the ISBA Bulletin! Apologies for the delay; I know many of you were looking forward to fresh news from the Bayesian world. But here we are!
+Well, there isn’t much I can add to what Michele Guindani has already expressed in his message as ISBA President.  The coffee we had after that conference must have been strong!
 
-Inside, you'll find key updates from the Program Council about the 2026 ISBA World Meeting in Nagoya, be sure to mark your calendars and keep an eye on the upcoming deadlines! We also hear from BA Editor Igor Prünster with a status update on our flagship journal. Two newly accepted papers are now open for discussion -- consider sending your contributions!  
-Matteo Giordano brings important news from j-ISBA. For example, the junior section is currently seeking new officers -- please spread the word! And don’t forget to follow their brand-new [LinkedIn page](https://www.linkedin.com/company/j-isba-the-junior-section-of-the-international-society-for-bayesian-analysis/) to stay connected. 
+Jokes aside, the historical journey of the Bulletin that Michele retraced is truly significant - especially for those of us on the Editorial Board (whom I cannot thank enough for their constant dedication). It reminds us that, as writers and readers alike, we are part of something meaningful: contributing to a resource that matters for the whole Society.
 
-Many of us had the pleasure of reconnecting with fellow Bayesians at recent ISBA events. However, the momentum continues — check out the News of the World section for more upcoming meetings and opportunities to get involved. This issue also features a contribution from Sylvia Frühwirth-Schnatter, who shares insights from her remarkable career.
-
-Finally, don’t miss the Teaching Bayes section in this issue — it’s full of inspiring reflections and useful ideas for bringing Bayesian thinking into the classroom.
-
-As usual, thanks to everyone who contributed! ISBA community, enjoy!
+Since the contents of this issue have already been well summarized, I won’t take up any more of your time. ISBA community, enjoy!
 :::
