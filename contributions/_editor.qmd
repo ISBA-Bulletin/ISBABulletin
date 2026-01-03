@@ -11,9 +11,11 @@ margin:10px 20px;border-radius: 10px;max-width: 100%;"}
 <br>
 
 :::{.justify}
-Well, there isn’t much I can add to what Michele Guindani has already expressed in his message as ISBA President.  The coffee we had after that conference must have been strong!
+As 2025 draws to a close, so does my second year as Editor. I would like to once again thank everyone who contributes to the Bulletin and makes this publication possible.
 
-Jokes aside, the historical journey of the Bulletin that Michele retraced is truly significant - especially for those of us on the Editorial Board (whom I cannot thank enough for their constant dedication). It reminds us that, as writers and readers alike, we are part of something meaningful: contributing to a resource that matters for the whole Society.
+This issue opens with a beautiful obituary in memory of Harry van Zanten, followed by updates from the Program Council, Bayesian Analysis, and the Prize Committee. Be sure not to miss the report from the Ad Hoc Committee tasked with reflecting on the future of ISBA conferences - and please take a moment to complete the associated survey!
 
-Since the contents of this issue have already been well summarized, I won’t take up any more of your time. ISBA community, enjoy!
+We also bring you news from j-ISBA, along with updates on what is happening across the broader Bayesian community. Finally, this issue features important information on teaching Bayesian statistics and celebrates the newly elected members from the most recent ISBA elections.
+
+ISBA community, enjoy!
 :::

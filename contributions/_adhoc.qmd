@@ -1,0 +1,63 @@
+:::{.section_bulletin}
+# AD HOC COMMITTEE ON THE FUTURE OF ISBA CONFERENCES {#sec-adhoc}
+[Guido Consonni, Kate Lee, Gertraud Malsiner-Walli, and Christian Robert](mailto:guido.consonni@unicatt.it){style="color:white; text-align: center;"}
+:::
+
+<br>
+
+:::{.justify}
+In September 2025, the Ad Hoc Committee on the Future of ISBA Conferences was established by the ISBA Executive Committee. Its charge is to produce a comprehensive report on the environmental impact and inclusivity of ISBA meetings, and to develop strategic ideas for future conference formats. The aim is to support medium- and long-term planning rather than influence meetings already scheduled. Members of the Committee are Guido Consonni, Kate Lee, Gertraud Malsiner-Walli, and Christian Robert.
+
+
+The net contribution of international conferences and workshops to research is undeniable. By bringing different communities together, they provide a special, relatively secluded environment in which discussions and debates can take place more easily, foster the emergence of new collaborations, and offer researchers on the move opportunities to secure new positions. Additionally, meetings often represent a significant source of revenue for scientific societies, which in turn is frequently used for valuable purposes such as supporting early-career researchers.
+
+The Committee recognizes all these benefits and does not advocate the termination of international conferences. Rather, it aims to balance these benefits with the imperatives of environmental sustainability and inclusive participation, both of which are essential to social progress and to the future of our planet.
+
+
+### Environmental sustainability
+
+
+We start from the premise that there is broad scientific consensus that greenhouse-gas emissions must not only be halted but reversed in order to limit severe and potentially irreversible climate impacts. While this challenge applies across all sectors of society, here we focus on academic practices, especially those associated with large international meetings.
+
+Traditional in-person conference formats come with substantial environmental costs.^[Funke M. & Lago P. (2022). “Let's Start Reducing the Carbon Footprint of Academic Conferences.” In C. Calero et al. (Eds.), *2022 International Conference on ICT for Sustainability (ICT4S)* (pp. 160–171). IEEE. <https://doi.org/10.1109/ICT4S55073.2022.00027>]  
+Recent estimates suggest that per-person emissions for a single conference can reach several thousand kilograms of CO₂ equivalent, particularly when long-distance flights are involved.
+
+Conference-related emissions arise from multiple components, including air travel, local transportation, accommodation, food provision, and energy use associated with venue operation. Among these, air travel is by far the dominant factor: a single intercontinental return flight may exceed what the Intergovernmental Panel on Climate Change considers a sustainable yearly per-capita carbon budget. In our view, this makes it imperative for academics to rethink travel practices.
+
+
+### Inclusive participation
+
+
+Inclusive participation in scientific meetings is not only a matter of fairness, but also of scientific quality: diverse participation broadens perspectives, enriches discussion, and strengthens the research community. At the same time, while conferences are crucial for exchanging ideas and building networks, they can also be sites of unintentional exclusion.
+
+Financial costs—such as international travel, accommodation, and registration fees—can make attendance difficult, especially for early-career researchers and those without dedicated funding. Administrative constraints, including scheduling conflicts and institutional permissions, can further restrict participation. Together, these barriers create unequal opportunities for career development.^[Joo R. et al. (2022). “Ten simple rules to host an inclusive conference.” *PLOS Computational Biology* 18(7): e1010164. <https://doi.org/10.1371/journal.pcbi.1010164>]
+
+Visa challenges present another obstacle. Researchers from many regions face complex paperwork, long delays, and the possibility of refusal, all of which generate uncertainty and emotional strain and contribute to structurally unequal access to global academic exchange.
+
+Caregiving responsibilities, such as childcare and eldercare, can further limit participation, often affecting women and primary caregivers disproportionately. Health limitations may also reduce individuals’ ability to travel, while disabilities can restrict participation when appropriate accessibility support is lacking.
+
+Finally, language barriers, cultural differences, and disciplinary norms may discourage participation by individuals from under-represented groups. Creating intellectually welcoming and culturally sensitive environments is therefore essential.
+
+
+These concerns have motivated growing interest in alternative conference formats, including fully virtual conferences, hybrid meetings with local hubs and online participation, and multi-hub events in which geographically dispersed groups meet locally and connect digitally. These formats can drastically reduce long-distance travel and associated emissions, while at the same time broadening access and fostering more inclusive participation.
+
+### Conference metrics
+
+
+To gather information on conferences of particular relevance to the ISBA community, we contacted the organizers of several ISBA-related meetings and workshops held over the last four years, including the 2024 ISBA World Meeting in Venice. We requested data on participation patterns, geographical distribution, hybrid or virtual components, accessibility measures, carbon-footprint considerations, and other organizational practices.
+
+We are grateful to the organizers who responded promptly and shared detailed information. Drawing on these data, we drafted a more structured set of metrics targeting three broad areas: Accessibility and Inclusivity, Format and Outreach, and Environmental Sustainability. We plan to share this document with future ISBA conference organizers in order to obtain a clearer picture of how ISBA meetings perform across these dimensions and to better understand the challenges faced by local organizers and by the leadership of ISBA.
+
+
+### Survey
+
+
+The Committee warmly invites ISBA members to share their perspectives on the environmental sustainability, inclusivity, and accessibility of ISBA meetings, and hopes to stimulate awareness and discussion of these issues within the Society.  
+To this end, we have prepared a *Survey on Meeting Experiences to Inform Future ISBA Events*, which can be found at [this link](https://docs.google.com/forms/d/e/1FAIpQLSeWswtMjV4V5fF8e-3DD3HS4_7uelJwOeaU8UdOA_XupTv7nA/viewform). ISBA members can also use the following QR code to access the survey.
+Completing the survey takes about 5–10 minutes, depending on whether you choose to add comments.
+
+
+::: {.text-center}
+![](figures/qr_survey_bayes.png){width=40%}
+:::
+:::

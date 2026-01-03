@@ -12,38 +12,51 @@ margin:10px 20px;border-radius: 10px;max-width: 100%;"}
 
 
 :::{.justify}
-Dear ISBA community,  
-On behalf of the j-ISBA Board, let me say that it was wonderful to meet so many of you at the social event we organized during the BNP in Los Angeles, where more than 100 of you attended!
+Dear Bayesian Community, as we approach the end of the year, I am delighted to share some exciting updates from the j-ISBA section.
 
-Looking forward, we’re excited to share updates on upcoming events and opportunities that continue to unite our early-career researchers’ community, such as the upcoming BAYSM 2026, the next organized sessions, the peer mentoring scheme by j-ISBA, and the upcoming elections.
+### Blackwell–Rosenbluth Award Winners
 
-For any questions or suggestions, please feel free to reach out to the j-ISBA board via email at [this email address](mailto:jisba.section@gmail.com), or also on our new official [LinkedIn page](https://www.linkedin.com/company/j-isba-the-junior-section-of-the-international-society-for-bayesian-analysis/).
+Firstly, we are thrilled to announce the winners of this year's Blackwell–Rosenbluth Award by ISBA and j-ISBA, recognizing outstanding contributions by early-career researchers based on their overall contribution to the field and the community.
 
-### Upcoming events
+**UTC− time-zone winners:**
 
-- The 2025 edition of the Blackwell-Rosenbluth Award is well underway. We look forward to announcing the winners soon!
+- Nianqiao “Phiyllis” Ju (Dartmouth College)
+- Geoff Pleiss (University of British Columbia)
+- Beniamino Hadj-Amar (University of South Carolina)
 
-- The next edition of BAYSM will be held on June 26 – 27, 2026, at Chiba University, Japan! This will be just before the ISBA World Meeting 2026. The planning for the event is in full swing, so stay tuned for more information!
+**UTC+ time-zone winners:**
 
-- The ISBA Elections are coming, and we would greatly appreciate your vote! Please make sure to cast your ballot for the three opening positions on the j-ISBA board: Chair-Elect, Program Chair, and Secretary.
+- Francesco Denti (University of Padova)
+- Beatrice Franzolini (University of Milan-Bicocca)
+- Jun Yang (University of Copenhagen)
 
-- Do not miss the next conference sessions organized by j-ISBA:
+We express our heartfelt gratitude to the two scientific committees of the award for their diligent work. New nominations for the Blackwell–Rosenbluth Award will open in early 2026, and we encourage you to consider nominating deserving early-career researchers. All information can be found at [this link](https://j-isba.github.io/blackwell-rosenbluth.html).
 
-  - **IDWSDS 2025 - International Day of Women in Statistics and Data Science Conference**  
-    Date and location: October 14, 2025, Online  
-    This is a fully online and free event!  
-    j-ISBA is sponsoring the session “Advances from Junior Bayesian Statisticians” with the following amazing speakers: Beatrice Franzolini (Bocconi University), Yunshan Duan (Johns Hopkins University), and Daria Bystrova (Pierre Louis Institute of Epidemiology and Public Health). Find more info at [this link](https://www.idwsds.org/).
+### BAYSM 2026, 26–27 June, Chiba, Japan: Abstract Submission Open
 
-  - **CFE-CMStatistics Computational and Methodological Statistics Conference**  
-    Date and location: December 13-15, 2025, London  
-    j-ISBA is sponsoring the session “j-ISBA session on new advances in Bayesian statistics” where you can hear about the interesting work of Myung Won Lee (University of Edinburgh), Harita Dellaporta (University College London), Luke Hardcastle (University College London) and Gerardo Duran-Martin (University of Oxford).
+We are excited to welcome submissions for the BAYSM 2026, taking place at Chiba University, Chiba, Japan, on 26–27 June 2026, just before the ISBA World Meeting in Nagoya. The deadline for abstract submissions is January 15, 2026.
 
-### Peer mentoring
+We invite contributions on a wide range of topics related to Bayesian theory, methods, and applications. Please submit an extended abstract (700–1,000 words) in PDF format. Adherence to the specified length is essential for full consideration.
 
-The j-ISBA Peer Mentoring Scheme is an opportunity for you to be paired online with another young researcher in the field, providing a friendly and secure place to seek support and guidance.  
-Peer mentors are j-ISBA members who have volunteered to join the program. Based on their experiences, they will be able to offer you advice on how to navigate the uncertainties and difficulties that may arise during your early years in research.
+To submit your extended abstract, visit the [BAYSM 2026 website](https://baysm2026.github.io/BASYM2026/). Registration will open in the new year. We look forward to your contributions and participation!
 
-j-ISBA is currently seeking Peer Mentors for the academic year 2025-26. If you are interested in supporting our community of young Bayesian statisticians in this way, please get in touch by email with the j-ISBA board.
+### Incoming board members
+
+**Francesco Gaffi (Chair Elect).** Francesco is an Assistant Professor of Statistics at the Department of Economics, University of Bergamo. Previously, he was a Postdoctoral Associate in Statistics at the Department of Mathematics, University of Maryland, College Park, and the Robert and Sara Lumpkins Postdoctoral Fellow in Statistics at the Department of Applied and Computational Mathematics and Statistics, University of Notre Dame, mentored by Lizhen Lin. Francesco's research interests include topics in Bayesian nonparametrics and network data analysis, particularly random partitions and permutations for dynamic and multilayer networks, in the context of node clustering, edge prediction, and graph matching.
+
+**Nicolas Bianco (Program Chair).** Nicolas is a postdoctoral researcher in Statistics and Data Science within the Methods for Big Data research group at the Scientific Computing Center of the Karlsruhe Institute of Technology. Nicolas is interested in Bayesian statistics for the analysis of high-dimensional data, focusing on both theoretical and computational aspects, and in experiencing interesting applications. His current work focuses on Bayesian inference for variable selection in complex settings and recent challenges in spatio-temporal data analysis.
+
+**Emma Landry (Secretary).** Emma is a fifth-year PhD candidate in Biostatistics at UCLA, working with Donatello Telesca. Prior to joining UCLA, she obtained her integrated master's in Mathematics from Imperial College London, where she completed a thesis under the supervision of Seth Flaxman. Emma's research focuses on Bayesian methods in functional data analysis, motivated by applications to neuroscience. Her goal is to develop robust methodology for non-Euclidean data, in particular for density-valued observations.
+
+## j-ISBA's 2025 in numbers
+
+Finally, as the year comes to a close, here is a summary of the main j-ISBA activities in 2025, in case you missed anything, and a look ahead to 2026:
+
+- **1 in-person online conference (BAYSM 2025).** This was our largest event yet, with more than 180 participants. Thank you once again to the organizers and everyone else involved! We look forward to seeing you at [BAYSM 2026](https://baysm2026.github.io/BASYM2026/) in Chiba, Japan!
+
+- **4 Best Long Talk Awards, 4 Best Short Talk Awards, and 6 Blackwell–Rosenbluth Awards.** Thank you to everyone involved in the organization and in the scientific committees behind these important recognitions for early-career researchers (from those managing the Google submission forms to the prize awards transfers, and those tasked with making difficult decisions).
+
+- **4 organized sessions** at conferences worldwide. Please keep an eye on the [j-ISBA event page](https://j-isba.github.io/events.html) for all the updates.
+
+- **298 members:** this is the most important number of all, marking the highest number of members in years without an ISBA World Meeting. We are delighted to witness the consistent growth of the j-ISBA community and remain committed to expanding our community-engagement events and activities in the coming year. Don’t forget to renew your membership to stay connected with us! Thank you to all j-ISBA members for making this section an incredible community to be part of, and to the entire ISBA community for their constant support of the “younger” members!
 :::
-
- 

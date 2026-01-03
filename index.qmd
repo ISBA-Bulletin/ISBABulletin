@@ -7,6 +7,10 @@
 
 ---
 
+{{< include  contributions/_hvz.qmd >}}
+
+---
+
 {{< include  contributions/_pc.qmd >}}
 
 ---
@@ -15,7 +19,11 @@
 
 ---
 
-{{< include  contributions/_award.qmd >}}
+{{< include contributions/_PrizeComm.qmd >}}
+
+---
+
+{{< include contributions/_adhoc.qmd >}}
 
 ---
 
@@ -24,6 +32,11 @@
 ---
 
 {{< include  contributions/_news.qmd >}}
+
+
+---
+
+{{< include  contributions/_teaching.qmd >}}
 
 ---
 

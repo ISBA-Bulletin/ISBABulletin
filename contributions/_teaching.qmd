@@ -11,5 +11,48 @@ margin:10px 20px;border-radius: 10px;max-width: 100%;"}
 <br>
   
 :::{.justify}
+### News from BERaP
 
+Let's welcome the incoming board members of the Section on Bayesian Education Research and Practice (BERaP):
+
+**Becky Tang** (Chair-Elect). Becky is an Assistant Professor of Statistics at Middlebury College in Vermont (USA). Becky - who is the current Secretary of the BERaP section - is interested in statistics education and mentoring, particularly with regard to increasing accessibility to students of underrepresented backgrounds and bringing Bayesian statistics into the undergraduate curriculum. She received her PhD in Statistical Sciences in 2022 from Duke University, working with Alan Gelfand and James Clark. Her current research interests include joint species distribution models for various animals and plant communities.
+
+**Vanda Inacio** (Program Chair). Vanda is a Reader (Associate Professor) in Statistics at the University of Edinburgh. Quoting from her website, Vanda's work is “*approximately equally split between research, teaching, and administration*” and she “*actually enjoys all three*”; she firmly believes that “*we can change lives through education that is free or, at the very least, accessible.*” Vanda received her PhD in Statistics and Operations Research at the University of Lisbon in 2012 and subsequently worked as an Assistant Professor at the Pontificia Universidad Catolica de Chile before joining the University of Edinburgh. Her research has primarily focused on biostatistics, particularly on the statistical evaluation of biomarkers and diagnostic tests.
+
+**Shaoyang Ning** (Secretary). Shaoyang is an Assistant Professor of Statistics at Swarthmore College in Pennsylvania (USA). Shaoyang is Co-Chair of the Undergraduate Statistics Project Competition and of the Electronic Undergraduate Statistics Research Conference, sponsored by ASA and CAUSE. He received his PhD in Statistics from Harvard in 2018, advised by Jun S. Liu. His current research focuses on the study and design of statistical methods for integrative data analysis.
+
+**Michael Pearce** (Treasurer). Michael is an Assistant Professor of Statistics at Reed College in Oregon (USA). At Reed, Michael introduced an undergraduate course in Bayesian Statistics, made accessible through the use of active learning techniques that he presented at JSM in 2024. He received his PhD in Statistics in 2023 at the University of Washington, advised by Elena A. Erosheva. His research focuses on ordinal data methods, model-based clustering, and statistical demography.
+
+We have asked the current board members - Monika Hu (Binghamton University), Mine Dogucu (University of California, Irvine), Becky Tang (Middlebury College), and Bertil Wegmann (Linköping University) - to share their experience with the incoming BERaP board members:
+
+- *What have been some effective initiatives of BERaP and how would you like to see them continue to develop in the future? Are there any ideas or insights you’d like to pass along to the newly elected BERaP board members as they begin their term?*  
+  MD: We have done a few webinars in the past. They were relatively well attended. The new board can possibly continue those.  
+  MH: I agree with Mine, and I think the Bayesian education community has a good lineup of potential webinar speakers.  
+  BT: As a returning member of the board, I would also very much like to continue hosting webinars.  
+  BW: I think, too, that it would be fruitful to continue with webinars.
+
+- *Thinking about the next ISBA meeting in Nagoya and future ISBA meetings, how would you like the BERaP section to be integrated into the meetings’ programs?*  
+  MH: In one ISBA meeting in recent years, BERaP organized a mixer of some sort, and though I wasn’t there, I heard it was well attended, so it might be worth doing it again.  
+  MD: Folks interested in presenting education-related work at ISBA conferences and webinars can always feel free to reach out to the board or program officer. There might be opportunities for getting these into a session or webinar.  
+  BT and BW echoed MH and MD's comments.
+
+- *Are there existing teaching resources that you believe are under-utilized and you would like to highlight?*  
+  MD: One good thing in terms of teaching resources is that those who are not necessarily focused on education but do applied research can use BERaP to promote work that utilizes simpler models that can be used in class as examples.
+
+- *Any other considerations that you would like to share?*  
+  BT: I hope that future BERaP events will grow to be even more international in both audience and speakers. I am personally curious about when in the curriculum and how Bayesian methods are taught outside of the United States (where I am based).
+
+### Upcoming Meetings, Conferences, and Workshops
+
+- [The Bayesian Young Statisticians Meeting (BAYSM)](https://baysm2026.github.io/BASYM2026/), 26–27 July 2026. Perhaps not many young Bayesian statisticians know that BAYSM accepts submissions related to Bayesian education! Abstract submission deadline: 16 January 2026.
+
+- [The Electronic Conference On Teaching Statistics (eCOTS)](https://www.causeweb.org/cause/ecots/ecots26). The 2026 Electronic Conference on Teaching Statistics will be held online from June 15–18, 2026, with the theme “*Sparking Joy and Discovery in a World of AI.*”. Proposals for breakout sessions, posters and beyond, workshops, reading groups, regional meetings, and birds-of-a-feather gatherings are being accepted through early January.
+
+- [EAPOST Workshops](https://sites.google.com/view/eaapost/workshops). If you would like to be introduced to resources on teaching the statistical investigation process, multi-variable thinking, and simulation-based inference, EAPOST (Expanding and Assessing the Art and Practice of Statistical Thinking) will be offering a free in-person workshop and several Friday webinars in January of 2026.
+
+### New Educational Research and Resources
+
+- [Estimating Tanks - Communication in Mathematical Statistics](https://www.tandfonline.com/doi/full/10.1080/26939169.2025.2550996#abstract). If you are looking for ways to engage students in writing about theoretical results, in a recent open-access article on the Journal of Statistics and Data Science Education, Amy Wagaman (Amherst College) introduced a project developed for a course in mathematical statistics. Several fundamental statistical topics are introduced in this course, including Bayesian inference. The article provides a detailed description of the project, assessment strategies, including a rubric and example student work.
+
+- [An Inspiring Story of Teaching Statistics Through Sports Applications](https://www.tandfonline.com/doi/full/10.1080/26939169.2025.2543230). Members of the Bayesian community passionate about sports may enjoy reading the second part of an interview with Jim Albert, which focuses on teaching statistics through sports and wanders into the wider world of sports analytics. This interview can also be listened to as a [podcast](https://berryconsultants-com.webflow.io/podcast).
 :::
