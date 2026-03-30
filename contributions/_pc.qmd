@@ -1,40 +1,24 @@
 :::{.section_bulletin}
 # FROM THE PROGRAM COUNCIL  {#sec-pc}
-[Sameer Deshpande](mailto:program-council@bayesian.org){style="color:white; text-align: center;"}
+[Yang Ni](mailto:program-council@bayesian.org){style="color:white; text-align: center;"}
 :::
 
 ::: {.column-margin}
-![](images/sameer.png){style="float:center;vertical-align:middle;
+![](images/yang.jpeg){style="float:center;vertical-align:middle;
 margin:10px 20px;border-radius: 10px;max-width: 100%;"}
 :::
 
 <br>
 
 :::{.justify}
-### 2026 ISBA World Meeting
-
-**Program Updates**.  
-The Scientific Committee received over 650 proposals for contributed talks and posters for the upcoming [2026 ISBA World Meeting](https://isba2026.github.io), which is scheduled to take place in Nagoya, Japan from June 28 to July 3, 2026.  
-Thanks to everyone who submitted a proposal!
-
-After careful review of all proposals, the Committee selected 40 proposals to be delivered as contributed talks and invited the remaining proposals to be presented during one of three poster sessions at the meeting.  
-Decisions were sent in mid-December. If you submitted a proposal but have not received a decision, please contact the Program Council at [`program-council@bayesian.org`](mailto:program-council@bayesian.org).
-
-**Registration**. You can now register for the meeting at [this link](https://bayesian.org/civicrm/event/register/?reset=1&id=72). ISBA members receive a discount of 100 USD. To take advantage of this discount, you must first sign into your ISBA account (there is a log-in link in the top-right of the registration page).
-
-Check out the [meeting website](https://isba2026.github.io) for local travel information including directions to Nagoya and the venue, a list of accommodation options, and some local attractions.  
-We look forward to seeing everyone in Nagoya next summer.
+**New Member.** David Frazier has joined the Program Council as our new Vice-Chair. We are thrilled to welcome him to this role and look forward to the energy he brings to the team. We also want to express our deepest gratitude to Sergios Agapiou for his dedication and exceptional service over the past three years. Sergios has been instrumental in organizing multiple World Meetings all the way through 2030. Thank you, Sergios, for your incredible impact, and a very warm welcome to David!
 
 
-### Endorsement Requests
+**(Co)-sponsorship & Endorsement Requests.** If you are planning a meeting and would like to request
+financial sponsorship (or co-sponsorship) or non-financial endorsement from ISBA, please submit
+your request to the Program Council at <program-council@bayesian.org>. Detailed information on how to submit
+requests for sponsorship or endorsement is available [here](https://bayesian.org/events/request-sponsorshipendorsement/).
 
-If you are planning a meeting and would like to request financial (co-)sponsorship or non-financial  
-endorsement from ISBA, please submit your request to the Program Council. Detailed information  
-on how to submit such requests is available at this [link](https://bayesian.org/events/request-sponsorshipendorsement/).
-
-
-### Planning A Meeting?
-
-If you are planning to organize an ISBA-endorsed or (co)-sponsored meeting, please check with the Program Council before confirming your meeting dates. This is to avoid scheduling multiple meetings at the same time or too close together.
+**Upcoming ISBA-Sponsored/Endorsed Events.** In 2026, ISBA will sponsor or endorse many exciting events in 2026. You can find all the details in the [*News from the World*](#sec-news) section of this bulletin.
 :::
 

@@ -6,9 +6,9 @@
 :::: {.column width="50%"}
 ### Executive Committee
 
-**President:** Michele Guindani  
-**Past President:** Aad van der Vaart  
-**President Elect:** Antonio Lijoi   
+**President:** Antonio Lijoi  
+**Past President:** Michele Guindani  
+**President Elect:** Judith Rousseau  
 **Treasurer:** Yanxun Xu  
 **Executive Secretary:** Xinyi Xu  
 ::::
@@ -16,9 +16,9 @@
 :::: {.column width="50%"}
 ### Program Council
 
-**Chair:** Sameer K. Deshpande  
-**Vice Chair:** Yang Ni  
-**Past Chair:** Sergios Agapiou
+**Chair:** Yang Ni  
+**Vice Chair:** David Frazier  
+**Past Chair:** Sameer K. Deshpande
 ::::
 
 :::: {.column width="100%"}
@@ -28,15 +28,14 @@ Andrew Brown, Julyan Arbel, Clara Grazian, Collin Cademartori
 
 ### Board Members
 
+**2026–2028:**  
+Alejandra Avalos Pacheco, David Dahl, Beatrice Franzolini, Stéphanie van der Pas
+
 **2025–2027:**  
 Sinead Williamson, Clara Grazian, Sally Paganin, David Rossell
 
 **2024–2026:**  
 Antonio Canale, Daniele Durante, Lucia Paci, Georgia Papadogeorgou  
-
-**2023–2025:**  
-Tamara Broderick, Subhashis Ghosal, Claire Gormley, Matteo Ruggiero  
-
 ::::
 :::
 

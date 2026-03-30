@@ -1,11 +1,12 @@
 title: "The ISBA Bulletin"
-subtitle: "December 2025 - Vol. 32 No. 4"
+subtitle: "March 2026 - Vol. 33 No. 1"
 css: styles.css
 project:
   type: website
   output-dir: docs
-format: 
+format:
   html:
+    citeproc: true
     number-sections: false
     mainfont: roboto
     fontsize: "20px"
@@ -14,22 +15,21 @@ format:
       body-width: 1300px
       margin-width: 200px
       gutter-width: 1.5rem
-#    grid:
-#      sidebar-width: 10px
     toc: true
     toc-depth: 1
     toc-location: left
     toc-title: "In this issue"
     other-links:
-      - text: PDF version
+      - text: "PDF version"
         icon: filetype-pdf
-        href: pdf/IB-2512.pdf
-      - text: ISBA Bulletin Archive
-        href: https://bayesian.org/resources/bulletin/
-        # https://bayesian.org/bulletin/
+        href: "pdf/IB-2603.pdf"
+      - text: "HTML ISBA Bulletin Archive"
+        href: "html_arch/list_of_bulletins.html"  
+        icon: filetype-html
+      - text: "PDF ISBA Bulletin Archive"
+        href: "https://bayesian.org/resources/bulletin/"
     page-layout: full
     embed-resources: true
-    self-contained-math: true
     toc-expand: true
 editor: source
 execute:

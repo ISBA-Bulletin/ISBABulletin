@@ -12,48 +12,56 @@ margin:10px 20px;border-radius: 10px;max-width: 100%;"}
 <br>
 
 :::{.justify}
-As the year draws to a close, I am pleased to share a few updates from *Bayesian Analysis*.
+As spring approaches, I am pleased to share a few updates from *Bayesian Analysis*.
 
-### BA at Major International Meetings in 2026
+#### Editorial Updates
 
-I am delighted to announce the *Bayesian Analysis Highlights* session at the [2026 ISBA World Meeting](https://isba2026.github.io/) in Nagoya (June 28--July 3, 2026). This session will showcase three highlights among the recently accepted papers in the journal:
+We closed 2025 with well over 300 submissions, an almost 30% increase compared to 2024. I am also very pleased to report that our streak of sending decisions within four months from submission remains intact: we have just issued a decision on the last paper submitted in November 2025, leaving only one more month to complete a full-year streak. This achievement is entirely due to the dedication of our Editorial Board members and referees, and I am very grateful for their efforts. I believe that the community has now fully embraced this shared commitment to timeliness, and that it will benefit the journal in the long run by combining the *Bayesian Analysis* tradition of constructive and thorough feedback with consistent and predictable turnaround times.
 
-- [Sudipto Banerjee](http://sudipto.bol.ucla.edu/) (University of California, Los Angeles)  
-  *Bayesian inference for spatial-temporal non-Gaussian data using predictive stacking*  
-  Joint work with S. Pan, L. Zhang, and J.\,R. Bradley
+I would also like to warmly thank [Maria Kalli](https://mariakalli.github.io/) (King's College London), who is stepping down as Managing Editor, for her outstanding work and dedication. At the same time, I am delighted to welcome [Francesco Sanna Passino](https://fraspass.github.io/) (Imperial College London) as the new Managing Editor for the 2026--2028 term.
 
-- [Sarah Filippi](https://profiles.imperial.ac.uk/s.filippi) (Imperial College London)  
-  *Group Spike-and-Slab Variational Bayes*  
-  Joint work with M. Komodromos, M. Evangelou, and K. Ray
+#### Enhancements to Reference Formatting
+	
+With Francesco's help, we are close to finalizing a redesigned reference format for *Bayesian Analysis* papers. We are very pleased with the result and hope you will be as well. Beginning in April, papers will start appearing on Advance Access with the new formatting. I would also like to thank the VTeX production team for their patience and responsiveness as we worked through the many implementation details.
 
-- [Subhashis Ghosal](https://www4.stat.ncsu.edu/~sghosal/) (North Carolina State University)  
-  *Bayesian Semi-supervised Multi-category Classification under Nonparanormality*  
-  Joint work with R. Zhu and S. Ghosh
+As part of this work, we also tackled the challenge of citing conference proceedings consistently. Many journals struggle with this, and there is no fully automated solution that reliably enforces uniformity across sources. For that reason, we have chosen to rely more explicitly on authors' help, and we have updated the 
+[Author Guidelines](https://projecteuclid.org/journals/bayesian-analysis/author-guidelines) accordingly.  I am grateful in advance for the community's collaboration on this, and I encourage everyone to consult the updated guidelines before submitting their next paper to *Bayesian Analysis*. In the coming months, we also plan to refresh the BA style file itself.
 
-*Bayesian Analysis* will also be featured at the  
-[Joint Statistical Meetings 2026](https://ww2.amstat.org/meetings/jsm/2026/) in Boston (August 1--6, 2026). I am particularly pleased to report that our attempt to resume the tradition of having a *Bayesian Analysis* session at JSM, interrupted during the pandemic, has been successful: the proposal was accepted as an invited session, with an outstanding lineup:
+#### Upcoming Discussion Paper
 
-- [Amy Herring](https://globalhealth.duke.edu/people/herring-amy) (Duke University)  
-  *Bayesian Modeling of Nearly Mutually Orthogonal Processes*  
-  Joint work with J. Matuk and D.\,B. Dunson
+I am pleased to announce the next discussion paper to appear in *Bayesian Analysis*:  
 
-- [Peter Müller](https://math.utexas.edu/directory/peter-mueller) (University of Texas at Austin)  
-  *DPGLM: A Semiparametric Bayesian GLM with Inhomogeneous Normalized Random Measures*  
-  Joint work with E. Alam and P.\,J. Rathouz
+<center>
 
-- [Debdeep Pati](https://pages.stat.wisc.edu/~dpati2/) (University of Wisconsin)  
-  *Robust Probabilistic Inference via a Constrained Transport Metric*  
-  Joint work with A. Chakraborty and A. Bhattacharya
+["Robust Probabilistic Inference via a Constrained Transport Metric"](https://doi.org/10.1214/25-BA1535)  
 
-- [Marina Vannucci](https://marina.blogs.rice.edu/) (Rice University)  
-  *A Bayesian Approach for Inference on Mixed Graphical Models*  
-  Joint work with M. Florez, A. Gottard, C. McAdams, and M. Guindani
+</center>
 
-These sessions showcase the breadth of topics and the strength of recent work appearing in *Bayesian Analysis*. I thank all speakers for their contributions and warmly encourage you to attend these sessions.
+by [Abhisek Chakraborty](https://www.linkedin.com/in/abhisek-chakraborty-829240136), [Anirban Bhattacharya](https://sites.google.com/view/anirban-bhattacharya-tamu/), and [Debdeep Pati](https://pages.stat.wisc.edu/~dpati2/).  
+The paper will feature invited discussions from [Marco Avella Medina](https://sites.google.com/site/marcoavellamedina/home), [Jonathan Huggins](http://jhhuggins.org/), [Tony Linero](https://theodds.github.io/), and [Yuexi Wang](https://yuexiwang.github.io/).
 
-### Lindley Prize
+We now welcome contributed discussions. Contributions should be no more than two pages long and prepared using the BA LaTeX style (available via the *Bayesian Analysis* author resources on Project Euclid). Please submit your discussion via  [EJMS](https://www.e-publications.org/ims/submission/) by May 10, 2026, and remember to select "Contributed Discussion" as the manuscript type. All accepted discussions will be shared with the authors, who will have the opportunity to respond in a rejoinder. We look forward to receiving thoughtful and engaging contributions from the community.
 
-I would also like to provide a brief update concerning the Lindley Prize. The [December 2025 issue](https://projecteuclid.org/journals/bayesian-analysis/volume-20/issue-4) includes a dedicated section with the seven papers in contention. These contributions were presented at the 2024 ISBA World Meeting in Venice and subsequently accepted for publication in *Bayesian Analysis*. Choosing a winner among them will not be easy, and I am very grateful to the Lindley Prize Committee for their careful and thoughtful work. The winner will be announced during the World Meeting in Nagoya.
+#### Lindley Prize
 
-As we approach the end of the year, I would like to wish all readers happy holidays and a happy New Year. If you find a quiet moment over the holiday break, I encourage you to take a look at the many excellent papers recently accepted and now available in the [Advance Publication section](https://projecteuclid.org/journals/bayesian-analysis/advance-publication) of the journal.
+I would also like to provide a brief update concerning the Lindley Prize. The Lindley Prize Committee has now completed its work on the 2025 prize, based on the set of eligible papers published in the December 2025 issue of *Bayesian Analysis*. I am very grateful to the Committee for their careful and thoughtful efforts:  
+[David Frazier](https://dtfrazier.github.io/), 
+[Ryan Giordano](https://rgiordan.github.io/), 
+[Jonathan Huggins](http://jhhuggins.org/), 
+[Nadja Klein](https://www.kleinlab.de/subpages_team/klein.html), 
+[Li Ma](https://lm186.github.io/), 
+[Minerva Mukhopadhyay](https://sites.google.com/view/mmukhopadhyay/home), 
+[Ilsang Ohn](https://sites.google.com/view/iohn), and [Yixin Wang](https://yixinwang.github.io/).  
+The winner will be announced at the ISBA World Meeting in Nagoya, and I hope to see many of you at the awards ceremony.
+
+#### BA Sessions at ISBA 2026 and JSM 2026
+
+The *Bayesian Analysis* sessions at the 2026 meetings are scheduled as follows: 
+
+- ISBA World Meeting (Nagoya) on Friday July 3, 2026, from 9:00am to 10:30am  
+- JSM (Boston) on August 4, 2026, from 10:30am to 12:20pm.  
+
+The lineups for these sessions were announced in the December 2025 issue of the ISBA Bulletin.
+
+As always, I encourage you to browse the many excellent papers recently accepted and now available in the [Advance Publication section](https://projecteuclid.org/journals/bayesian-analysis/advance-publication) of the journal.
 :::

@@ -1,69 +1,34 @@
 :::{.section_bulletin}
 # FROM THE PRIZE COMMITTEE {#sec-prize}
-[Botond Szabó](mailto:botond.szabo@unibocconi.it){style="color:white; text-align: center;"}
+[Natalia Bochkina and Botond Szabo (co-chairs)](mailto: prize-committee@bayesian.org){style="color:white; text-align: center;"}
+
 :::
 
 
 ::: {.column-margin}
 ![](images/botond.png){style="float:center;vertical-align:middle;
 margin:10px 20px;border-radius: 10px;max-width: 115%;"}
+![](images/Natalia.webp){style="float:center;vertical-align:middle;
+margin:10px 20px;border-radius: 10px;max-width: 115%;"}
 :::
 
 <br>
 
 :::{.justify}
-The ISBA Prize Committee and sub-committees have continued their important work within ISBA.
-The next ISBA Awards Ceremony will take place during our ISBA World Meeting held
-in Nagoya, Japan, from June 28 to July 3, 2026. In this issue, we announce the finalists in both categories.
+The Prize Committee of ISBA is pleased to open the call for submissions for the 2026 Mitchell Prize
+and Savage Award. The deadline for submissions is May 31, 2026.  
+The Mitchell Prize is given in recognition of an outstanding paper that describes how Bayesian analysis has solved an important applied problem. The prize includes a check for $1000 and a plaque;
+the winner(s) will be announced at the Joint Statistical Meetings in Chicago, Illinois, US, between August 7--12, 2027.  
+For details on the Mitchell Prize, including names of past winners, eligibility details, and submission
+information, please visit [this website](https://bayesian.org/project/mitchell-prize).
 
-### Savage 2025 Award Finalists
-
-In the Category of **Applied Methodology**, the four finalists (in alphabetical order of their last name)
-are
-
-- Brandon Carter (University of Texas at Austin) for the thesis:  
-  “Bayesian Spatial Models for Discrete Data:
-  Methodological Advances with Applications in Urban Sociology”.  
-  Supervisor: Catherine A. Calder.
-
-- Jorge Castillo-Mateo (University of Zaragoza) for the thesis:  
-  “Stochastic models for the spatio-temporal
-  analysis of extremes: Applications to the analysis of climate change”.  
-  Supervisors: Ana C. Cebri'an Guajardo and
-  Alan E. Gelfand.
-
-- Changwoo Lee (Texas A&M University) for the thesis:  
-  “Probabilistic clustering methods for complex data and related topics”.  
-  Supervisor: Huiyan Sang.
-
-- Michael Schwob (University of Texas at Austin) for the thesis:  
-  “Bayesian Hierarchical Models for Dependent Ecological Data”.  
-  Supervisor: Mevin B. Hooten.
-
-In the Category of **Theory and Methods**, the four finalists (in alphabetical order of their last name) are:
-
-- Filippo Ascolani (Bocconi University) for the thesis:  
-  “Hierarchical structures in Bayesian Statistics”.  
-  Supervisors: Igor Prünster and Antonio Lijoi.
-
-- Hyunwoong Chang (University of Texas at Dallas) for the thesis:  
-  “Convergence analysis of Markov chain Monte Carlo methods for model selection problems”.  
-  Supervisors: Quan Zhou and Suojin Wang.
-
-- Samhita Pal (North Carolina State University) for the thesis:  
-  “Bayesian Inference in High-dimensional regression Models using Sparse Projection-Posterior”.  
-  Supervisor: Subhashis Ghoshal.
-
-- Yuren Zhou (Duke University):  
-  “Bayesian Deep Discrete Latent Structures”.  
-  Supervisor: David B. Dunson.
-
-The Savage Award 2025 sub-committees comprised of  
-Veera Baladandayuthapani (University of Michigan), Noirrit Kiran Chandra (University of Texas - Dallas), Daniele Durante (Bocconi University),
-Claire Gormley (University College Dublin), Jeff Miller (Harvard University, chair), Yang Ni (Texas A&M University), Yasuhiro Omori (University of Tokyo), Garritt Page (Brigham Young University), and Yixin Wang (University of Michigan) for the
-category of Applied Methodology, and Federico Camerlenghi (University of Milano-Bicocca), Fabrizio Leisen (King's College London), Feng Liang (University of Illinois Urbana-Champaign), David Nott (National University of Singapore), Fernando Quintana (Pontificia Universidad Católica de Chile), and
-Athanasios Kottas (University of California, chair) for the category of Theory and
-Methods. They were all very impressed with the high quality of submissions this year and congratulate all applicants on their fine contributions to Bayesian statistics.
-
-The Savage Award finalists’ presentations are scheduled for June 30 and July 1, and the award ceremony will take place during the banquet on Friday, July 3. You are all warmly invited to attend, and we hope to see many of you there!
+The Savage Award, named in honor of Leonard J. ``Jimmie'' Savage, is bestowed each year to two
+outstanding doctoral dissertations in Bayesian econometrics and statistics, one each in Theory &
+Methods and Applied Methodology. Up to two awards of $750 will be awarded. Finalists will be
+notified by January 2027 and invited to present their dissertation research at a special contributed
+session at the Joint Statistical Meetings in Chicago. The winners will also be
+announced at the same meeting. For details on the Savage Award, including names of past winners,
+eligibility details, and submission information, please visit [this website](https://bayesian.org/project/savage-award/). Nominations for the Mitchell Prize and Savage Award may be made by any ISBA or SBSS
+member. To join ISBA please go to [this link](https://bayesian.org/membership/joinrenew/).
+Questions regarding any of the Prizes or Awards may be sent to the ISBA Prize Committee at [prizecommittee@bayesian.org](mailto:prizecommittee@bayesian.org).
 :::

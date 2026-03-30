@@ -11,11 +11,13 @@ margin:10px 20px;border-radius: 10px;max-width: 100%;"}
 <br>
 
 :::{.justify}
-As 2025 draws to a close, so does my second year as Editor. I would like to once again thank everyone who contributes to the Bulletin and makes this publication possible.
+Hello Bayesians,
 
-This issue opens with a beautiful obituary in memory of Harry van Zanten, followed by updates from the Program Council, Bayesian Analysis, and the Prize Committee. Be sure not to miss the report from the Ad Hoc Committee tasked with reflecting on the future of ISBA conferences - and please take a moment to complete the associated survey!
+Welcome to the first ISBA Bulletin of 2026! A huge welcome to our incoming officers and a sincere thank you to all our contributors.
 
-We also bring you news from j-ISBA, along with updates on what is happening across the broader Bayesian community. Finally, this issue features important information on teaching Bayesian statistics and celebrates the newly elected members from the most recent ISBA elections.
+This issue covers all the essential community updates, featuring reports from the Program Council, the BA Editor, the Awards Committee, and j-ISBA. We are also pleased to share a proposal for a new ISBA Section on Bayesian Structure Learning, alongside a "News from the World" section packed with global events.
 
-ISBA community, enjoy!
+To cap it all off, we feature a special contribution celebrating the 80th anniversary of Jeffreys’ prior, as well as a Software Highlight showcasing the flexibility of the NIMBLE probabilistic programming language.
+
+ISBA community, enjoy the read!
 :::
