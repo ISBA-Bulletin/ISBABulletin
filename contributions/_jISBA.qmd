@@ -16,7 +16,7 @@ Dear ISBA community,
 
 welcome back to the j-ISBA news! Let us start with a refresher of the not-so-new news, but still relevant:
 
-* [BAYSM 2026](https://baysm2026.github.io) is around the corner: we will see the many participants on June 26 and 27 in Chiba, Japan. We will gain research insights from the keynote speakers Kerrie Mengersen and Kengo Kamatani, 12 talks with discussion, and 52 posters. Prizes will be awarded to the best talks and posters, so be shiny!
+* [BAYSM 2026](https://baysm2026.github.io) is around the corner: we will see the many participants on June 26 and 27 in Chiba, Japan. We will gain research insights from the keynote speakers Kerrie Mengersen and Kengo Kamatani, 12 talks with discussion by Mike West, Shonosuke Sugasawa and Kaoru Irie, and 52 posters. Prizes will be awarded to the best talks and posters, so be shiny!
 * [The Blackwell-Rosenbluth Award](https://j-isba.github.io/blackwell-rosenbluth.html) applications are open until July 12. Remember to nominate your favorite junior Bayesian (who could be yourself!).
 
 ### j-ISBA mixer at ISBA
