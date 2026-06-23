@@ -10,56 +10,49 @@ margin:10px 20px;border-radius: 10px;max-width: 100%;"}
 :::
 
 :::{.justify}
-## Q&A: what do you ~~believe~~ think?
-
-**How has Generative AI impacted your research and research group?**
-
-*Sam Power (University of Bristol, UK)*
-
-My experience with Generative AI in the context of research is still evolving, but has already been quite interesting. Socially, I have found there to be an interesting mix of responses, whereby i) many people are intrigued by the possibilities, and don't want to risk missing out on an interesting tool, but equally ii) many people struggle to identify which of their tasks are well-suited to the present capabilities of these tools (and I have had both responses myself!). One might hear stories of other researchers solving their own problems 'with the help of GenAI tools', without obtaining much clarity as to what the AI-assisted research process looks like in concrete terms. In this regard, I think it's highly valuable to share more stories of exactly how researchers in our field can use these tools productively.
-
-A major use-case among colleagues seems to be in integrating LLM tools into writing code. I have not been using this so much so far for, e.g., algorithm development - my recent projects have been focused on more theoretical questions - but I have already had some success in using LLMs to write informal applets for familiar methods; think of rudimentary visualisations of, e.g., the Random Walk Metropolis sampler, a Particle Filter, the Optimal Scaling phenomenon in MCMC, and similar. These methods are routine enough that one can get a basic applet up-and-running in seconds, add in some buttons, sliders, graphs, ... quickly after, and then have a rather interactive representation to play around with. I have also found this approach useful in cooking up animations for seminar presentations.
-
-Anecdotally, I know of many colleagues who have found these tools to be particularly useful for literature review, and entering into unfamiliar research areas. I can see the potential here, but my own tastes still lean towards first-hand reading and making connections with (human) experts where possible, each having their own charms.
-
-While stories of AI systems, e.g., autonomously solving Erdos problems are exciting from the outside, I do not yet have the optimism to ask an LLM to do the same for a tough statistical problem (indeed, a common point of discussion is that Statistics does not really have a conventional culture of 'open problems' anyways). Nevertheless, there does seem to be a case that LLMs can be useful for advancing a given project. For intermediate tasks like turning a rough idea into something more formal, turning some new definitions into some basic supporting theory, finding extensions to and applications of some basic results, etc., synthetic feedback from LLMs stands out in being quick to obtain and concrete in its recommendations. A ubiquitous challenge in research is to critically assess which ideas are worth persisting with and developing into something more serious, and in this regard, these tools already seem to have some value.
-
-To conclude, a vignette from my own research: for my own reasons, in my more mathematical work, I am somewhat guilty of "constant-chasing", to the effect of working hard to sharpen inequalities and bounds where possible. This fervour is (understandably!) not shared by all collaborators, and I would rarely insist that every constant in a paper be optimised - one needs to finish a project at some stage, after all! With this being said, this sort of task is sufficiently 'routine' that several current LLM tools can provide useful guidance on specific calculations, and it is common that one can make some appreciable improvements based on a few rounds of LLM feedback. Moreover, on the occasions that this strategy does pay off, I tend to learn (or at least remember) something useful from the experience of re-writing any 'borrowed' proofs in my own words. It stands to reason that other similar 'routine' tasks will also interface favourably with LLM tools, either already or in the near future.
-
-Some side details (not essential to include, but maybe useful context): The answer above is entirely written by me. When using GenAI tools, I mostly use Gemini, and occasionally ChatGPT, both in their unpaid versions. I have written some non-publication research notes ([A](https://drive.google.com/file/d/1tEie57t5zbVhC8tyKCPfpiDT8EbfnPWy/view), [B](https://drive.google.com/file/d/1msTayZJ3NgIPPcl2L5pMpD8-x6nTUP0P/view)) which involve low-level mathematical contributions from LLMs.
-
 ## Upcoming Meetings, Conferences, and Workshops
 
 ### ISBA sponsored or endorsed events
 
-- [2026 Best of Statistical Science Workshop (BOSS 2026)](https://calendar.tamu.edu/statistics/event/358551-2026-best-of-statistical-science-workshop-boss-2026), 24-25 April 2026, Department of Statistics at Texas A&M, USA. BOSS 2026 brings together leading experts, faculty, and students for two days of engaging discussions, presentations, and networking opportunities. Whether you’re a student, researcher, or industry professional, this event is a great opportunity to connect and explore the latest advancements in statistical science.
+- [The Bayesian Young Statisticians Meeting (BAYSM) 2026](https://baysm2026.github.io/), 26–27 June 2026, Chiba University, Japan. The keynote speakers will be Prof. Kerrie Mengersen and Prof. Kengo Kamatani.
 
-- [The Bayesian Young Statisticians Meeting (BAYSM) 2026](https://baysm2026.github.io/), 26-27 July 2026, Chiba University, Japan. The keynote speakers will be Prof. Kerrie Mengersen and Prof. Kengo Kamatani.
+- [4$^{th}$ Bayesian Nonparametrics (BNP) Networking Workshop](https://bnpnetworking2026.github.io/), 6–10 July 2026, Seoul, South Korea.
 
-- [4$^{th}$ Bayesian Nonparametrics (BNP) Networking Workshop](https://bnpnetworking2026.github.io/), 6-10 July 2026, Seoul, South Korea. This meeting is organised by the Bayesian Nonparametrics (BNP) Section and aims to enhance networking within the BNP community, particularly for junior researchers.
+- [The 9th Eastern Asia Chapter Conference (EAC-ISBA 2026)](http://eac-isba.ms.ynu.edu.cn/), 23–25 July 2026, Yunnan University in Kunming, China.
 
-- [The 9th Eastern Asia Chapter Conference (EAC-ISBA 2026)](http://eac-isba.ms.ynu.edu.cn/), 23-25 July 2026, Yunnan University in Kunming, China. The conference will include keynote presentations, parallel invited sessions, contributed sessions, and poster sessions. Further details and updates are available on the conference website.
+- [16th European Seminar on Bayesian Econometrics (ESOBE)](https://esobe2026.github.io/), 27–28 August 2026, LUISS University, Rome, Italy.
 
-- [16th European Seminar on Bayesian Econometrics (ESOBE)](https://esobe2026.github.io/), 27-28 August 2026, LUISS University, Rome, Italy. This conference features keynote speakers Concepción Ausín (Universidad Carlos III de Madrid), Radu Craiu (University of Toronto), and Petros Dellaportas (University College London). The submission deadline for contributed talks and posters is 27 April 2026. Submissions from all fields of Bayesian econometrics (macro, micro, and financial) are welcome, as well as papers on Bayesian theory, computing, and machine learning. PhD students who are members of the EFaB section of ISBA may apply for a travel support grant. Students and researchers who received their PhD after August 2021 may apply to present their work in the dedicated oral “Young Researchers Session”.
+- [The Bayesian Biostatistics Meeting (BAYES) 2026](https://www.bayes-pharma.org/), 21–23 October 2026, Leiden, The Netherlands. This meeting is an annual gathering of biostatisticians interested in using Bayesian methods in life science and public health settings. The meeting features a half-day short course, 8 plenary speakers, a large number of contributed talks, and a panel discussion.
 
-- [Rethinking the Role of Bayesianism in the Age of Modern AI Workshop](https://workshops.inf.ed.ac.uk/ml/bayesai/), 26-30 October 2026, Edinburgh, UK. This workshop will bring together researchers exploring the frontiers of Bayesian machine learning and deep learning in a collaborative atmosphere. The scientific programme will consist of invited talks, open discussions, interactive breakout sessions, poster sessions for junior participants, and lightning talks.
+- [Rethinking the Role of Bayesianism in the Age of Modern AI Workshop](https://workshops.inf.ed.ac.uk/ml/bayesai/), 26–30 October 2026, Edinburgh, UK.
 
-- [International Conference on Statistics, Data Science, and Computing for the Environment and Climate Change (LACSC-TIES-EnviBayes-EnvrASA) 2026](https://isi-web.org/event-detail/664), 7-11 December 2026, Mexico City, Mexico. This international conference is jointly organised by the Latin American Regional Section of the International Association for Statistical Computing (IASC-LARS ISI), the Mexican Association of Statistics Asociación Mexicana de Estadística (AME), the International Environmetrics Society (TIES) Section on Environmental Sciences of the International Society for Bayesian Analysis (EnviBayes ISBA) and the Section on Statistics and the Environment of the American Statistical Association (ENVR ASA). The theme of this conference is "Climate Change in 2026". Deadline for abstract submissions: 31 May 2026.
+- [International Conference on Statistics, Data Science, and Computing for the Environment and Climate Change (LACSC-TIES-EnviBayes-EnvrASA) 2026](https://isi-web.org/event-detail/664), 7–11 December 2026, Mexico City, Mexico.
+
+- [International Statistical Ecology Conference (ISEC 2027)](https://statisticalecology.org/#Workshops), 8–15 January 2027, Mérida, Yucatán, México. This is the main international gathering of statistical ecologists and an inclusive interdisciplinary conference at the interface between statistics and ecology. This event is composed of 2-day workshops (8–9 January) followed by the main conference (10–15 January).
+
+- [VIII Latin America Congress on Bayesian Statistics and 18th Brazilian Meeting of Bayesian Statistics](https://cobalebeb2027.softaliza.com.br/), 1–5 March 2027, Armação de Búzios, Rio de Janeiro, Brazil. This biannual meeting's primary goal is to strengthen the integration of Latin American researchers working in Bayesian Statistics and enhance their visibility and impact by fostering the convergence of different communities around shared challenges and advances. Deadline for contributed talks and posters submissions: 30 August 2026.
 
 ### Other events
 
-- [12th International Workshop on Spatio-Temporal Modelling (METMA XII)](https://metma12.unizar.es/), 8-10 June 2026, Zaragoza, Spain. METMA XII will be held in Zaragoza, Spain, from 8 to 10 June 2026. The conference aims to promote the development and application of spatial,
-temporal, and spatio-temporal statistical methods in the context of health and environmental research, with a particular emphasis on Bayesian methods. The scientific program will include four keynote speakers (A. Gelfand, S. Banerjee, G. Jona-Lasinio and R. Huser) and invited speakers; contributions in the form of oral presentations and
-posters are welcome. The deadline for abstract submission is 15 April 2026. Further details
-can be found on the official conference website.
+- [$10^{th}$ Bayesian, Fiducial, and Frequentist Statistics (BFF) conference](https://bffconference.github.io/bff-salzburg-2026/), 10–11 July 2026, Salzburg, Austria.
 
-- [$7^{th}$ meeting of the Institute of Mathematical Statistics Asia Pacific Rim Meeting (IMS-APRM)](https://ims-aprm2026.sta.cuhk.edu.hk/), 13-16 June 2026, The Chinese University of Hong Kong, Hong Kong. This event serves as a global forum for scientific communication and collaboration among researchers from Asia and the Pacific Rim. It aims to foster connections and partnerships between researchers in this region and colleagues from around the world. Deadline for submitting contributed talks: 31 March 2026.
+- [Institute of Mathematical Statistics Annual Meeting 2026](https://ims2026.github.io/IMS2026/), 6–9 July 2026, Salzburg, Austria.
 
-- [Statistical Methods for Dynamical Stochastic Models (DYNSTOCH 2026)](https://dynstoch2026.pages.dev/), 15-17 June 2026, Gothenburg, Sweden. This conference is hosted by the Department of Mathematical Sciences at Chalmers University of Technology and the University of Gothenburg, and brings together researchers who are working on various topics in inference and simulation for stochastic processes. Abstract submission deadline: 15 April 2026.
+- [European Meeting of Statisticians 2026](https://ems26.org/), 24–28 August 2026, Lugano, Switzerland.
 
-- [$10^{th}$ Bayesian, Fiducial, and Frequentist Statistics (BFF) conference](https://bffconference.github.io/bff-salzburg-2026/), 10-11 July 2026, Salzburg, Austria. The scientific program will include keynote lectures by Richard Samworth and Peter Grünwald. Poster submission deadline: 30 May 2026.
+- [Joint Statistical Meetings 2026](https://ww2.amstat.org/meetings/jsm/2026/), 1–6 August 2026, Boston, USA.
 
-- [Institute of Mathematical Statistics Annual Meeting 2026](https://ims2026.github.io/IMS2026/), 6-9 July 2026, Salzburg, Austria. The scientific program will feature the 2026 Wald Lecture (Tilmann Gneiting), the 2026 Blackwell Lecture, three 2026 Medallion Lectures (Ian McKeague, Bodhisattva Sen, Jelle Goeman), the IMS Lawrence D. Brown Ph.D. Student Awards, and more than 60 invited and contributed sessions. Deadline for submitting contributed talks: 1 April 2026.
+- [Royal Statistical Society International Conference 2026](https://rss.org.uk/training-events/conference2026/), 7–10 September 2026, Bournemouth, UK. This is a well-attended event by professionals, researchers, students and everyone interested in the cutting edge of statistical methodology and the impactful application of statistics and data science. Deadline for poster presentations: 19 June.
 
-- [European Meeting of Statisticians 2026](https://ems26.org/), 24-28 August 2026, Lugano, Switzerland. This conference is sponsored by the European Regional Committee of the Bernoulli Society, and is the main conference in statistics and probability in Europe. This meeting features 7 plenary speakers, 21 invited sessions and many contributed sessions. Submission deadline for contributed talks/posters: 31 March 2026.
+- [12th International Conference on Soft Methods in Probability and Statistics](https://conference.unisalento.it/event/14/), 15–18 September 2026, Lecce, Italy. This conference is a biennial event gathering researchers exploring established and emerging approaches in soft probability and statistics.
+
+- [Mathematics in Sciences, Engineering, and Economics (MathSEE) symposium](https://indico.kit.edu/event/5571/overview), 28–30 September 2026, Karlsruhe, Germany. This symposium features 8 plenary speakers and 7 sessions on topics such as inverse problems and optimization, Bayesian structure learning, and dependence modeling. Deadline for submitting contributed talks: July 31.
+
+- [Bayesian Methods for the Social Sciences (BMSS-III)](https://bayesforshs3.sciencesconf.org/), 9–11 December 2026. The event will gather statisticians and social scientists around the theme of Bayesian statistical methods for the social sciences. It is the third edition of the workshop. The first was held in Paris in October 2022, and BMSS-II took place in Amsterdam in October 2024.
+
+- [IMS International Conference on Statistics and Data Science (ICSDS) 2026](https://sites.google.com/view/ims-icsds2026/home), 15–18 December 2026, Split, Croatia. This annual conference brings together researchers in statistics and data science from academia, industry, and governments. Deadline for student award applications: 30 September.
+
+- [International Indian Statistical Association (IISA) 2026 conference](https://www.intindstat.org/conference2026/index), 26–30 December 2026, Varanasi, India. The conference's program includes short courses, contributed and invited sessions, and four plenary speakers. Deadline for poster and abstract submissions: 1 August.
+
+- [Bayesian Structural Learning (BAYST) Workshop](https://sites.google.com/view/bayst2027), 1–3 March 2027, Karlsruhe, Germany. This workshop aims to bridge recent advances in Bayesian structural learning with applied sciences, fostering scientific discussion and collaboration between theoretical and applied researchers.
 :::

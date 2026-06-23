@@ -12,23 +12,20 @@ margin:10px 20px;border-radius: 10px;max-width: 100%;"}
 
 
 :::{.justify}
-**New j-ISBA Board Members**. With the start of 2026, the newly elected officers have joined the
-j-ISBA Board. Please join me in welcoming our new Chair-Elect, Francesco Gaffi; new Secretary, Emma Landry; and new
-Program Chair, Nicolas Bianco. You can find their brief biographies on the j-ISBA website [at this link](https://j-isba.github.io/officers.html).
-A big “thank you” goes to our outgoing Board Members Matteo Giordano, Filippo Ascolani, and Jordan Bryan for their hard work and outstanding service to j-ISBA in 2024 and 2025!
-j-ISBA will hold elections again this year for the positions of Chair-Elect and Treasurer; announcements will follow in the coming months.  
+Dear ISBA community,
 
-**Upcoming Events (and collaborations to celebrate!)**
+welcome back to the j-ISBA news! Let us start with a refresher of the not-so-new news, but still relevant:
 
-- [BAYSM 2026](https://baysm2026.github.io/) will take place in Chiba, Japan, on June 26–27, 2026. We are honored to have Professors Kerrie Mengersen and Kengo Kamatani as keynote speakers. In addition, our Blackwell-Rosenbluth award winners Beniamino Hadj-Amar, Geoff Pleiss, Nianqiao Jiu, Beatrice Franzolini, Jun Yang, and Francesco Denti will give a talk in two dedicated sessions. We have received a large number of interesting abstracts, and we will soon send out acceptance notifications and open registration!
-    
-- In an effort to broaden its geographic reach, j-ISBA has started a collaboration with the [Young African Statisticians Association](https://youngstatisticians.org). The first joint event was a webinar in February, "A Journey Through Bayes: How Bayesian Statistics Improves Our Understanding of Cancer," delivered by Dr. Adolphus Wagala (Dana-Farber Cancer Institute). He gave an excellent talk on Bayesian statistics and its applications in cancer research. The webinar was attended by over 50 participants. The next webinar is planned for June—stay tuned for details. P.S.: Are you following our [LinkedIn page](https://www.linkedin.com/company/107671176/admin/dashboard/)?
-    
-- Another edition of the [Blackwell-Rosenbluth Award](https://j-isba.github.io/blackwell-rosenbluth.html) awaits us! The award recognizes outstanding junior Bayesian researchers based on their overall contributions to the field and to the community. While the call will open in April 2026, you may already start thinking about nominations. PhD students or early-career researchers who obtained their PhD after January 1, 2021, will be eligible. We will also consider nominations with a PhD date before 2021 in cases of particular circumstances (e.g. maternity leave, health issues, etc.).
-    
-- j-ISBA is sponsoring the session "Recent Advances from Junior Bayesians" at the [2026 ISBA World Meeting](https://isba2026.github.io), Nagoya, Japan, June 28–July 3.  
-  *Speakers*: D\'eborah Sulem, Jack Jewson, Noirrit Kieran Chandra  
-  *Chair*: Matteo Giordano
+* [BAYSM 2026](https://baysm2026.github.io) is around the corner: we will see the many participants on June 26 and 27 in Chiba, Japan. We will gain research insights from the keynote speakers Kerrie Mengersen and Kengo Kamatani, 12 talks with discussion, and 52 posters. Prizes will be awarded to the best talks and posters, so be shiny!
+* [The Blackwell-Rosenbluth Award](https://j-isba.github.io/blackwell-rosenbluth.html) applications are open until July 12. Remember to nominate your favorite junior Bayesian (who could be yourself!).
 
-If you can, please remember to join the j-ISBA section by adding USD $5$ when you renew your ISBA membership (which is only USD $5$ for students).
+### j-ISBA mixer at ISBA
+
+During ISBA, we will hold a j-ISBA event to spend some time all together, get to know nice people, and announce the next activities of j-ISBA. The j-ISBA mixer will happen on Wednesday at 8pm, after the poster session. One drink and some snacks are on us, and additional food and drinks can be purchased in the bar.
+
+The event is limited by space constraints, and we will operate on a first-come, first-served basis. You will receive an email notification with the location address at the beginning of the ISBA week. To participate, please [fill in this form](https://docs.google.com/forms/d/e/1FAIpQLSekARMW_oYs0rS5iWmNuD-8dmzVzEqdqMFJl0uRAb0TJGrj4w/viewform?usp=dialog) before Sunday, June 28th.
+
+### j-ISBA is looking for officers!
+
+In the next ISBA elections, the j-ISBA board will need two new board members to fill the positions of Chair-Elect and Treasurer for the years 2027-2028. I can tell you firsthand that serving on the board is a really rewarding and exciting experience. Senior PhD students, postdocs, and early career researchers are encouraged to apply. Those interested in being nominated for the elections are invited to submit a CV and a motivation letter to [jisba.section@gmail.com](mailto:jisba.section@gmail.com). To be given full consideration, please limit your motivation letter to 2 pages and submit your materials by July 15, 2026.
 :::

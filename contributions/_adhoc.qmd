@@ -1,0 +1,90 @@
+:::{.section_bulletin}
+# REPORT BY THE AD HOC COMMITTEE ON THE FUTURE OF ISBA CONFERENCES {#sec-adhoc}
+[Guido Consonni, Kate Lee, Gertraud Malsiner-Walli, and Christian Robert](mailto:guido.consonni@unicatt.it){style="color:white; text-align: center;"}
+:::
+
+<br>
+
+:::{.justify}
+During the ISBA 2024 World Meeting in Venice, an invited panel discussion titled *“Which Future for ISBA Conferences?”* was organized by Guido Consonni and Gertraud Malsiner-Walli. The panelists were Kate Lee, Christian Robert, and Ron Wasserstein. Despite the presence of many parallel sessions, the panel attracted a substantial audience, including ISBA President Aad van der Vaart, and generated a lively discussion on the future of scientific meetings within the Bayesian community. The strength of that discussion suggested that questions about conference formats, access, environmental sustainability, and community building had become timely for ISBA.
+
+In September 2025, the ISBA Executive Committee established the *Ad Hoc Committee on the Future of ISBA Conferences*, with the task of preparing a report on the environmental impact and inclusivity of ISBA meetings, and of exploring possible directions for future conference formats. The Committee consisted of Guido Consonni, Kate Lee, Gertraud Malsiner-Walli, and Christian Robert. Its aim was not to prescribe a single model for future meetings, but to assemble evidence and identify issues that deserve consideration by the Society.
+
+The Committee examined a broad range of issues related to contemporary scientific meetings, with particular attention to inclusive participation and environmental sustainability. Different formats were considered, including in-person, virtual, hybrid, and multi-hub meetings. Each of these formats offers opportunities and raises difficulties. The Committee also considered it essential to obtain direct feedback from ISBA members. To this end, it organized the *Survey on Meeting Experiences to Inform Future ISBA Events*. All ISBA members were invited to participate, and responses were collected between January 5 and March 31, 2026.
+
+The full report is organized into four main sections. The first summarizes the survey results. The second discusses the environmental impact of conferences. The third considers inclusiveness and barriers to participation. The fourth focuses on multi-hub conferences, a format still relatively unfamiliar in many scientific communities but, in the Committee's view, worthy of serious consideration. The sections on environmental impact, inclusiveness, and multi-hub meetings each include a discussion of implications for ISBA. The report also contains an appendix with the survey questionnaire and additional material on past meetings and conference-related evidence.
+
+### Survey results
+
+The survey collected 221 responses. Questions 1--11 were closed-ended and provided a quantitative overview of motivations for attending ISBA meetings, perceived advantages and drawbacks of different formats, barriers to participation, environmental considerations, and preferences for future meetings. Questions 12--14 were open-ended and invited respondents to elaborate on inclusiveness, accessibility, environmental sustainability, and other aspects of future ISBA events. The number of open-text responses was 83 for Q12, 66 for Q13, and 56 for Q14.
+
+The closed-ended responses show that ISBA meetings are primarily valued as occasions for scientific exchange, research presentation, networking, and participation in the Bayesian community. Respondents emphasized learning about new developments, presenting their own work, meeting collaborators, building visibility, and maintaining professional connections. These findings are important because they clarify that members attend ISBA meetings not only to receive scientific information, but also to take part in the informal and social processes through which a scientific community is built.
+
+At the same time, the survey identifies a clear trade-off between the strengths of in-person meetings and the advantages of remote participation. In-person meetings are strongly associated with networking, social interaction, engagement, focus, and more natural scientific discussion. Virtual participation is valued for reducing financial and administrative costs, eliminating or reducing travel, improving accessibility, and being more environmentally friendly. However, respondents also identified substantial drawbacks of virtual formats, including weaker networking, lower engagement, less effective informal discussion, and time-zone difficulties.
+
+The resulting message is that in-person meetings remain the most strongly supported format, while fully virtual meetings are most often identified as the least preferred option. Hybrid and multi-hub formats occupy an intermediate position. Their possible appeal lies in the prospect of combining some local or regional in-person interaction with broader access and reduced travel burden.
+
+The open-ended responses provide a richer view of these issues. Q12 asked: *“What changes would you recommend to make future ISBA events more inclusive and accessible for international attendees and individuals from all backgrounds?”* Q13 asked: *“What changes would you recommend to make future ISBA events more environmentally friendly but accessible for international attendees and individuals from all backgrounds?”* Q14 invited respondents to elaborate further on any of the preceding questions. Each open-ended response allowed a maximum of 1000 characters.
+
+::: {#fig-heatmap-bulletin fig-cap="Themes emerging from the open-ended questions Q12--Q14. Cell entries are approximate coded percentages, using the number of responses to each question as the denominator. Categories overlap."}
+![](figures/fig_heatmap.png){width=78%}
+:::
+
+The dominant theme in Q12 was financial accessibility. Respondents repeatedly mentioned registration fees, accommodation, travel costs, and the need for more travel awards or fee reductions. Several comments proposed sliding-scale registration, need-based support, lower-cost venues, and more systematic travel funding. A second major theme concerned geographic accessibility, including visa barriers, travel distance, political restrictions, and the importance of choosing locations that are easier to reach and safer for a wider range of participants.
+
+Q13 was dominated by environmental sustainability and by the search for compromise formats. Respondents often mentioned multi-hub meetings as a possible way to reduce long-distance travel while preserving some benefits of in-person interaction. Suggestions included regional hubs, linked plenaries, local streams, and satellite events organized around a main meeting. Respondents also emphasized practical decisions such as choosing well-connected locations, reducing single-use materials, simplifying catering, and collecting information on the travel footprint of ISBA meetings.
+
+Q14 reinforced the perceived value of in-person meetings. Respondents emphasized networking, scientific serendipity, poster interaction, focused time away from ordinary work, and the importance of conferences for early-career researchers. At the same time, they recognized that the current in-person model can generate equity problems if only those with strong institutional support can afford regular participation. Taken together, the survey suggests that the challenge is not to replace in-person meetings, but to broaden access to the scientific and social benefits that make them valuable.
+
+### Environmental impact of conferences
+
+Academic and professional conferences generate substantial greenhouse gas emissions, especially through travel. The report reviews evidence showing that the carbon footprint of major scientific meetings can be substantial, particularly when participants travel long distances by air. In the context of ISBA, whose membership is international, these issues play a significant role.
+
+The environmental argument does not point to a single obvious solution. Fully in-person meetings maximize traditional face-to-face interaction, but tend to generate the highest travel-related emissions. Fully virtual meetings offer the strongest environmental benefits and may broaden access, but they are often less effective for informal exchange, mentoring, and community building. Hybrid and multi-hub formats occupy an intermediate position, potentially reducing emissions while preserving some benefits of physical presence.
+
+For ISBA, this suggests that future conferences should be evaluated in terms of explicit trade-offs. Environmental considerations should be interpreted together with members' preferences, professional needs, and practical constraints. Measures such as careful site selection, encouragement of lower-emission transport where feasible, reduced waste, remote access to selected components, and exploration of regional hubs could all contribute to more sustainable conference planning. The point is not to eliminate travel altogether, but to consider more deliberately when long-distance travel is essential and when it could be reduced or reorganized.
+
+### Inclusiveness
+
+The report considers inclusiveness as a structural issue in conference design. Conferences provide valuable opportunities to exchange ideas, build networks, and present research. Both in-person and virtual formats can create barriers to participation.
+
+In-person meetings can involve substantial costs, including registration fees and travel-related expenses. Financial barriers were the most frequently reported concern in our survey.
+
+Other administrative, logistical, or personal factors, including complex visa procedures, caregiving responsibilities, health conditions, and accessibility needs, may further restrict attendance. Virtual access reduces some of these barriers, but introduces substantial time-zone difficulties, lower visibility for remote presenters, and fewer opportunities for spontaneous discussion and networking outside formal sessions. These concerns have been clearly identified in our survey responses.
+
+Inclusiveness also concerns conference culture and program design. Language differences, unfamiliar conference norms, and overly critical environments can discourage participation. programs may give more visibility to some institutions, regions, topics, career stages, or established networks than to others. Inclusive speaker selection, transparent program procedures, broader representation in invited sessions, and attention to early-career participation are central to how a scientific society shapes its community.
+
+For ISBA, the implications are direct. Recent meetings have already introduced practices such as travel support, childcare support, and attention to sustainable conference practices. These efforts are valuable. At the same time, the growth of Bayesian research and the increasing scale of participation place pressure on existing program structures. Recent meetings have seen growing competition for talk slots. When talk slots are scarce, competition for visibility intensifies, and poster sessions may become overloaded or uneven.
+
+The report therefore suggests that inclusiveness should be treated as an ongoing responsibility involving affordability, accessibility, program design, speaker representation, and community culture.
+
+### Multi-hub meetings
+
+A multi-hub meeting is not simply a virtual meeting. It is a distributed conference in which participants meet in two or more physical locations, with some degree of coordination across hubs. Depending on the design, hubs may share plenary sessions, stream selected talks, organize local sessions, coordinate poster events, or combine synchronous and asynchronous discussions. The format aims to retain some face-to-face interaction while reducing the need for all participants to travel to a single location.
+
+Multi-hub meetings are attractive because they address several concerns at once. They may reduce long-distance travel and therefore emissions. They may lower costs for participants who can attend a regional hub rather than a distant main meeting. They may reduce visa barriers when hubs are chosen to improve accessibility. They may also create more opportunities for regional scientific communities, early-career researchers, and participants who would otherwise be unable to attend.
+
+However, the report emphasizes that multi-hub meetings are not a simple technical fix. They require careful design. Fee distribution between central and local organizers must be addressed. Scientific committees need to avoid reproducing the same concentration of influence in a distributed format. Invited sessions and plenaries must be planned so that the meeting remains scientifically coherent. Time zones create unavoidable difficulties, especially for fully synchronous events. Technological reliability, recording, captions, asynchronous discussion, and clear communication of schedules are essential.
+
+| Dimension | Key challenge | Leading practice |
+|------------|----------------|-------------------|
+| **Fee distribution** | Balancing central and local costs | Tiered fees by country income level, combined with a negotiated hub revenue share |
+| **Scientific committees** | Geographic concentration of power | Distributed, regionally representative sub-committees with rotating leadership |
+| **Invited sessions** | Reproducing existing networks | Open calls; cross-hub sessions; multilingual and region-specific sessions |
+| **Inclusiveness** | Assumed rather than actively designed | Explicit representation targets, live captioning, automatic fee waivers |
+| **Time zones** | No single schedule works for all | Defined overlap windows, follow-the-sun rotation, and asynchronous fallback |
+| **Visa issues** | Single-country bottleneck | Hub locations chosen for visa accessibility; contingency remote participation |
+
+: Key components of multi-hub/mirror academic conference design. {#tbl-mirror-meetings-bulletin}
+
+The report notes that some experiments related to ISBA activities have already occurred. The 2021 virtual ISBA World Meeting was mirrored in Marseille, and the workshop *ABC in Svalbard* was relocated across several sites during the COVID-19 period. A secondary hub is also planned in Aussois in connection with BayesComp 2027 in Texas, partly to support potential participants unable to attend the main location. These examples suggest that distributed formats can be explored gradually rather than adopted all at once as a complete replacement for existing meetings.
+
+For ISBA, the multi-hub model deserves serious consideration as a possible compromise between the value of in-person meetings and the need for broader access and reduced environmental impact. Ultimately, its success would depend on the engagement of the whole community, including ISBA sections, program committees, local organizers, and participants.
+
+### Conclusion
+
+The survey confirms the continuing importance of in-person interaction for scientific exchange, networking, informal discussion, mentoring, and community building. At the same time, it documents concerns about affordability, visa access, geographic barriers, environmental impact, and the inclusiveness of conference programs. These concerns are not peripheral to conference planning: they shape who is able to participate in ISBA meetings and how fully different parts of the Bayesian community can contribute to the life of the Society.
+
+The Committee hopes that this report may contribute to future discussions on how ISBA meetings can continue to foster scientific exchange and community building while becoming more inclusive, accessible, and environmentally sustainable.
+:::
+

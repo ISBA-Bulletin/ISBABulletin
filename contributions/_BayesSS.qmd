@@ -1,0 +1,20 @@
+:::{.section_bulletin}
+# FROM THE BAYESIAN SOCIAL SCIENCES SECTION {#sec-bayesSS}
+[Adrian Raftery, Monica Alexander, Nial Friel, Robin Ryder, Eric-Jan Wagenmakers](mailto:mailto:ej.wagenmakers@gmail.com){style="color:white; text-align: center;"}
+:::
+  
+
+  
+<br>
+  
+:::{.justify}
+Officially approved in 2025, the [Bayesian Social Sciences Section](https://bayesian.org/sectionschapters/bayesian-social-sciences/) of ISBA aims to promote the research, application, and dissemination of Bayesian inference for problems in the Social Sciences and Humanities. This domain is extremely broad and includes fields such as Anthropology, Archaeology, Demography, Economics, Geography, History, Linguistics, Political Science, Psychology, and Sociology.
+
+The impetus for the Social Sciences Section was originally provided by two successful workshops titled [Bayesian Methods for the Social Sciences](https://bayesforshs.sciencesconf.org/). BMSS I was held in Paris, October 2022, and featured presentations on social networks, demography, linguistics, emotion, climate change, migration, and mortality. BMSS II took place in Amsterdam, October 2024, and included work on graphical modeling, language change, model selection, social hierarchies, demography, and hypothesis testing. See [this link](https://bayesforshs2.sciencesconf.org/) for more information. Both BMSS I and II followed the same template: the first day was reserved for longer tutorial sessions, preparing participants for the more detailed presentations that took place during the two remaining days. Each workshop also featured a poster session with lively discussion and interaction.
+
+After BMSS II we were not only encouraged by the quality of the presented work, but we also realized that similar methodologies were being used to attack seemingly different topics. Consequently, we felt that superficially distinct application domains in the Social Sciences could benefit from more Bayesian cross-fertilization. Therefore, we resolved to make the BMSS series a tradition and to solidify our resolve by founding an ISBA Social Sciences Section. The main work of this section so far has been to set up BMSS III in Dublin, and our first session on Bayesian Social Sciences will take place at the 2026 ISBA World Meeting in Nagoya, Japan. We hope to see you there!
+
+#### Join us in Dublin
+
+The third installment of *Bayesian Methods for the Social Sciences* will be held at University College Dublin from December 9-11, 2026. The format of the workshop will follow similar lines to the previous two meetings. On the first day, tutorials will be presented on *Bayesian methods in Political Science* (by Max Goplerud, University of Texas at Austin), on *Bayesian methods for pairwise and ranked data* (by Nial Friel, University College Dublin), and on *high-dimensional Bayesian model choice* (by David Rossell, Universitat Pompeu Fabra, Barcelona). We will open registration for the workshop in the coming weeks, and further details, including the speaker lineup, can be found [here](https://bayesforshs3.sciencesconf.org/). We encourage early-career researchers to consider registering. We look forward to meeting you then!
+:::

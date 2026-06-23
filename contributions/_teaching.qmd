@@ -1,0 +1,75 @@
+:::{.section_bulletin}
+# TEACHING BAYES {#sec-teach}
+[Federica Zoe Ricci](mailto:fricci1@swarthmore.edu){style="color:white; text-align: center;"}
+:::
+  
+::: {.column-margin}
+![](images/fedezricci.png){style="float:center;vertical-align:middle;
+margin:10px 20px;border-radius: 10px;max-width: 100%;"}
+:::
+  
+<br>
+  
+:::{.justify}
+In the summers of 2023 and 2024, ISBA members **Mine Dogucu, Monika Hu and Amy Herring** ran *Bayes BATS*, a program aimed at **widening the teaching of Bayesian statistics in STEM** by training approx. 40 STEM professors, many of whom were new to Bayesian statistics. For this edition of our bulletin, 10 participants reflected on their successes and challenges since receiving the training, and shared some resources that they created. Below you can find a **summary of survey responses**, and can **learn about news and upcoming events** related to teaching Bayesian statistics.
+
+### Reflections and resources from a new cohort of Bayesian educators
+
+#### Successes
+
+The program provided most respondents with the confidence and competencies to **add new Bayesian courses** to their institutional offerings, or to **modify existing courses to include Bayesian methods** alongside frequentist approaches. Often, their students are excited to learn Bayesian ideas and have fun with the learning activities that participants co-developed. Some direct quotes are:
+
+> "*Once you explain how things work, it's like a light bulb goes on and it makes (even more) sense than what they already knew.*"
+
+> "*One of my favorite end-of-semester reflection questions asks students whether they see themselves as more Bayesian, or more frequentist. Their responses often lead to thoughtful discussions about the philosophical foundations of statistics.*"
+
+Finally, some trainees have began **using Bayesian methods in their own research**.
+
+#### Challenges
+
+Three main challenges were highlighted. First, a difficulty in **allocating sufficient time** to introduce new Bayesian material without sacrificing core requirements of existing, heavy-frequentist curricula. Second, dealing with **push-back from some colleagues** who are skeptical about Bayesian methods or about their usefulness for job prospects, particularly in business and economics programs. Third, overcoming students' intimidation by the **perceived difficulty of Bayesian concepts and cognitive load of learning programming languages** like R. Participants also reported that the main conceptual challenge is teaching how to choose priors.
+
+#### What training or resources would you like to see?
+
+Several respondents would love to receive more **training on intermediate Bayesian analysis** topics, including modeling, prior selection, and model validation:
+
+> "*[...] any training opportunities that help professors and/or students move from introductory statistics topics to more complex [Bayesian] analyses*"
+
+There is also a need for more resources for teaching **Bayesian computation** and to help students **connect theoretical Bayesian concepts to modern applications** --- especially examples that are accessible to undergraduate students.
+
+#### Resources created
+
+Respondents were happy to share some of the resources that they created:
+
+* A course in **Applied Bayesian Analysis** ([link](https://samanthaseals.github.io/STA6349Su26/), by S. Seals).
+
+* An activity to introduce the **Bayesian workflow with applications in biology, environmental science and criminal justice** ([link](https://agmath.github.io/IntroductoryBayesInContext/index.html), by A. Gilbert, K. Dureya and L. Lambert).
+
+* An activity to teach the **Beta-Binomial model** through a quiz where students try to **tell whether a headline came from CNN (a real news site) or The Onion (a fake, satirical news site)** ([link](https://bayes-bats.github.io/cnn-onion/bayesian-activity/cnn-onion-beta-binomial.html), by L. Baker, J. Scott and M. Dogucu).
+
+* An activity to teach **Bayesian reasoning and conditional probability** through team work ([link](https://arxiv.org/abs/2606.08660), by C. Yu and A. Ebeling).
+
+* An activity to **compare frequentist and Bayesian analyses using The Climate and Economic Justice Screening Tool** ([link](https://github.com/bayes-bats/tier2-freq-bayes/tree/main), by S. Langehennig and Z. del Rosario).
+
+Some participants would love to find new collaborators to co-develop Bayesian teaching materials: please reach out to [fricci1@swarthmore.edu](mailto:fricci1@swarthmore.edu) if you'd like to be put in contact with them!
+
+### BERaP mixer at ISBA
+
+Come meet members of the Bayesian Education Research and Practice section at the **BERaP mixer** event during the 2026 ISBA World Conference in Nagoya! It will take place from 6:30 to 8 pm on July 1, 2026 (Wed), at the Izakaya Revolution Yotteba Meieki 3 Chome. Please use [this link](https://forms.gle/UpyDDY3PAQYA2tVK7) to RSVP.
+
+### News and upcoming opportunities
+
+* A new **textbook** for learning Bayesian methods was published: *Bayesian Workflow*, by Andrew Gelman, Aki Vehtari and Richard McElreath. Here is a link to the [accompanying website](https://avehtari.github.io/Bayesian-Workflow/).
+
+* The Canadian Journal of Statistics invites **manuscript submissions** for a special issue on *Modern Issues in Statistics Education*. Check out their [call for papers](https://www.statisticsviews.com/call-for-papers-special-issue-on-modern-issues-in-statistics-education/) (paper submission deadline: 15 October 2026).
+
+* The ASA Section on Statistics and Data Science Education is inviting interested mentees and mentors to apply to its **mentoring program**, aiming to provide career advice and mentoring to statistics and data science educators. This year, ASA membership is *not* required to participate. Applications received by August 7 will receive priority. See the [application form](https://docs.google.com/forms/d/e/1FAIpQLScTbGPck8lW8U78RmkXROv9ZFXSqAC9sSgxlKoQ3o3q09YQnQ/viewform).
+
+* Every year, the ASA Section on Statistics and Data Science Education grants **funding** to promote educational initiatives. The application deadline is usually in mid-August. If you are interested in applying, check out their [initiatives](https://community.amstat.org/statisticaleducationsection/section-initiatives) webpage.
+
+### In case you missed it
+
+* BERaP hosted a webinar on **Teaching Bayesian Statistics in Modern Sports Analytics**, featuring Assistant Teaching Professor Ron Yurko from Carnegie Mellon University. Recording and slides can be accessed [here](https://berap-isba.github.io/events.html).
+
+* The [2026 Electronic Conference on Teaching Statistics](https://www.causeweb.org/cause/ecots/ecots26/) was held online. The theme was **Sparking Joy and Discovery In a World of AI**. You can visit the conference website to find out what was discussed and what resources were shared. You can find inspiration and resources for your own teaching --- I especially recommend you to check out the [posters](https://www.causeweb.org/cause/ecots/ecots26/program/posters)!
+:::

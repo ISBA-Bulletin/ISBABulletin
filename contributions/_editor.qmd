@@ -11,13 +11,13 @@ margin:10px 20px;border-radius: 10px;max-width: 100%;"}
 <br>
 
 :::{.justify}
-Hello Bayesians,
+Hello, ISBA community!
 
-Welcome to the first ISBA Bulletin of 2026! A huge welcome to our incoming officers and a sincere thank you to all our contributors.
+June is drawing to a close, the World Meeting is just around the corner, and it is time for the second issue of the ISBA Bulletin for 2026.
 
-This issue covers all the essential community updates, featuring reports from the Program Council, the BA Editor, the Awards Committee, and j-ISBA. We are also pleased to share a proposal for a new ISBA Section on Bayesian Structure Learning, alongside a "News from the World" section packed with global events.
+This issue is packed with news and updates from across the ISBA community. In particular, we look forward to gathering in Nagoya for the World Meeting, which promises an exciting scientific program and a valuable opportunity to reconnect with colleagues and friends from around the world.
 
-To cap it all off, we feature a special contribution celebrating the 80th anniversary of Jeffreys’ prior, as well as a Software Highlight showcasing the flexibility of the NIMBLE probabilistic programming language.
+As usual, you'll find information on upcoming conferences and workshops, announcements from ISBA Sections, opportunities for students and early-career researchers, recent achievements of our members, and much more.
 
-ISBA community, enjoy the read!
+I hope you enjoy this issue, and I look forward to seeing many of you in Nagoya soon!
 :::

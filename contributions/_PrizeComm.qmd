@@ -15,20 +15,5 @@ margin:10px 20px;border-radius: 10px;max-width: 115%;"}
 <br>
 
 :::{.justify}
-The Prize Committee of ISBA is pleased to open the call for submissions for the 2026 Mitchell Prize
-and Savage Award. The deadline for submissions is May 31, 2026.  
-The Mitchell Prize is given in recognition of an outstanding paper that describes how Bayesian analysis has solved an important applied problem. The prize includes a check for $1000 and a plaque;
-the winner(s) will be announced at the Joint Statistical Meetings in Chicago, Illinois, US, between August 7--12, 2027.  
-For details on the Mitchell Prize, including names of past winners, eligibility details, and submission
-information, please visit [this website](https://bayesian.org/project/mitchell-prize).
 
-The Savage Award, named in honor of Leonard J. ``Jimmie'' Savage, is bestowed each year to two
-outstanding doctoral dissertations in Bayesian econometrics and statistics, one each in Theory &
-Methods and Applied Methodology. Up to two awards of $750 will be awarded. Finalists will be
-notified by January 2027 and invited to present their dissertation research at a special contributed
-session at the Joint Statistical Meetings in Chicago. The winners will also be
-announced at the same meeting. For details on the Savage Award, including names of past winners,
-eligibility details, and submission information, please visit [this website](https://bayesian.org/project/savage-award/). Nominations for the Mitchell Prize and Savage Award may be made by any ISBA or SBSS
-member. To join ISBA please go to [this link](https://bayesian.org/membership/joinrenew/).
-Questions regarding any of the Prizes or Awards may be sent to the ISBA Prize Committee at [prizecommittee@bayesian.org](mailto:prizecommittee@bayesian.org).
 :::

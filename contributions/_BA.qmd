@@ -12,56 +12,64 @@ margin:10px 20px;border-radius: 10px;max-width: 100%;"}
 <br>
 
 :::{.justify}
-As spring approaches, I am pleased to share a few updates from *Bayesian Analysis*.
+In view of the ISBA World Meeting in Nagoya, I am pleased to share a few updates on *Bayesian Analysis*.
 
-#### Editorial Updates
+### 2025 Submissions and Review Times
 
-We closed 2025 with well over 300 submissions, an almost 30% increase compared to 2024. I am also very pleased to report that our streak of sending decisions within four months from submission remains intact: we have just issued a decision on the last paper submitted in November 2025, leaving only one more month to complete a full-year streak. This achievement is entirely due to the dedication of our Editorial Board members and referees, and I am very grateful for their efforts. I believe that the community has now fully embraced this shared commitment to timeliness, and that it will benefit the journal in the long run by combining the *Bayesian Analysis* tradition of constructive and thorough feedback with consistent and predictable turnaround times.
+The first message is that submissions to the journal continue to increase. In 2025, *Bayesian Analysis* received 327 submissions overall, the highest number in the history of the journal and above the levels reached during the COVID-19 years. The first five months of 2026 suggest that the upward trend is continuing, with the journal projected to receive slightly more than 400 submissions for the full year.
 
-I would also like to warmly thank [Maria Kalli](https://mariakalli.github.io/) (King's College London), who is stepping down as Managing Editor, for her outstanding work and dedication. At the same time, I am delighted to welcome [Francesco Sanna Passino](https://fraspass.github.io/) (Imperial College London) as the new Managing Editor for the 2026--2028 term.
+::: {#fig-ba-decision-times fig-cap="Submissions to Bayesian Analysis over time. The first 2026 bar reports submissions received up to 31 May; the second gives the corresponding full-year projection."}
+![](contributions/figures/BA_submissions_2013_2026-1.png)
+:::
 
-#### Enhancements to Reference Formatting
-	
-With Francesco's help, we are close to finalizing a redesigned reference format for *Bayesian Analysis* papers. We are very pleased with the result and hope you will be as well. Beginning in April, papers will start appearing on Advance Access with the new formatting. I would also like to thank the VTeX production team for their patience and responsiveness as we worked through the many implementation details.
+This is a very positive sign for the journal. It reflects the central role of *Bayesian Analysis* in the Bayesian community and the continuing vitality of our field. At the same time, it creates a substantial workload for Co-Editors, Associate Editors, and Referees. Maintaining high editorial standards while keeping turnaround times predictable is therefore one of our main operational priorities.
 
-As part of this work, we also tackled the challenge of citing conference proceedings consistently. Many journals struggle with this, and there is no fully automated solution that reliably enforces uniformity across sources. For that reason, we have chosen to rely more explicitly on authors' help, and we have updated the 
-[Author Guidelines](https://projecteuclid.org/journals/bayesian-analysis/author-guidelines) accordingly.  I am grateful in advance for the community's collaboration on this, and I encourage everyone to consult the updated guidelines before submitting their next paper to *Bayesian Analysis*. In the coming months, we also plan to refresh the BA style file itself.
+We now have a complete picture of the first editorial decisions for submissions received in 2025. Among regular submissions, 35.6% received a desk decision by one of the Co-Editors or by me, while the remaining 64.4% were sent to Associate Editors for further review. Figure 1 shows empirical survival curves for the time to first decision for submissions received in 2025, separately for papers receiving a desk decision and papers sent to Associate Editors.
 
-#### Upcoming Discussion Paper
+::: {#fig-ba-decision-times fig-cap="Empirical survival curves for time to first decision for submissions received in 2025, separately for desk decisions and submissions sent to Associate Editors." fig-numbers=false}
 
-I am pleased to announce the next discussion paper to appear in *Bayesian Analysis*:  
+::: columns
 
-<center>
+::: column
+![](contributions/figures/BA_desk_dec_2025-1.png)
+:::
 
-["Robust Probabilistic Inference via a Constrained Transport Metric"](https://doi.org/10.1214/25-BA1535)  
+::: column
+![](contributions/figures/BA_full_dec_2025-1.png)
+:::
 
-</center>
+:::
 
-by [Abhisek Chakraborty](https://www.linkedin.com/in/abhisek-chakraborty-829240136), [Anirban Bhattacharya](https://sites.google.com/view/anirban-bhattacharya-tamu/), and [Debdeep Pati](https://pages.stat.wisc.edu/~dpati2/).  
-The paper will feature invited discussions from [Marco Avella Medina](https://sites.google.com/site/marcoavellamedina/home), [Jonathan Huggins](http://jhhuggins.org/), [Tony Linero](https://theodds.github.io/), and [Yuexi Wang](https://yuexiwang.github.io/).
+:::
+Desk decisions were typically reached within a few days, reflecting an effort to provide rapid initial screening. For papers sent to Associate Editors, the median time to first decision was 73 days. All submissions received in 2025 have received a first decision within the four-month window, and I am glad to report that this target has continued to be met for submissions received through February 2026.
 
-We now welcome contributed discussions. Contributions should be no more than two pages long and prepared using the BA LaTeX style (available via the *Bayesian Analysis* author resources on Project Euclid). Please submit your discussion via  [EJMS](https://www.e-publications.org/ims/submission/) by May 10, 2026, and remember to select "Contributed Discussion" as the manuscript type. All accepted discussions will be shared with the authors, who will have the opportunity to respond in a rejoinder. We look forward to receiving thoughtful and engaging contributions from the community.
+These figures should not be read as prioritizing speed over quality. The strength of *Bayesian Analysis* has always been the combination of careful editorial judgment and constructive feedback. The main objective is instead to avoid outliers in decision times and to give authors greater predictability about the editorial timeline. I thank our Managing Editor, Francesco Sanna Passino, for his careful work in assembling the editorial data.
 
-#### Lindley Prize
+The increase in submissions, combined with the ambitious four-month target, means that we rely more than ever on the support of the Bayesian community. I am especially grateful to the Co-Editors, Associate Editors, and Referees for their collective work. I hope that many of you will continue to help the journal by reviewing papers when asked and by providing careful and timely reports.
 
-I would also like to provide a brief update concerning the Lindley Prize. The Lindley Prize Committee has now completed its work on the 2025 prize, based on the set of eligible papers published in the December 2025 issue of *Bayesian Analysis*. I am very grateful to the Committee for their careful and thoughtful efforts:  
-[David Frazier](https://dtfrazier.github.io/), 
-[Ryan Giordano](https://rgiordan.github.io/), 
-[Jonathan Huggins](http://jhhuggins.org/), 
-[Nadja Klein](https://www.kleinlab.de/subpages_team/klein.html), 
-[Li Ma](https://lm186.github.io/), 
-[Minerva Mukhopadhyay](https://sites.google.com/view/mmukhopadhyay/home), 
-[Ilsang Ohn](https://sites.google.com/view/iohn), and [Yixin Wang](https://yixinwang.github.io/).  
-The winner will be announced at the ISBA World Meeting in Nagoya, and I hope to see many of you at the awards ceremony.
+### Lindley Prize
 
-#### BA Sessions at ISBA 2026 and JSM 2026
+Let me also remind readers of the call for papers for the 2026 Lindley Prize. The prize is awarded for innovative research in Bayesian statistics. Eligible papers must be presented at the ISBA 2026 World Meeting in Nagoya and accepted for publication in *Bayesian Analysis*. Submissions are welcome from any presenter, whether invited or contributed, for oral or poster presentations. Papers should be submitted electronically to *Bayesian Analysis* by September 30, 2026, indicating in the cover letter that the manuscript is being submitted for the Lindley Prize and including the identification number of the session in which the work was presented. Further information is available on the [Lindley Prize webpage](https://bayesian.org/project/lindley-prize/).
 
-The *Bayesian Analysis* sessions at the 2026 meetings are scheduled as follows: 
+The winner of the 2024 Lindley Prize will be announced during the conference banquet and awards ceremony, which will be held in the evening of Friday, July 3, 2026.
 
-- ISBA World Meeting (Nagoya) on Friday July 3, 2026, from 9:00am to 10:30am  
-- JSM (Boston) on August 4, 2026, from 10:30am to 12:20pm.  
+### *Bayesian Analysis* at the ISBA World Meeting
 
-The lineups for these sessions were announced in the December 2025 issue of the ISBA Bulletin.
+I also hope to see many of you at the *Bayesian Analysis Highlights* session at the ISBA World Meeting in Nagoya, scheduled for 9:00 am on Friday, July 3, 2026. The session will showcase the following three *Bayesian Analysis* papers:
 
-As always, I encourage you to browse the many excellent papers recently accepted and now available in the [Advance Publication section](https://projecteuclid.org/journals/bayesian-analysis/advance-publication) of the journal.
+- Sudipto Banerjee (University of California, Los Angeles)  
+  *Bayesian inference for spatial-temporal non-Gaussian data using predictive stacking*  
+  Joint work with S. Pan, L. Zhang, and J. R. Bradley  
+
+- Kolyan Ray (Imperial College London)  
+  *Group Spike-and-Slab Variational Bayes*  
+  Joint work with M. Komodromos, M. Evangelou, and S. Filippi  
+
+- Subhashis Ghosal (North Carolina State University)  
+  *Bayesian Semi-supervised Multi-category Classification under Nonparanormality*  
+  Joint work with R. Zhu and S. Ghosh.
+
+### Advance Publication
+
+Readers visiting the [Advance Publication section](https://projecteuclid.org/journals/bayesian-analysis/advance-publication) will also notice an update to the journal's presentation: newly accepted *Bayesian Analysis* papers appear with the updated reference format. I hope you will like the cleaner presentation, and that it will also encourage you to browse the many excellent papers that have recently appeared in the journal.
 :::
