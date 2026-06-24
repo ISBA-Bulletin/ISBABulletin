@@ -1,6 +1,6 @@
 :::{.section_bulletin}
 # MESSAGE FROM THE PRESIDENT  {#sec-pres}
-[Antonio Lioji](mailto:president@bayesian.org){style="color:white; text-align: center;"}
+[Antonio Lijoi](mailto:president@bayesian.org){style="color:white; text-align: center;"}
 :::
 
 ::: {.column-margin}
