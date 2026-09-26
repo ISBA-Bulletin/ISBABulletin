@@ -3,6 +3,10 @@
 
 ---
 
+{{< include  contributions/_statement.qmd >}}
+
+---
+
 {{< include contributions/_editor.qmd >}}
 
 ---
@@ -15,7 +19,11 @@
 
 ---
 
-{{< include  contributions/_adhoc.qmd >}}
+{{< include  contributions/_PrizeComm.qmd >}}
+
+---
+
+{{< include  contributions/_fellows.qmd >}}
 
 ---
 
@@ -23,15 +31,11 @@
 
 ---
 
-{{< include  contributions/_BayesSS.qmd >}}
+{{< include  contributions/_BayesAI.qmd >}}
 
 ---
 
 {{< include  contributions/_news.qmd >}}
-
----
-
-{{< include  contributions/_teaching.qmd >}}
 
 ---
 

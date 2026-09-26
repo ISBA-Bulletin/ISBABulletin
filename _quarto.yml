@@ -1,5 +1,5 @@
 title: "The ISBA Bulletin"
-subtitle: "June 2026 - Vol. 33 No. 2"
+subtitle: "September 2026 - Vol. 33 No. 3"
 css: styles.css
 project:
   type: website
@@ -23,7 +23,7 @@ format:
     other-links:
       - text: "PDF version"
         icon: filetype-pdf
-        href: "pdf/IB-2606.pdf"
+        href: "pdf/IB-2609.pdf"
       - text: "HTML ISBA Bulletin Archive"
         href: "html_arch/list_of_bulletins.html"  
         icon: filetype-html

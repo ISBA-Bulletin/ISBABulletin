@@ -11,8 +11,9 @@ margin:10px 20px;border-radius: 10px;max-width: 100%;"}
 <br>
 
 :::{.justify}
-**ISBA World Meeting 2026.** The ISBA 2026 World Meeting is just around the corner! Its outstanding program has nearly 900 participants (including over 250 invited speakers and close to 400 poster presentations) and over 100 travel awards for junior researchers. We are looking forward to seeing you there!
-
-**(Co)-sponsorship & Endorsement Requests.** If you are planning a meeting and would like to request financial sponsorship (or co-sponsorship) or non-financial endorsement from ISBA, please submit your request to the Program Council at program-council@bayesian.org. Detailed information on how to submit requests for sponsorship or endorsement is available [here](https://bayesian.org/events/request-sponsorshipendorsement/).
+**(Co)-sponsorship & Endorsement Requests.** If you are planning a meeting and would like to request
+financial sponsorship (or co-sponsorship) or non-financial endorsement from ISBA, please submit
+your request to the Program Council at [program-council@bayesian.org](mailto:program-council@bayesian.org). Detailed information on how to submit
+requests for sponsorship or endorsement is available [here](https://bayesian.org/events/request-sponsorshipendorsement/).
 :::
 

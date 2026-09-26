@@ -1,0 +1,41 @@
+:::{.section_bulletin}
+# NEWS FROM THE BAYESIAN AI SECTION {#sec-bayesAI}
+[Sinead Williamson, Julyan Arbel, Vincent Fortuin, Theodore Papamarkou, Sara Wade](mailto:julyan.arbel@inria.fr,sara.wade@ed.ac.uk){style="color:white; text-align: center;"}
+:::
+
+  
+<br>
+  
+:::{.justify}
+We are delighted to announce the launch of the new [Bayesian AI (BayesAI)](https://bayesai-isba.github.io/) Section of ISBA. The Section brings together the Bayesian statistics and artificial intelligence communities to promote the research, application, and dissemination of Bayesian ideas in modern machine learning and AI.
+
+BayesAI will support interactions across the two communities through workshops, conference sessions, webinars, short courses, software development, and support for early-career researchers. Scientifically, we aim to encourage work on scaling Bayesian methods to contemporary AI models, while also exploring the role of Bayesian principles beyond inference, including reasoning, decision-making, and online learning.
+
+The 2026 BayesAI board consists of Sinead Williamson (Chair), Julyan Arbel (Chair Elect), Vincent Fortuin (Program Chair), Theodore Papamarkou (Treasurer), and Sara Wade (Secretary). Visit the [BayesAI-ISBA website](https://bayesai-isba.github.io/) to learn more and join the Section.
+
+## Bayesian Deep Learning course materials
+
+At the 2026 ISBA World Meeting in Nagoya, Julyan Arbel, Sara Wade, and Vincent Fortuin presented a short course on *Bayesian Deep Learning*, aimed at both Bayesians new to deep learning and machine learning researchers interested in Bayesian principles.
+
+The course covers Bayesian neural networks, approximate inference, priors, symmetries and non-identifiability, marginal likelihood, singular learning theory, and scalable methods, together with a hands-on NumPyro practical comparing MAP, variational inference, and MCMC.
+
+All [course materials](https://github.com/sarawade/BDL_short_course_2026) are available, including slides, [YouTube videos](https://www.youtube.com/playlist?list=PLUaj_wLsosMTq0UjsS7mdXgrPj8j0mjSl), and practical materials.
+
+## Bayesian Deep Learning book
+
+![](figures/bayes_and_ai.png){.img-right}
+
+We are also pleased to announce the community-authored book *Handbook of Bayesian Deep Learning*. The [pdf](https://doi.org/10.5281/zenodo.22086449) and [Jupyter Book](https://bdlbook.org/) versions are freely available online.
+
+The book provides a broad introduction to bringing Bayesian inference to modern deep learning. Its ten parts span Monte Carlo methods, Laplace approximations, variational inference, ensembles, kernel and Gaussian-process methods, neural-network priors, symmetries and non-identifiability, scalable inference, applications and software, and emerging research directions.
+
+The book is intended both as an introduction to the field and as a reference for current research. Proceeds will support BayesAI activities, including travel support and prizes for researchers.
+
+## Join us in Edinburgh: BayesAI 2026
+
+The inaugural meeting of the BayesAI Section will take place in Edinburgh on **26--30 October 2026**, as part of the third workshop on [*Rethinking the Role of Bayesianism in the Age of Modern AI*](https://workshops.inf.ed.ac.uk/ml/bayesai/), following earlier meetings at Dagstuhl in 2024 and MBZUAI in 2025.
+
+The workshop will ask what role Bayesian thinking should play in the next generation of AI. It will bring together researchers working across Bayesian statistics and machine learning to discuss uncertainty, reliability, robustness, scalable probabilistic reasoning, generative models, and other emerging directions. The programme will feature invited talks, discussions, lightning talks, and posters, with postgraduate students and early-career researchers especially encouraged to participate.
+
+We hope BayesAI will provide an active home within ISBA for researchers working at the interface of Bayesian statistics and modern AI. [Join the Section](https://bayesai-isba.github.io/), and we hope to see you [in Edinburgh in October](https://workshops.inf.ed.ac.uk/ml/bayesai/)!
+:::

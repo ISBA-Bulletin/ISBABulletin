@@ -12,64 +12,23 @@ margin:10px 20px;border-radius: 10px;max-width: 100%;"}
 <br>
 
 :::{.justify}
-In view of the ISBA World Meeting in Nagoya, I am pleased to share a few updates on *Bayesian Analysis*.
+The strong growth in submissions to *Bayesian Analysis* has continued throughout 2026: by the end of August, we had already received 282 submissions, compared with 327 during the whole of 2025, itself a record year for the journal.
 
-### 2025 Submissions and Review Times
+Despite this substantial increase in volume, our streak of sending decisions within four months of submission is still alive: we have now cleared all papers submitted through May 31, 2026. Maintaining timely and consistent turnaround times while preserving the constructive and thorough feedback that is part of the *Bayesian Analysis* tradition is becoming increasingly demanding. A big thank you, once again, to our Co-Editors, Associate Editors, and Referees for their dedication and extraordinary efforts for making this possible.
 
-The first message is that submissions to the journal continue to increase. In 2025, *Bayesian Analysis* received 327 submissions overall, the highest number in the history of the journal and above the levels reached during the COVID-19 years. The first five months of 2026 suggest that the upward trend is continuing, with the journal projected to receive slightly more than 400 submissions for the full year.
+## Lindley Prize
 
-::: {#fig-ba-decision-times fig-cap="Submissions to Bayesian Analysis over time. The first 2026 bar reports submissions received up to 31 May; the second gives the corresponding full-year projection."}
-![](contributions/figures/BA_submissions_2013_2026-1.png)
-:::
+The 2024 [Lindley Prize](https://bayesian.org/project/lindley-prize/) was awarded during the banquet at the [2026 ISBA World Meeting in Nagoya](https://isba2026.github.io/). Congratulations to Jim Griffin, whose paper ["Expressing and Visualizing Model Uncertainty in Bayesian Variable Selection Using Cartesian Credible Sets"](https://doi.org/10.1214/25-BA1568) won the prize, and to Changwoo Lee, Alessandro Zito, Huiyan Sang, and David Dunson, whose paper ["Logistic-Beta Processes for Dependent Random Probabilities with Beta Marginals"](https://doi.org/10.1214/25-BA1541) received an honorable mention. I am also very grateful to all members of the Lindley Prize Committee for their careful and thoughtful work.
 
-This is a very positive sign for the journal. It reflects the central role of *Bayesian Analysis* in the Bayesian community and the continuing vitality of our field. At the same time, it creates a substantial workload for Co-Editors, Associate Editors, and Referees. Maintaining high editorial standards while keeping turnaround times predictable is therefore one of our main operational priorities.
+With one edition of the prize concluded, it is already time to look ahead to the next one. Papers presented at the [2026 ISBA World Meeting in Nagoya](https://isba2026.github.io/) can be considered for the 2026 Lindley Prize, provided they are submitted to *Bayesian Analysis* by September 30, 2026. Authors should indicate in their cover letter that the paper is being submitted for consideration for the Lindley Prize and provide the identification number of the session in which the work was presented. Let me also add that those who have already submitted an eligible paper without indicating the prize can still enter by contacting me by the same deadline and providing the relevant session information.
 
-We now have a complete picture of the first editorial decisions for submissions received in 2025. Among regular submissions, 35.6% received a desk decision by one of the Co-Editors or by me, while the remaining 64.4% were sent to Associate Editors for further review. Figure 1 shows empirical survival curves for the time to first decision for submissions received in 2025, separately for papers receiving a desk decision and papers sent to Associate Editors.
+## Special Discussion Paper
 
-::: {#fig-ba-decision-times fig-cap="Empirical survival curves for time to first decision for submissions received in 2025, separately for desk decisions and submissions sent to Associate Editors." fig-numbers=false}
+It is a great pleasure to announce a special discussion paper in *Bayesian Analysis*: ["Dependent Dirichlet Processes"](https://doi.org/10.1214/26-BA1610) by Steven N. MacEachern, his original 2000 manuscript. The paper is accompanied by ["A Modern Perspective on Dependent Dirichlet Processes"](https://doi.org/10.1214/26-BA1610INV0) by Steven N. MacEachern, Juhee Lee, and Hang J. Kim. Together, the two contributions combine the original formulation of what has become a highly influential class of Bayesian nonparametric models with a contemporary perspective on its development and impact.
 
-::: columns
+We now welcome contributed discussions. Contributions may address the original DDP paper, the accompanying contemporary perspective, or more broadly the development, evolution, and future directions of dependent Dirichlet processes and related models. Discussions should be no more than two pages long and prepared using the BA style files, available through the [Bayesian Analysis author resources](https://projecteuclid.org/journals/bayesian-analysis/author-guidelines) on Project Euclid. Please submit your discussion via [EJMS](https://www.e-publications.org/ims/submission/) by October 15, 2026, selecting "Contributed Discussion" as the manuscript type and indicating that the discussion refers to MacEachern's "Dependent Dirichlet Processes" (BA1610).
 
-::: column
-![](contributions/figures/BA_desk_dec_2025-1.png)
-:::
+## September Issue and Advance Publication
 
-::: column
-![](contributions/figures/BA_full_dec_2025-1.png)
-:::
-
-:::
-
-:::
-Desk decisions were typically reached within a few days, reflecting an effort to provide rapid initial screening. For papers sent to Associate Editors, the median time to first decision was 73 days. All submissions received in 2025 have received a first decision within the four-month window, and I am glad to report that this target has continued to be met for submissions received through February 2026.
-
-These figures should not be read as prioritizing speed over quality. The strength of *Bayesian Analysis* has always been the combination of careful editorial judgment and constructive feedback. The main objective is instead to avoid outliers in decision times and to give authors greater predictability about the editorial timeline. I thank our Managing Editor, Francesco Sanna Passino, for his careful work in assembling the editorial data.
-
-The increase in submissions, combined with the ambitious four-month target, means that we rely more than ever on the support of the Bayesian community. I am especially grateful to the Co-Editors, Associate Editors, and Referees for their collective work. I hope that many of you will continue to help the journal by reviewing papers when asked and by providing careful and timely reports.
-
-### Lindley Prize
-
-Let me also remind readers of the call for papers for the 2026 Lindley Prize. The prize is awarded for innovative research in Bayesian statistics. Eligible papers must be presented at the ISBA 2026 World Meeting in Nagoya and accepted for publication in *Bayesian Analysis*. Submissions are welcome from any presenter, whether invited or contributed, for oral or poster presentations. Papers should be submitted electronically to *Bayesian Analysis* by September 30, 2026, indicating in the cover letter that the manuscript is being submitted for the Lindley Prize and including the identification number of the session in which the work was presented. Further information is available on the [Lindley Prize webpage](https://bayesian.org/project/lindley-prize/).
-
-The winner of the 2024 Lindley Prize will be announced during the conference banquet and awards ceremony, which will be held in the evening of Friday, July 3, 2026.
-
-### *Bayesian Analysis* at the ISBA World Meeting
-
-I also hope to see many of you at the *Bayesian Analysis Highlights* session at the ISBA World Meeting in Nagoya, scheduled for 9:00 am on Friday, July 3, 2026. The session will showcase the following three *Bayesian Analysis* papers:
-
-- Sudipto Banerjee (University of California, Los Angeles)  
-  *Bayesian inference for spatial-temporal non-Gaussian data using predictive stacking*  
-  Joint work with S. Pan, L. Zhang, and J. R. Bradley  
-
-- Kolyan Ray (Imperial College London)  
-  *Group Spike-and-Slab Variational Bayes*  
-  Joint work with M. Komodromos, M. Evangelou, and S. Filippi  
-
-- Subhashis Ghosal (North Carolina State University)  
-  *Bayesian Semi-supervised Multi-category Classification under Nonparanormality*  
-  Joint work with R. Zhu and S. Ghosh.
-
-### Advance Publication
-
-Readers visiting the [Advance Publication section](https://projecteuclid.org/journals/bayesian-analysis/advance-publication) will also notice an update to the journal's presentation: newly accepted *Bayesian Analysis* papers appear with the updated reference format. I hope you will like the cleaner presentation, and that it will also encourage you to browse the many excellent papers that have recently appeared in the journal.
+The [September issue of *Bayesian Analysis*](https://projecteuclid.org/journals/bayesian-analysis/volume-21/issue-3) has just appeared, featuring 19 papers. Its somewhat larger size reflects our continuing effort to shorten the time between Advance Publication and appearance in a regular issue. I encourage you to explore these contributions, as well as the many excellent papers recently accepted and now available in the [Advance Publication section](https://projecteuclid.org/journals/bayesian-analysis/advance-publication).
 :::

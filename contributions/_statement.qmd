@@ -1,0 +1,25 @@
+:::{.section_bulletin}
+# STATEMENT ON COMPULSORY ARTICLE PROCESSING CHARGES {#sec-statement}
+[](mailto:){style="color:white; text-align: center;"}
+:::
+
+
+<br>
+
+:::{.justify}
+The International Society for Bayesian Analysis (ISBA) is concerned by the growing adoption of publishing models in which authors are required to pay compulsory Article Processing Charges (APCs). While open access removes barriers to accessing scientific knowledge, mandatory APCs may create financial barriers to publication by shifting the cost from readers to authors.
+
+Such policies may disproportionately affect early-career researchers, scholars at institutions with limited resources, and researchers in countries where dedicated funding for APCs is unavailable. They are incompatible with the principle that scientific work should be assessed on its quality and significance, not on an author's ability to pay. While waiver schemes can partially mitigate these concerns, they do not provide a fully predictable or sustainable solution. Eligibility requirements and application procedures create uncertainty for authors as to whether publication costs will ultimately be covered. While valuable, therefore, waivers cannot by themselves ensure equitable opportunities to publish.
+
+Recent developments at *Statistics and Computing*, a journal of particular importance to the Bayesian and computational statistics communities, have further highlighted these concerns. Following the publisher's decision to introduce a compulsory APC-based model, a substantial number of editors resigned from its Editorial Board. Although this episode concerns a single journal, it illustrates a broader challenge facing scientific publishing.
+
+ISBA strongly supports the broad dissemination of scientific knowledge and welcomes sustainable initiatives that make research openly accessible. This commitment is reflected in the Society's flagship journal, *Bayesian Analysis*, which makes all published articles freely available without imposing mandatory APCs on authors. This model demonstrates that open access and equitable opportunities to publish need not be competing objectives.
+
+ISBA encourages publishers, editors, learned societies, funding agencies, and the broader research community to develop sustainable publishing models that preserve the benefits of open access without allowing the availability of funding to determine who can publish.
+
+Finally, ISBA wishes to acknowledge the extraordinary voluntary contribution of editors, associate editors, and reviewers, whose service is fundamental to maintaining the quality and integrity of scientific publishing. Their commitment represents one of the greatest strengths of our research community and should be accompanied by publishing policies that promote, rather than hinder, broad participation in scientific communication.
+
+:::{style="text-align: right;"}
+ISBA Executive Committee and Board of Directors
+:::
+:::

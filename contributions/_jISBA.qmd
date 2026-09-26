@@ -12,20 +12,19 @@ margin:10px 20px;border-radius: 10px;max-width: 100%;"}
 
 
 :::{.justify}
-Dear ISBA community,
+## BAYSM 2027: dates announced!
 
-welcome back to the j-ISBA news! Let us start with a refresher of the not-so-new news, but still relevant:
+We are pleased to confirm that the next edition of the j-ISBA conference BAYSM will be held on April 12–16, 2027. The conference will take place entirely online, with an extremely low registration fee for j-ISBA members, ensuring accessibility for early career researchers from all over the world. Abstract submissions will open in October: stay tuned for news.
 
-* [BAYSM 2026](https://baysm2026.github.io) is around the corner: we will see the many participants on June 26 and 27 in Chiba, Japan. We will gain research insights from the keynote speakers Kerrie Mengersen and Kengo Kamatani, 12 talks with discussion by Mike West, Shonosuke Sugasawa and Kaoru Irie, and 52 posters. Prizes will be awarded to the best talks and posters, so be shiny!
-* [The Blackwell-Rosenbluth Award](https://j-isba.github.io/blackwell-rosenbluth.html) applications are open until July 12. Remember to nominate your favorite junior Bayesian (who could be yourself!).
+## Organized sessions at conferences
 
-### j-ISBA mixer at ISBA
+We are organizing sessions at various conferences happening this fall, winter and spring:
 
-During ISBA, we will hold a j-ISBA event to spend some time all together, get to know nice people, and announce the next activities of j-ISBA. The j-ISBA mixer will happen on Wednesday at 8pm, after the poster session. One drink and some snacks are on us, and additional food and drinks can be purchased in the bar.
+- [International Day of Women in Statistics and Data Science (IDWSDS) 2026](https://www.idwsds.org), held online on October 6, 2026. The speakers will be Federica Zoe Ricci (Swarthmore College), Louise Alamichel (Université Clermont Auvergne), Martina Contisciani (Goethe University Frankfurt), and Jie Jian (University of Chicago).
 
-The event is limited by space constraints, and we will operate on a first-come, first-served basis. You will receive an email notification with the location address at the beginning of the ISBA week. To participate, please [fill in this form](https://docs.google.com/forms/d/e/1FAIpQLSekARMW_oYs0rS5iWmNuD-8dmzVzEqdqMFJl0uRAb0TJGrj4w/viewform?usp=dialog) before Sunday, June 28th.
+- "*New developments in Bayesian statistics: a j-ISBA sponsored session*" at the [International Indian Statistical Association (IISA) 2026](https://www.intindstat.org/conference2026/index), December 26-30, Varanasi. The speakers will be Vaidehi Dixit (University of Nottingham), Arka Banerjee (Indian Institute of Science Bangalore), and Miheer Dewaskar (University of New Mexico). Chair: Beniamino Hadj-Amar (University of South Carolina).
 
-### j-ISBA is looking for officers!
+- "*Contributions from junior Bayesians: a j-ISBA session*" at the [LACSC-TIES-EnviBayes-EnvrASA 2026](https://www.amestad.mx/lacsc-ties-envibayes-envrasa-2026), December 7-11, in Mexico City. The speakers will be Carlos Carrillo-Gallegos (Columbia University), Marco Gallegos (University of Toronto), and Dafne Zorzetto (Georgia State University).
 
-In the next ISBA elections, the j-ISBA board will need two new board members to fill the positions of Chair-Elect and Treasurer for the years 2027-2028. I can tell you firsthand that serving on the board is a really rewarding and exciting experience. Senior PhD students, postdocs, and early career researchers are encouraged to apply. Those interested in being nominated for the elections are invited to submit a CV and a motivation letter to [jisba.section@gmail.com](mailto:jisba.section@gmail.com). To be given full consideration, please limit your motivation letter to 2 pages and submit your materials by July 15, 2026.
+- "*Advances in Bayesian Nonparametric and Latent Variable Modeling: Recent Contributions from j-ISBA Members*" at the [VIII Latin American Meeting on Bayesian Statistics (COBAL) and XVIII Brazilian Meeting of Bayesian Statistics (EBEB)](https://cobalebeb2027.softaliza.com.br/), to be held in Búzios, Rio de Janeiro, from March 1 to 5, 2027. The session will feature three talks on flexible Bayesian methods for complex data, presented by j-ISBA members from different parts of the world: Santiago Marin (Australian National University), Maria Fernanda Pintado (CUNEF Madrid), and Ingrid Johana Guevara Romero (Pontificia Universidad Católica de Chile).
 :::
