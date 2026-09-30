@@ -55,7 +55,7 @@ On behalf of the ISBA Prize Committee, we are very grateful to Sara Wade, who ch
 
 **Honorable Mention:** Changwoo J. Lee, Alessandro Zito, Huiyan Sang, David B. Dunson for their paper entitled "Logistic-Beta Processes for Dependent Random Probabilities with Beta Marginals", published in Bayesian Analysis 20(4): 1345-1369, 2025.
 
-On behalf of the ISBA Prize Committee, we are very grateful to Igor Prunster, who chaired the 2024 Lindley Prize sub-committee and all colleagues who were a part of it: David Frazier, Ryan Giordano, Jonathan Huggins, Nadja Klein, Li Ma, Minerva Mukhopadhyay, Ilsang Ohn, and Yixin Wang.
+On behalf of the ISBA Prize Committee, we are very grateful to Igor Prünster, who chaired the 2024 Lindley Prize sub-committee and all colleagues who were a part of it: David Frazier, Ryan Giordano, Jonathan Huggins, Nadja Klein, Li Ma, Minerva Mukhopadhyay, Ilsang Ohn, and Yixin Wang.
 
 ### 2025 DeGroot Prize
 

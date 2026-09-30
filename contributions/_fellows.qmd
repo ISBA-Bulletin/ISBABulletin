@@ -11,7 +11,7 @@ margin:10px 20px;border-radius: 10px;max-width: 115%;"}
 
 <br>
 
-:::{.justify}
+::::{.justify}
 The ISBA Fellowship honours members who have made outstanding contributions to the statistical community, through research and publications, teaching, professional service, or service to the Society. Fellows are elected biennially from nominations submitted through an open process, with selections made by an eight-member committee of former ISBA Fellows.
 
 This year, the ISBA Fellows Committee comprised Sudipto Banerjee, Maria De Iorio, Sylvia Frühwirth-Schnatter, Michele Guindani, Antonio Lijoi,  Rosangela Helena Loschi, Li Ma and Scott Sisson.  
@@ -22,66 +22,12 @@ Warmest congratulations to all the newly elected ISBA Fellows!
 
 <br>
 
-:::{.fellow}
-:::{.fellow-text}
-**Christopher K. Wikle** (*Curators' Distinguished Professor, Department of Statistics and Data Science, University of Missouri*): For outstanding research in Bayesian statistics with application to spatio-temporal inference in geophysics and ecology, for leadership in implementing neural networks in hierarchical statistical models, for exceptional mentoring and teaching, and for sustained editorial services to professional societies.
-:::
-:::{.fellow-photo}
-<img src="ISBA_FELLOWS/Wikle_Chris.jpg"/>
-:::
-:::
-
-:::{.fellow}
-:::{.fellow-text}
+::: {.fellow}
+::: {.fellow-text}
 **David Banks** (*Professor of the Practice of Statistical Science at Duke University*): For foundational and sustained contributions to Bayesian decision and risk analysis, broad-ranging applications of statistics in societally important areas, and a substantial record of leadership in the profession, in particular for the Section on Industrial Statistics.
 :::
 :::{.fellow-photo}
 <img src="ISBA_FELLOWS/Banks_David.jpg"/>
-:::
-:::
-
-:::{.fellow}
-:::{.fellow-text}
-**Dani Gamerman** (*Emeritus Professor, Universidade Federal do Rio de Janeiro*): For his influential contributions to the early development and dissemination of MCMC methods for complex hierarchical, dynamic and spatial models and for his visionary leadership in establishing a strong Bayesian community in Brazil that has inspired and shaped multiple generations of statisticians.
-:::
-:::{.fellow-photo}
-<img src="ISBA_FELLOWS/Gamerman_Dani_2.jpg"/>
-:::
-:::
-
-:::{.fellow}
-:::{.fellow-text}
-**Debajyoti Sinha** (*Hobbs Endowed Chair of Statistics, Department of Statistics, Florida State University, USA*): For his seminal research in the development of Bayesian theory and methods for survival analysis and longitudinal studies, and for his transformative influence on Bayesian biostatistics through the creation of innovative modeling frameworks for complex clinical data science, and for his service to the international Bayesian community.
-:::
-:::{.fellow-photo}
-<img src="ISBA_FELLOWS/Debajyoti_Sinha.jpeg"/>
-:::
-:::
-
-:::{.fellow}
-:::{.fellow-text}
-**Long Nguyen** (*Professor of Statistics, University of Michigan*): For profound contributions to Bayesian statistics and machine learning, particularly in advancing Bayesian nonparametric theory; for substantial service within the community; and for dedicated and highly influential mentorship.
-:::
-:::{.fellow-photo}
-<img src="ISBA_FELLOWS/Nguyen_Long.jpg"/>
-:::
-:::
-
-:::{.fellow}
-:::{.fellow-text}
-**Matthias Katzfuss** (*Professor, Department of Statistics, University of Wisconsin--Madison*): For his groundbreaking developments in scalable Bayesian methods for high-dimensional spatial and spatio-temporal data that bridge the gap between Bayesian theory and large-scale environmental applications, and for his significant service to ISBA and the Bayesian community.
-:::
-:::{.fellow-photo}
-<img src="ISBA_FELLOWS/Katzfuss_Matthias.png"/>
-:::
-:::
-
-:::{.fellow}
-:::{.fellow-text}
-**Nicolas Chopin** (*Professor of Data Sciences at ENSAE, Institut Polytechnique de Paris*): For groundbreaking contributions to computational Bayesian statistics, for sustained and dedicated mentorship, and for long-term and distinguished editorial service.
-:::
-:::{.fellow-photo}
-<img src="ISBA_FELLOWS/Chopin_Nicholas.jpg"/>
 :::
 :::
 
@@ -96,10 +42,46 @@ Warmest congratulations to all the newly elected ISBA Fellows!
 
 :::{.fellow}
 :::{.fellow-text}
+**Nicolas Chopin** (*Professor of Data Sciences at ENSAE, Institut Polytechnique de Paris*): For groundbreaking contributions to computational Bayesian statistics, for sustained and dedicated mentorship, and for long-term and distinguished editorial service.
+:::
+:::{.fellow-photo}
+<img src="ISBA_FELLOWS/Chopin_Nicholas.jpg"/>
+:::
+:::
+
+:::{.fellow}
+:::{.fellow-text}
+**Dani Gamerman** (*Emeritus Professor, Universidade Federal do Rio de Janeiro*): For his influential contributions to the early development and dissemination of MCMC methods for complex hierarchical, dynamic and spatial models and for his visionary leadership in establishing a strong Bayesian community in Brazil that has inspired and shaped multiple generations of statisticians.
+:::
+:::{.fellow-photo}
+<img src="ISBA_FELLOWS/Gamerman_Dani_2.jpg"/>
+:::
+:::
+
+:::{.fellow}
+:::{.fellow-text}
 **Robert B. Gramacy** (*Professor, Virginia Tech*): For his pioneering work on Bayesian modeling and statistical computing, particularly in the context of computer experiments and surrogate modeling; for his continued and impactful service to ISBA as a member of the editorial board of *Bayesian Analysis* and of the Executive Council.
 :::
 :::{.fellow-photo}
 <img src="ISBA_FELLOWS/Gramacy_Robert.jpg"/>
+:::
+:::
+
+:::{.fellow}
+:::{.fellow-text}
+**Matthias Katzfuss** (*Professor, Department of Statistics, University of Wisconsin--Madison*): For his groundbreaking developments in scalable Bayesian methods for high-dimensional spatial and spatio-temporal data that bridge the gap between Bayesian theory and large-scale environmental applications, and for his significant service to ISBA and the Bayesian community.
+:::
+:::{.fellow-photo}
+<img src="ISBA_FELLOWS/Katzfuss_Matthias.png"/>
+:::
+:::
+
+:::{.fellow}
+:::{.fellow-text}
+**Long Nguyen** (*Professor of Statistics, University of Michigan*): For profound contributions to Bayesian statistics and machine learning, particularly in advancing Bayesian nonparametric theory; for substantial service within the community; and for dedicated and highly influential mentorship.
+:::
+:::{.fellow-photo}
+<img src="ISBA_FELLOWS/Nguyen_Long.jpg"/>
 :::
 :::
 
@@ -111,4 +93,22 @@ Warmest congratulations to all the newly elected ISBA Fellows!
 <img src="ISBA_FELLOWS/Omori_Yasuhiro.jpeg"/>
 :::
 :::
+
+:::{.fellow}
+:::{.fellow-text}
+**Debajyoti Sinha** (*Hobbs Endowed Chair of Statistics, Department of Statistics, Florida State University, USA*): For his seminal research in the development of Bayesian theory and methods for survival analysis and longitudinal studies, and for his transformative influence on Bayesian biostatistics through the creation of innovative modeling frameworks for complex clinical data science, and for his service to the international Bayesian community.
 :::
+:::{.fellow-photo}
+<img src="ISBA_FELLOWS/Debajyoti_Sinha.jpeg"/>
+:::
+:::
+
+:::{.fellow}
+:::{.fellow-text}
+**Christopher K. Wikle** (*Curators' Distinguished Professor, Department of Statistics and Data Science, University of Missouri*): For outstanding research in Bayesian statistics with application to spatio-temporal inference in geophysics and ecology, for leadership in implementing neural networks in hierarchical statistical models, for exceptional mentoring and teaching, and for sustained editorial services to professional societies.
+:::
+:::{.fellow-photo}
+<img src="ISBA_FELLOWS/Wikle_Chris.jpg"/>
+:::
+:::
+::::
